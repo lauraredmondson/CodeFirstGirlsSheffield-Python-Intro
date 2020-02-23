@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Arimo');
 
 h1 {
-  font-size: 30pt;
+  font-size: 27pt;
   color: #c6213f;
   font-family: 'Arimo', sans-serif;
 }
@@ -17,7 +17,7 @@ h2 {
 }
 
 h3 {
-  font-size: 15pt;
+  font-size: 17pt;
   color: #232323 !important;
   font-family: 'Arimo', sans-serif !important;
   page-break-inside: avoid;
@@ -27,7 +27,7 @@ h3 {
 
 body {
   font-family: 'Questrial', sans-serif !important;
-  font-size: 12pt;
+  font-size: 15pt;
 }
 
 p code {

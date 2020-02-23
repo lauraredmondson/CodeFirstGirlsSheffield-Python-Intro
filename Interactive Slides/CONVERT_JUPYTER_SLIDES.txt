@@ -39,6 +39,6 @@ activate venv
 activate CFG
 
 navigate to folder:
-cd Documents\CFG\CodeFirstGirlsSheffield-Python-Intro\Student Guides\Homework\markdown_files
+cd Documents\CFG\CodeFirstGirlsSheffield-Python-Intro\Homework\markdown_files
 
-pandoc -t html --css stylesheet.css session_1-solutions.md -o output_1.pdf -V margin-top=20 -V margin-left=20 -V margin-right=20 -V margin-bottom=20
+pandoc -t html --css stylesheet.css session_1_solutions.md -o output_1.pdf -V margin-top=20 -V margin-left=20 -V margin-right=20 -V margin-bottom=20
