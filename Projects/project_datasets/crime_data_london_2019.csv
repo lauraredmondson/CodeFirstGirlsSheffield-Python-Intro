@@ -1,0 +1,3393 @@
+Crime_ID,Month,Area,Crime_type,Outcome
+1,December,Barking and Dagenham,Criminal damage and arson,Offender given a caution
+2,December,Barking and Dagenham,Criminal damage and arson,Suspect charged
+3,December,Barking and Dagenham,Drugs,Local resolution
+4,December,Barking and Dagenham,Drugs,Local resolution
+5,December,Barking and Dagenham,Drugs,Local resolution
+6,December,Barking and Dagenham,Drugs,Local resolution
+7,December,Barking and Dagenham,Drugs,Local resolution
+8,December,Barking and Dagenham,Drugs,Local resolution
+9,December,Barking and Dagenham,Drugs,Local resolution
+10,December,Barking and Dagenham,Drugs,Local resolution
+11,December,Barking and Dagenham,Drugs,Local resolution
+12,December,Barking and Dagenham,Drugs,Local resolution
+13,December,Barking and Dagenham,Drugs,Local resolution
+14,December,Barking and Dagenham,Drugs,Local resolution
+15,December,Barking and Dagenham,Drugs,Local resolution
+16,December,Barking and Dagenham,Drugs,Local resolution
+17,December,Barking and Dagenham,Drugs,Local resolution
+18,December,Barking and Dagenham,Drugs,Local resolution
+19,December,Barking and Dagenham,Drugs,Local resolution
+20,December,Barking and Dagenham,Drugs,Local resolution
+21,December,Barking and Dagenham,Drugs,Local resolution
+22,December,Barking and Dagenham,Drugs,Local resolution
+23,December,Barking and Dagenham,Drugs,Local resolution
+24,December,Barking and Dagenham,Drugs,Local resolution
+25,December,Barking and Dagenham,Drugs,Local resolution
+26,December,Barking and Dagenham,Drugs,Local resolution
+27,December,Barking and Dagenham,Drugs,Local resolution
+28,December,Barking and Dagenham,Drugs,Local resolution
+29,December,Barking and Dagenham,Drugs,Local resolution
+30,December,Barking and Dagenham,Drugs,Local resolution
+31,December,Barking and Dagenham,Drugs,Local resolution
+32,December,Barking and Dagenham,Drugs,Local resolution
+33,December,Barking and Dagenham,Drugs,Offender given a caution
+34,December,Barking and Dagenham,Drugs,Offender given a caution
+35,December,Barking and Dagenham,Drugs,Offender given a drugs possession warning
+36,December,Barking and Dagenham,Drugs,Offender given penalty notice
+37,December,Barking and Dagenham,Drugs,Offender given penalty notice
+38,December,Barking and Dagenham,Drugs,Offender given penalty notice
+39,December,Barking and Dagenham,Drugs,Offender given penalty notice
+40,December,Barking and Dagenham,Drugs,Offender given penalty notice
+41,December,Barking and Dagenham,Drugs,Offender given penalty notice
+42,December,Barking and Dagenham,Drugs,Offender given penalty notice
+43,December,Barking and Dagenham,Drugs,Offender given penalty notice
+44,December,Barking and Dagenham,Drugs,Suspect charged
+45,December,Barking and Dagenham,Drugs,Suspect charged
+46,December,Barking and Dagenham,Drugs,Suspect charged
+47,December,Barking and Dagenham,Drugs,Suspect charged
+48,December,Barking and Dagenham,Drugs,Suspect charged
+49,December,Barking and Dagenham,Drugs,Suspect charged
+50,December,Barking and Dagenham,Drugs,Suspect charged
+51,December,Barking and Dagenham,Drugs,Suspect charged
+52,December,Barking and Dagenham,Other crime,Suspect charged
+53,December,Barking and Dagenham,Possession of weapons,Suspect charged
+54,December,Barking and Dagenham,Possession of weapons,Suspect charged
+55,December,Barking and Dagenham,Public order,Offender given penalty notice
+56,December,Barking and Dagenham,Public order,Suspect charged
+57,December,Barking and Dagenham,Public order,Suspect charged
+58,December,Barking and Dagenham,Public order,Suspect charged
+59,December,Barking and Dagenham,Public order,Suspect charged
+60,December,Barking and Dagenham,Public order,Suspect charged
+61,December,Barking and Dagenham,Vehicle crime,Suspect charged
+62,December,Barking and Dagenham,Violence,Offender given a caution
+63,December,Barking and Dagenham,Violence,Suspect charged
+64,December,Barking and Dagenham,Violence,Suspect charged
+65,December,Barking and Dagenham,Violence,Suspect charged
+66,December,Barking and Dagenham,Violence,Suspect charged
+67,December,Barking and Dagenham,Violence,Suspect charged
+68,December,Barking and Dagenham,Violence,Suspect charged
+69,December,Barking and Dagenham,Violence,Suspect charged
+70,December,Barking and Dagenham,Violence,Suspect charged
+71,December,Barking and Dagenham,Violence,Suspect charged
+72,December,Barking and Dagenham,Violence,Suspect charged
+73,December,Barking and Dagenham,Violence,Suspect charged
+74,December,Barking and Dagenham,Violence,Suspect charged
+75,December,Barking and Dagenham,Violence,Suspect charged
+76,December,Barking and Dagenham,Violence,Suspect charged
+77,December,Barking and Dagenham,Violence,Suspect charged
+78,December,Barking and Dagenham,Violence,Suspect charged
+79,December,Barking and Dagenham,Violence,Suspect charged
+80,December,Barking and Dagenham,Violence,Suspect charged
+81,December,Barnet,Burglary,Suspect charged
+82,December,Barnet,Burglary,Suspect charged
+83,December,Barnet,Burglary,Suspect charged
+84,December,Barnet,Burglary,Suspect charged
+85,December,Barnet,Burglary,Suspect charged
+86,December,Barnet,Burglary,Suspect charged
+87,December,Barnet,Burglary,Suspect charged
+88,December,Barnet,Burglary,Suspect charged
+89,December,Barnet,Burglary,Suspect charged
+90,December,Barnet,Criminal damage and arson,Offender given a caution
+91,December,Barnet,Criminal damage and arson,Offender given a caution
+92,December,Barnet,Criminal damage and arson,Suspect charged
+93,December,Barnet,Criminal damage and arson,Suspect charged
+94,December,Barnet,Criminal damage and arson,Suspect charged
+95,December,Barnet,Criminal damage and arson,Suspect charged
+96,December,Barnet,Drugs,Local resolution
+97,December,Barnet,Drugs,Local resolution
+98,December,Barnet,Drugs,Local resolution
+99,December,Barnet,Drugs,Local resolution
+100,December,Barnet,Drugs,Local resolution
+101,December,Barnet,Drugs,Local resolution
+102,December,Barnet,Drugs,Local resolution
+103,December,Barnet,Drugs,Local resolution
+104,December,Barnet,Drugs,Local resolution
+105,December,Barnet,Drugs,Local resolution
+106,December,Barnet,Drugs,Local resolution
+107,December,Barnet,Drugs,Local resolution
+108,December,Barnet,Drugs,Local resolution
+109,December,Barnet,Drugs,Local resolution
+110,December,Barnet,Drugs,Local resolution
+111,December,Barnet,Drugs,Offender given penalty notice
+112,December,Barnet,Drugs,Suspect charged
+113,December,Barnet,Drugs,Suspect charged
+114,December,Barnet,Drugs,Suspect charged
+115,December,Barnet,Other crime,Offender given a caution
+116,December,Barnet,Other crime,Suspect charged
+117,December,Barnet,Possession of weapons,Suspect charged
+118,December,Barnet,Possession of weapons,Suspect charged
+119,December,Barnet,Public order,Investigation complete; no suspect identified
+120,December,Barnet,Public order,Suspect charged
+121,December,Barnet,Public order,Suspect charged
+122,December,Barnet,Robbery,Suspect charged
+123,December,Barnet,Shoplifting,Local resolution
+124,December,Barnet,Shoplifting,Offender given a caution
+125,December,Barnet,Shoplifting,Offender given a caution
+126,December,Barnet,Shoplifting,Suspect charged
+127,December,Barnet,Shoplifting,Suspect charged
+128,December,Barnet,Shoplifting,Suspect charged
+129,December,Barnet,Shoplifting,Suspect charged
+130,December,Barnet,Shoplifting,Suspect charged
+131,December,Barnet,Shoplifting,Suspect charged
+132,December,Barnet,Shoplifting,Suspect charged
+133,December,Barnet,Shoplifting,Suspect charged
+134,December,Barnet,Shoplifting,Suspect charged
+135,December,Barnet,Vehicle crime,Suspect charged
+136,December,Barnet,Violence,Local resolution
+137,December,Barnet,Violence,Offender given a caution
+138,December,Barnet,Violence,Offender given a caution
+139,December,Barnet,Violence,Offender given a caution
+140,December,Barnet,Violence,Offender given a caution
+141,December,Barnet,Violence,Offender given a caution
+142,December,Barnet,Violence,Offender given a caution
+143,December,Barnet,Violence,Suspect charged
+144,December,Barnet,Violence,Suspect charged
+145,December,Barnet,Violence,Suspect charged
+146,December,Barnet,Violence,Suspect charged
+147,December,Barnet,Violence,Suspect charged
+148,December,Barnet,Violence,Suspect charged
+149,December,Barnet,Violence,Suspect charged
+150,December,Barnet,Violence,Suspect charged
+151,December,Barnet,Violence,Suspect charged
+152,December,Barnet,Violence,Suspect charged
+153,December,Barnet,Violence,Suspect charged
+154,December,Barnet,Violence,Suspect charged
+155,December,Barnet,Violence,Suspect charged
+156,December,Barnet,Violence,Suspect charged
+157,December,Barnet,Violence,Suspect charged
+158,December,Barnet,Violence,Suspect charged
+159,December,Barnet,Violence,Suspect charged
+160,December,Barnet,Violence,Suspect charged
+161,December,Barnet,Violence,Suspect charged
+162,December,Bexley,Burglary,Suspect charged
+163,December,Bexley,Criminal damage and arson,Local resolution
+164,December,Bexley,Criminal damage and arson,Offender given a caution
+165,December,Bexley,Criminal damage and arson,Offender given a caution
+166,December,Bexley,Drugs,Investigation complete; no suspect identified
+167,December,Bexley,Drugs,Local resolution
+168,December,Bexley,Drugs,Local resolution
+169,December,Bexley,Drugs,Local resolution
+170,December,Bexley,Drugs,Local resolution
+171,December,Bexley,Drugs,Local resolution
+172,December,Bexley,Drugs,Local resolution
+173,December,Bexley,Drugs,Local resolution
+174,December,Bexley,Drugs,Local resolution
+175,December,Bexley,Drugs,Local resolution
+176,December,Bexley,Drugs,Local resolution
+177,December,Bexley,Drugs,Local resolution
+178,December,Bexley,Drugs,Local resolution
+179,December,Bexley,Drugs,Offender given a caution
+180,December,Bexley,Drugs,Offender given penalty notice
+181,December,Bexley,Drugs,Offender given penalty notice
+182,December,Bexley,Drugs,Suspect charged
+183,December,Bexley,Drugs,Suspect charged
+184,December,Bexley,Drugs,Suspect charged
+185,December,Bexley,Drugs,Suspect charged
+186,December,Bexley,Drugs,Suspect charged
+187,December,Bexley,Other crime,Local resolution
+188,December,Bexley,Other crime,Suspect charged
+189,December,Bexley,Other crime,Suspect charged
+190,December,Bexley,Possession of weapons,Suspect charged
+191,December,Bexley,Public order,Offender given penalty notice
+192,December,Bexley,Public order,Suspect charged
+193,December,Bexley,Public order,Suspect charged
+194,December,Bexley,Public order,Suspect charged
+195,December,Bexley,Robbery,Suspect charged
+196,December,Bexley,Shoplifting,Local resolution
+197,December,Bexley,Shoplifting,Offender given penalty notice
+198,December,Bexley,Shoplifting,Suspect charged
+199,December,Bexley,Violence,Local resolution
+200,December,Bexley,Violence,Offender given a caution
+201,December,Bexley,Violence,Offender given a caution
+202,December,Bexley,Violence,Offender given a caution
+203,December,Bexley,Violence,Suspect charged
+204,December,Bexley,Violence,Suspect charged
+205,December,Bexley,Violence,Suspect charged
+206,December,Bexley,Violence,Suspect charged
+207,December,Bexley,Violence,Suspect charged
+208,December,Bexley,Violence,Suspect charged
+209,December,Brent,Burglary,Suspect charged
+210,December,Brent,Burglary,Suspect charged
+211,December,Brent,Criminal damage and arson,Suspect charged
+212,December,Brent,Criminal damage and arson,Suspect charged
+213,December,Brent,Criminal damage and arson,Suspect charged
+214,December,Brent,Criminal damage and arson,Suspect charged
+215,December,Brent,Criminal damage and arson,Suspect charged
+216,December,Brent,Criminal damage and arson,Suspect charged
+217,December,Brent,Criminal damage and arson,Suspect charged
+218,December,Brent,Criminal damage and arson,Local resolution
+219,December,Brent,Drugs,Offender given penalty notice
+220,December,Brent,Drugs,Local resolution
+221,December,Brent,Drugs,Offender given penalty notice
+222,December,Brent,Drugs,Local resolution
+223,December,Brent,Drugs,Offender given penalty notice
+224,December,Brent,Drugs,Suspect charged
+225,December,Brent,Drugs,Suspect charged
+226,December,Brent,Drugs,Local resolution
+227,December,Brent,Drugs,Suspect charged
+228,December,Brent,Drugs,Local resolution
+229,December,Brent,Drugs,Offender given penalty notice
+230,December,Brent,Drugs,Local resolution
+231,December,Brent,Drugs,Local resolution
+232,December,Brent,Drugs,Local resolution
+233,December,Brent,Drugs,Offender given penalty notice
+234,December,Brent,Drugs,Local resolution
+235,December,Brent,Drugs,Local resolution
+236,December,Brent,Drugs,Local resolution
+237,December,Brent,Drugs,Local resolution
+238,December,Brent,Drugs,Local resolution
+239,December,Brent,Drugs,Offender given a drugs possession warning
+240,December,Brent,Drugs,Local resolution
+241,December,Brent,Drugs,Local resolution
+242,December,Brent,Drugs,Local resolution
+243,December,Brent,Drugs,Suspect charged
+244,December,Brent,Drugs,Local resolution
+245,December,Brent,Drugs,Offender given penalty notice
+246,December,Brent,Drugs,Local resolution
+247,December,Brent,Drugs,Local resolution
+248,December,Brent,Drugs,Local resolution
+249,December,Brent,Drugs,Local resolution
+250,December,Brent,Drugs,Local resolution
+251,December,Brent,Drugs,Local resolution
+252,December,Brent,Drugs,Offender given a caution
+253,December,Brent,Drugs,Local resolution
+254,December,Brent,Drugs,Local resolution
+255,December,Brent,Drugs,Suspect charged
+256,December,Brent,Drugs,Offender given penalty notice
+257,December,Brent,Drugs,Suspect charged
+258,December,Brent,Drugs,Suspect charged
+259,December,Brent,Drugs,Suspect charged
+260,December,Brent,Drugs,Local resolution
+261,December,Brent,Drugs,Local resolution
+262,December,Brent,Drugs,Offender given penalty notice
+263,December,Brent,Drugs,Local resolution
+264,December,Brent,Drugs,Local resolution
+265,December,Brent,Drugs,Suspect charged
+266,December,Brent,Other crime,Suspect charged
+267,December,Brent,Other crime,Suspect charged
+268,December,Brent,Other crime,Suspect charged
+269,December,Brent,Other crime,Local resolution
+270,December,Brent,Other theft,Local resolution
+271,December,Brent,Possession of weapons,Suspect charged
+272,December,Brent,Possession of weapons,Suspect charged
+273,December,Brent,Possession of weapons,Suspect charged
+274,December,Brent,Possession of weapons,Suspect charged
+275,December,Brent,Public order,Suspect charged
+276,December,Brent,Public order,Suspect charged
+277,December,Brent,Public order,Suspect charged
+278,December,Brent,Public order,Suspect charged
+279,December,Brent,Robbery,Suspect charged
+280,December,Brent,Robbery,Suspect charged
+281,December,Brent,Robbery,Suspect charged
+282,December,Brent,Shoplifting,Suspect charged
+283,December,Brent,Shoplifting,Suspect charged
+284,December,Brent,Shoplifting,Suspect charged
+285,December,Brent,Shoplifting,Suspect charged
+286,December,Brent,Theft from the person,Local resolution
+287,December,Brent,Violence,Suspect charged
+288,December,Brent,Violence,Suspect charged
+289,December,Brent,Violence,Suspect charged
+290,December,Brent,Violence,Suspect charged
+291,December,Brent,Violence,Suspect charged
+292,December,Brent,Violence,Suspect charged
+293,December,Brent,Violence,Suspect charged
+294,December,Brent,Violence,Suspect charged
+295,December,Brent,Violence,Suspect charged
+296,December,Brent,Violence,Offender given a caution
+297,December,Brent,Violence,Suspect charged
+298,December,Brent,Violence,Offender given a caution
+299,December,Brent,Violence,Local resolution
+300,December,Brent,Violence,Offender given a caution
+301,December,Brent,Violence,Suspect charged
+302,December,Brent,Violence,Suspect charged
+303,December,Brent,Violence,Offender given a caution
+304,December,Brent,Violence,Suspect charged
+305,December,Brent,Violence,Suspect charged
+306,December,Brent,Violence,Suspect charged
+307,December,Brent,Violence,Suspect charged
+308,December,Brent,Violence,Suspect charged
+309,December,Brent,Violence,Suspect charged
+310,December,Brent,Violence,Suspect charged
+311,December,Brent,Violence,Suspect charged
+312,December,Brent,Violence,Suspect charged
+313,December,Bromley,Burglary,Suspect charged
+314,December,Bromley,Burglary,Suspect charged
+315,December,Bromley,Burglary,Suspect charged
+316,December,Bromley,Burglary,Suspect charged
+317,December,Bromley,Burglary,Suspect charged
+318,December,Bromley,Burglary,Suspect charged
+319,December,Bromley,Criminal damage and arson,Local resolution
+320,December,Bromley,Criminal damage and arson,Local resolution
+321,December,Bromley,Criminal damage and arson,Suspect charged
+322,December,Bromley,Criminal damage and arson,Suspect charged
+323,December,Bromley,Criminal damage and arson,Suspect charged
+324,December,Bromley,Criminal damage and arson,Suspect charged
+325,December,Bromley,Criminal damage and arson,Local resolution
+326,December,Bromley,Criminal damage and arson,Suspect charged
+327,December,Bromley,Criminal damage and arson,Offender given a caution
+328,December,Bromley,Criminal damage and arson,Local resolution
+329,December,Bromley,Criminal damage and arson,Local resolution
+330,December,Bromley,Criminal damage and arson,Local resolution
+331,December,Bromley,Criminal damage and arson,Offender given a caution
+332,December,Bromley,Drugs,Offender given a drugs possession warning
+333,December,Bromley,Drugs,Offender given a caution
+334,December,Bromley,Drugs,Local resolution
+335,December,Bromley,Drugs,Local resolution
+336,December,Bromley,Drugs,Local resolution
+337,December,Bromley,Drugs,Local resolution
+338,December,Bromley,Drugs,Local resolution
+339,December,Bromley,Drugs,Offender given penalty notice
+340,December,Bromley,Drugs,Local resolution
+341,December,Bromley,Drugs,Local resolution
+342,December,Bromley,Drugs,Local resolution
+343,December,Bromley,Drugs,Local resolution
+344,December,Bromley,Drugs,Local resolution
+345,December,Bromley,Drugs,Local resolution
+346,December,Bromley,Drugs,Local resolution
+347,December,Bromley,Drugs,Suspect charged
+348,December,Bromley,Drugs,Local resolution
+349,December,Bromley,Drugs,Suspect charged
+350,December,Bromley,Drugs,Local resolution
+351,December,Bromley,Drugs,Offender given a caution
+352,December,Bromley,Drugs,Local resolution
+353,December,Bromley,Drugs,Suspect charged
+354,December,Bromley,Drugs,Local resolution
+355,December,Bromley,Drugs,Local resolution
+356,December,Bromley,Drugs,Local resolution
+357,December,Bromley,Drugs,Local resolution
+358,December,Bromley,Drugs,Local resolution
+359,December,Bromley,Drugs,Offender given a caution
+360,December,Bromley,Drugs,Offender given a drugs possession warning
+361,December,Bromley,Drugs,Offender given a drugs possession warning
+362,December,Bromley,Drugs,Offender given a drugs possession warning
+363,December,Bromley,Drugs,Suspect charged
+364,December,Bromley,Drugs,Suspect charged
+365,December,Bromley,Drugs,Local resolution
+366,December,Bromley,Drugs,Local resolution
+367,December,Bromley,Drugs,Local resolution
+368,December,Bromley,Drugs,Local resolution
+369,December,Bromley,Drugs,Local resolution
+370,December,Bromley,Drugs,Offender given penalty notice
+371,December,Bromley,Drugs,Local resolution
+372,December,Bromley,Drugs,Offender given a caution
+373,December,Bromley,Drugs,Local resolution
+374,December,Bromley,Drugs,Offender given a caution
+375,December,Bromley,Drugs,Suspect charged
+376,December,Bromley,Drugs,Local resolution
+377,December,Bromley,Drugs,Local resolution
+378,December,Bromley,Drugs,Local resolution
+379,December,Bromley,Drugs,Local resolution
+380,December,Bromley,Drugs,Local resolution
+381,December,Bromley,Drugs,Local resolution
+382,December,Bromley,Drugs,Local resolution
+383,December,Bromley,Drugs,Local resolution
+384,December,Bromley,Drugs,Local resolution
+385,December,Bromley,Drugs,Local resolution
+386,December,Bromley,Drugs,Local resolution
+387,December,Bromley,Drugs,Local resolution
+388,December,Bromley,Drugs,Suspect charged
+389,December,Bromley,Possession of weapons,Suspect charged
+390,December,Bromley,Possession of weapons,Suspect charged
+391,December,Bromley,Public order,Suspect charged
+392,December,Bromley,Public order,Offender given a caution
+393,December,Bromley,Public order,Suspect charged
+394,December,Bromley,Public order,Suspect charged
+395,December,Bromley,Robbery,Suspect charged
+396,December,Bromley,Robbery,Suspect charged
+397,December,Bromley,Shoplifting,Local resolution
+398,December,Bromley,Shoplifting,Local resolution
+399,December,Bromley,Shoplifting,Local resolution
+400,December,Bromley,Shoplifting,Local resolution
+401,December,Bromley,Shoplifting,Local resolution
+402,December,Bromley,Shoplifting,Local resolution
+403,December,Bromley,Shoplifting,Local resolution
+404,December,Bromley,Shoplifting,Local resolution
+405,December,Bromley,Shoplifting,Local resolution
+406,December,Bromley,Shoplifting,Suspect charged
+407,December,Bromley,Shoplifting,Suspect charged
+408,December,Bromley,Shoplifting,Local resolution
+409,December,Bromley,Shoplifting,Local resolution
+410,December,Bromley,Shoplifting,Local resolution
+411,December,Bromley,Shoplifting,Local resolution
+412,December,Bromley,Shoplifting,Local resolution
+413,December,Bromley,Shoplifting,Local resolution
+414,December,Bromley,Shoplifting,Local resolution
+415,December,Bromley,Shoplifting,Local resolution
+416,December,Bromley,Shoplifting,Local resolution
+417,December,Bromley,Shoplifting,Offender given a caution
+418,December,Bromley,Shoplifting,Offender given a caution
+419,December,Bromley,Shoplifting,Offender given a caution
+420,December,Bromley,Shoplifting,Suspect charged
+421,December,Bromley,Shoplifting,Suspect charged
+422,December,Bromley,Shoplifting,Local resolution
+423,December,Bromley,Shoplifting,Local resolution
+424,December,Bromley,Shoplifting,Local resolution
+425,December,Bromley,Shoplifting,Local resolution
+426,December,Bromley,Shoplifting,Local resolution
+427,December,Bromley,Shoplifting,Local resolution
+428,December,Bromley,Shoplifting,Local resolution
+429,December,Bromley,Shoplifting,Local resolution
+430,December,Bromley,Shoplifting,Local resolution
+431,December,Bromley,Shoplifting,Local resolution
+432,December,Bromley,Shoplifting,Offender given a caution
+433,December,Bromley,Shoplifting,Local resolution
+434,December,Bromley,Shoplifting,Local resolution
+435,December,Bromley,Shoplifting,Local resolution
+436,December,Bromley,Shoplifting,Suspect charged
+437,December,Bromley,Shoplifting,Suspect charged
+438,December,Bromley,Shoplifting,Local resolution
+439,December,Bromley,Shoplifting,Suspect charged
+440,December,Bromley,Shoplifting,Suspect charged
+441,December,Bromley,Shoplifting,Suspect charged
+442,December,Bromley,Shoplifting,Suspect charged
+443,December,Bromley,Shoplifting,Suspect charged
+444,December,Bromley,Shoplifting,Suspect charged
+445,December,Bromley,Shoplifting,Suspect charged
+446,December,Bromley,Shoplifting,Offender given a caution
+447,December,Bromley,Shoplifting,Suspect charged
+448,December,Bromley,Theft from the person,Suspect charged
+449,December,Bromley,Vehicle crime,Suspect charged
+450,December,Bromley,Violence,Local resolution
+451,December,Bromley,Violence,Offender given a caution
+452,December,Bromley,Violence,Suspect charged
+453,December,Bromley,Violence,Suspect charged
+454,December,Bromley,Violence,Local resolution
+455,December,Bromley,Violence,Offender given a caution
+456,December,Bromley,Violence,Offender given a caution
+457,December,Bromley,Violence,Investigation complete; no suspect identified
+458,December,Bromley,Violence,Suspect charged
+459,December,Bromley,Violence,Suspect charged
+460,December,Bromley,Violence,Local resolution
+461,December,Bromley,Violence,Offender given a caution
+462,December,Bromley,Violence,Suspect charged
+463,December,Bromley,Violence,Suspect charged
+464,December,Bromley,Violence,Suspect charged
+465,December,Bromley,Violence,Local resolution
+466,December,Bromley,Violence,Suspect charged
+467,December,Camden,Bicycle theft,Suspect charged
+468,December,Camden,Burglary,Suspect charged
+469,December,Camden,Criminal damage and arson,Suspect charged
+470,December,Camden,Criminal damage and arson,Suspect charged
+471,December,Camden,Criminal damage and arson,Suspect charged
+472,December,Camden,Criminal damage and arson,Suspect charged
+473,December,Camden,Criminal damage and arson,Suspect charged
+474,December,Camden,Criminal damage and arson,Suspect charged
+475,December,Camden,Drugs,Suspect charged
+476,December,Camden,Drugs,Offender given penalty notice
+477,December,Camden,Drugs,Suspect charged
+478,December,Camden,Drugs,Offender given a caution
+479,December,Camden,Drugs,Local resolution
+480,December,Camden,Drugs,Local resolution
+481,December,Camden,Drugs,Offender given a drugs possession warning
+482,December,Camden,Drugs,Suspect charged
+483,December,Camden,Drugs,Offender given a caution
+484,December,Camden,Drugs,Local resolution
+485,December,Camden,Drugs,Offender given penalty notice
+486,December,Camden,Drugs,Local resolution
+487,December,Camden,Drugs,Offender given penalty notice
+488,December,Camden,Drugs,Suspect charged
+489,December,Camden,Drugs,Local resolution
+490,December,Camden,Drugs,Suspect charged
+491,December,Camden,Drugs,Local resolution
+492,December,Camden,Drugs,Local resolution
+493,December,Camden,Drugs,Offender given a caution
+494,December,Camden,Drugs,Local resolution
+495,December,Camden,Drugs,Offender given penalty notice
+496,December,Camden,Drugs,Offender given penalty notice
+497,December,Camden,Drugs,Local resolution
+498,December,Camden,Drugs,Local resolution
+499,December,Camden,Drugs,Suspect charged
+500,December,Camden,Drugs,Local resolution
+501,December,Camden,Drugs,Local resolution
+502,December,Camden,Drugs,Offender given penalty notice
+503,December,Camden,Drugs,Local resolution
+504,December,Camden,Drugs,Local resolution
+505,December,Camden,Drugs,Local resolution
+506,December,Camden,Drugs,Local resolution
+507,December,Camden,Drugs,Local resolution
+508,December,Camden,Drugs,Local resolution
+509,December,Camden,Drugs,Local resolution
+510,December,Camden,Drugs,Offender given penalty notice
+511,December,Camden,Drugs,Offender given penalty notice
+512,December,Camden,Drugs,Local resolution
+513,December,Camden,Drugs,Local resolution
+514,December,Camden,Drugs,Offender given a caution
+515,December,Camden,Drugs,Suspect charged
+516,December,Camden,Drugs,Offender given penalty notice
+517,December,Camden,Drugs,Suspect charged
+518,December,Camden,Drugs,Suspect charged
+519,December,Camden,Drugs,Local resolution
+520,December,Camden,Drugs,Local resolution
+521,December,Camden,Drugs,Local resolution
+522,December,Camden,Drugs,Local resolution
+523,December,Camden,Drugs,Local resolution
+524,December,Camden,Drugs,Offender given penalty notice
+525,December,Camden,Drugs,Local resolution
+526,December,Camden,Drugs,Local resolution
+527,December,Camden,Drugs,Local resolution
+528,December,Camden,Drugs,Local resolution
+529,December,Camden,Drugs,Local resolution
+530,December,Camden,Drugs,Local resolution
+531,December,Camden,Drugs,Local resolution
+532,December,Camden,Drugs,Local resolution
+533,December,Camden,Drugs,Local resolution
+534,December,Camden,Drugs,Local resolution
+535,December,Camden,Drugs,Local resolution
+536,December,Camden,Drugs,Local resolution
+537,December,Camden,Drugs,Local resolution
+538,December,Camden,Drugs,Local resolution
+539,December,Camden,Drugs,Local resolution
+540,December,Camden,Drugs,Offender given a drugs possession warning
+541,December,Camden,Drugs,Offender given penalty notice
+542,December,Camden,Drugs,Offender given penalty notice
+543,December,Camden,Drugs,Offender given penalty notice
+544,December,Camden,Drugs,Offender given penalty notice
+545,December,Camden,Drugs,Suspect charged
+546,December,Camden,Drugs,Suspect charged
+547,December,Camden,Drugs,Local resolution
+548,December,Camden,Drugs,Suspect charged
+549,December,Camden,Drugs,Local resolution
+550,December,Camden,Drugs,Local resolution
+551,December,Camden,Drugs,Local resolution
+552,December,Camden,Drugs,Local resolution
+553,December,Camden,Drugs,Offender given a drugs possession warning
+554,December,Camden,Drugs,Offender given penalty notice
+555,December,Camden,Drugs,Suspect charged
+556,December,Camden,Drugs,Suspect charged
+557,December,Camden,Drugs,Local resolution
+558,December,Camden,Drugs,Suspect charged
+559,December,Camden,Drugs,Local resolution
+560,December,Camden,Drugs,Local resolution
+561,December,Camden,Drugs,Offender given a drugs possession warning
+562,December,Camden,Drugs,Suspect charged
+563,December,Camden,Drugs,Local resolution
+564,December,Camden,Drugs,Suspect charged
+565,December,Camden,Drugs,Suspect charged
+566,December,Camden,Drugs,Local resolution
+567,December,Camden,Drugs,Suspect charged
+568,December,Camden,Drugs,Local resolution
+569,December,Camden,Drugs,Local resolution
+570,December,Camden,Drugs,Suspect charged
+571,December,Camden,Drugs,Local resolution
+572,December,Camden,Drugs,Local resolution
+573,December,Camden,Drugs,Local resolution
+574,December,Camden,Drugs,Local resolution
+575,December,Camden,Drugs,Local resolution
+576,December,Camden,Drugs,Offender given penalty notice
+577,December,Camden,Drugs,Local resolution
+578,December,Camden,Drugs,Local resolution
+579,December,Camden,Drugs,Local resolution
+580,December,Camden,Drugs,Local resolution
+581,December,Camden,Drugs,Local resolution
+582,December,Camden,Drugs,Suspect charged
+583,December,Camden,Drugs,Local resolution
+584,December,Camden,Drugs,Offender given a drugs possession warning
+585,December,Camden,Drugs,Suspect charged
+586,December,Camden,Drugs,Local resolution
+587,December,Camden,Drugs,Local resolution
+588,December,Camden,Drugs,Local resolution
+589,December,Camden,Drugs,Local resolution
+590,December,Camden,Drugs,Local resolution
+591,December,Camden,Drugs,Local resolution
+592,December,Camden,Drugs,Local resolution
+593,December,Camden,Drugs,Local resolution
+594,December,Camden,Drugs,Offender given a caution
+595,December,Camden,Drugs,Offender given a drugs possession warning
+596,December,Camden,Drugs,Offender given a drugs possession warning
+597,December,Camden,Drugs,Offender given penalty notice
+598,December,Camden,Drugs,Offender given penalty notice
+599,December,Camden,Drugs,Suspect charged
+600,December,Camden,Other crime,Suspect charged
+601,December,Camden,Other crime,Suspect charged
+602,December,Camden,Other theft,Suspect charged
+603,December,Camden,Other theft,Suspect charged
+604,December,Camden,Other theft,Suspect charged
+605,December,Camden,Possession of weapons,Suspect charged
+606,December,Camden,Possession of weapons,Suspect charged
+607,December,Camden,Possession of weapons,Suspect charged
+608,December,Camden,Possession of weapons,Offender given a caution
+609,December,Camden,Possession of weapons,Offender given a caution
+610,December,Camden,Possession of weapons,Suspect charged
+611,December,Camden,Possession of weapons,Suspect charged
+612,December,Camden,Possession of weapons,Suspect charged
+613,December,Camden,Possession of weapons,Suspect charged
+614,December,Camden,Public order,Local resolution
+615,December,Camden,Public order,Suspect charged
+616,December,Camden,Public order,Suspect charged
+617,December,Camden,Public order,Suspect charged
+618,December,Camden,Public order,Suspect charged
+619,December,Camden,Public order,Suspect charged
+620,December,Camden,Public order,Offender given penalty notice
+621,December,Camden,Robbery,Suspect charged
+622,December,Camden,Robbery,Suspect charged
+623,December,Camden,Robbery,Suspect charged
+624,December,Camden,Shoplifting,Local resolution
+625,December,Camden,Shoplifting,Local resolution
+626,December,Camden,Shoplifting,Suspect charged
+627,December,Camden,Shoplifting,Local resolution
+628,December,Camden,Shoplifting,Local resolution
+629,December,Camden,Shoplifting,Suspect charged
+630,December,Camden,Vehicle crime,Investigation complete; no suspect identified
+631,December,Camden,Violence,Suspect charged
+632,December,Camden,Violence,Local resolution
+633,December,Camden,Violence,Local resolution
+634,December,Camden,Violence,Suspect charged
+635,December,Camden,Violence,Suspect charged
+636,December,Camden,Violence,Suspect charged
+637,December,Camden,Violence,Suspect charged
+638,December,Camden,Violence,Suspect charged
+639,December,Camden,Violence,Local resolution
+640,December,Camden,Violence,Suspect charged
+641,December,Camden,Violence,Local resolution
+642,December,Camden,Violence,Suspect charged
+643,December,Camden,Violence,Suspect charged
+644,December,Camden,Violence,Suspect charged
+645,December,Camden,Violence,Suspect charged
+646,December,Croydon,Burglary,Suspect charged
+647,December,Croydon,Burglary,Suspect charged
+648,December,Croydon,Criminal damage and arson,Suspect charged
+649,December,Croydon,Criminal damage and arson,Suspect charged
+650,December,Croydon,Criminal damage and arson,Suspect charged
+651,December,Croydon,Criminal damage and arson,Local resolution
+652,December,Croydon,Criminal damage and arson,Local resolution
+653,December,Croydon,Criminal damage and arson,Investigation complete; no suspect identified
+654,December,Croydon,Criminal damage and arson,Suspect charged
+655,December,Croydon,Drugs,Local resolution
+656,December,Croydon,Drugs,Local resolution
+657,December,Croydon,Drugs,Local resolution
+658,December,Croydon,Drugs,Local resolution
+659,December,Croydon,Drugs,Local resolution
+660,December,Croydon,Drugs,Local resolution
+661,December,Croydon,Drugs,Suspect charged
+662,December,Croydon,Drugs,Local resolution
+663,December,Croydon,Drugs,Local resolution
+664,December,Croydon,Drugs,Suspect charged
+665,December,Croydon,Drugs,Local resolution
+666,December,Croydon,Drugs,Local resolution
+667,December,Croydon,Drugs,Local resolution
+668,December,Croydon,Drugs,Local resolution
+669,December,Croydon,Drugs,Local resolution
+670,December,Croydon,Drugs,Local resolution
+671,December,Croydon,Drugs,Local resolution
+672,December,Croydon,Drugs,Local resolution
+673,December,Croydon,Drugs,Local resolution
+674,December,Croydon,Drugs,Suspect charged
+675,December,Croydon,Drugs,Offender given penalty notice
+676,December,Croydon,Drugs,Local resolution
+677,December,Croydon,Drugs,Suspect charged
+678,December,Croydon,Drugs,Suspect charged
+679,December,Croydon,Drugs,Local resolution
+680,December,Croydon,Drugs,Offender given a caution
+681,December,Croydon,Drugs,Offender given penalty notice
+682,December,Croydon,Drugs,Local resolution
+683,December,Croydon,Drugs,Offender given a drugs possession warning
+684,December,Croydon,Drugs,Local resolution
+685,December,Croydon,Drugs,Local resolution
+686,December,Croydon,Drugs,Local resolution
+687,December,Croydon,Drugs,Offender given a caution
+688,December,Croydon,Drugs,Suspect charged
+689,December,Croydon,Drugs,Local resolution
+690,December,Croydon,Drugs,Local resolution
+691,December,Croydon,Drugs,Suspect charged
+692,December,Croydon,Drugs,Suspect charged
+693,December,Croydon,Drugs,Local resolution
+694,December,Croydon,Drugs,Offender given a drugs possession warning
+695,December,Croydon,Drugs,Offender given a drugs possession warning
+696,December,Croydon,Drugs,Offender given a drugs possession warning
+697,December,Croydon,Drugs,Local resolution
+698,December,Croydon,Drugs,Local resolution
+699,December,Croydon,Drugs,Local resolution
+700,December,Croydon,Drugs,Local resolution
+701,December,Croydon,Drugs,Local resolution
+702,December,Croydon,Drugs,Suspect charged
+703,December,Croydon,Drugs,Local resolution
+704,December,Croydon,Drugs,Local resolution
+705,December,Croydon,Drugs,Suspect charged
+706,December,Croydon,Drugs,Local resolution
+707,December,Croydon,Drugs,Local resolution
+708,December,Croydon,Drugs,Local resolution
+709,December,Croydon,Drugs,Local resolution
+710,December,Croydon,Drugs,Local resolution
+711,December,Croydon,Drugs,Local resolution
+712,December,Croydon,Drugs,Local resolution
+713,December,Croydon,Drugs,Local resolution
+714,December,Croydon,Drugs,Local resolution
+715,December,Croydon,Drugs,Local resolution
+716,December,Croydon,Drugs,Offender given penalty notice
+717,December,Croydon,Drugs,Offender given penalty notice
+718,December,Croydon,Drugs,Local resolution
+719,December,Croydon,Drugs,Local resolution
+720,December,Croydon,Drugs,Local resolution
+721,December,Croydon,Drugs,Suspect charged
+722,December,Croydon,Drugs,Local resolution
+723,December,Croydon,Drugs,Suspect charged
+724,December,Croydon,Drugs,Offender given penalty notice
+725,December,Croydon,Drugs,Local resolution
+726,December,Croydon,Drugs,Local resolution
+727,December,Croydon,Drugs,Local resolution
+728,December,Croydon,Drugs,Local resolution
+729,December,Croydon,Drugs,Local resolution
+730,December,Croydon,Drugs,Local resolution
+731,December,Croydon,Drugs,Suspect charged
+732,December,Croydon,Drugs,Local resolution
+733,December,Croydon,Drugs,Local resolution
+734,December,Croydon,Drugs,Local resolution
+735,December,Croydon,Drugs,Local resolution
+736,December,Croydon,Drugs,Local resolution
+737,December,Croydon,Drugs,Local resolution
+738,December,Croydon,Drugs,Suspect charged
+739,December,Croydon,Drugs,Local resolution
+740,December,Croydon,Other crime,Suspect charged
+741,December,Croydon,Other theft,Suspect charged
+742,December,Croydon,Possession of weapons,Suspect charged
+743,December,Croydon,Possession of weapons,Suspect charged
+744,December,Croydon,Possession of weapons,Suspect charged
+745,December,Croydon,Possession of weapons,Suspect charged
+746,December,Croydon,Possession of weapons,Suspect charged
+747,December,Croydon,Possession of weapons,Suspect charged
+748,December,Croydon,Public order,Offender given a caution
+749,December,Croydon,Public order,Offender given penalty notice
+750,December,Croydon,Public order,Suspect charged
+751,December,Croydon,Public order,Suspect charged
+752,December,Croydon,Public order,Suspect charged
+753,December,Croydon,Public order,Offender given a caution
+754,December,Croydon,Public order,Suspect charged
+755,December,Croydon,Shoplifting,Suspect charged
+756,December,Croydon,Shoplifting,Suspect charged
+757,December,Croydon,Shoplifting,Suspect charged
+758,December,Croydon,Shoplifting,Offender given penalty notice
+759,December,Croydon,Shoplifting,Suspect charged
+760,December,Croydon,Shoplifting,Suspect charged
+761,December,Croydon,Shoplifting,Suspect charged
+762,December,Croydon,Shoplifting,Suspect charged
+763,December,Croydon,Shoplifting,Suspect charged
+764,December,Croydon,Shoplifting,Local resolution
+765,December,Croydon,Shoplifting,Suspect charged
+766,December,Croydon,Shoplifting,Local resolution
+767,December,Croydon,Shoplifting,Local resolution
+768,December,Croydon,Vehicle crime,Suspect charged
+769,December,Croydon,Vehicle crime,Suspect charged
+770,December,Croydon,Violence,Offender given a caution
+771,December,Croydon,Violence,Suspect charged
+772,December,Croydon,Violence,Suspect charged
+773,December,Croydon,Violence,Suspect charged
+774,December,Croydon,Violence,Suspect charged
+775,December,Croydon,Violence,Offender given a caution
+776,December,Croydon,Violence,Suspect charged
+777,December,Croydon,Violence,Offender given a caution
+778,December,Croydon,Violence,Suspect charged
+779,December,Croydon,Violence,Suspect charged
+780,December,Croydon,Violence,Offender given a caution
+781,December,Croydon,Violence,Local resolution
+782,December,Croydon,Violence,Offender given a caution
+783,December,Croydon,Violence,Local resolution
+784,December,Croydon,Violence,Offender given a caution
+785,December,Croydon,Violence,Suspect charged
+786,December,Croydon,Violence,Suspect charged
+787,December,Croydon,Violence,Offender given a caution
+788,December,Croydon,Violence,Suspect charged
+789,December,Croydon,Violence,Suspect charged
+790,December,Dartford,Drugs,Suspect charged
+791,December,Ealing,Burglary,Offender given a caution
+792,December,Ealing,Burglary,Suspect charged
+793,December,Ealing,Criminal damage and arson,Offender given a caution
+794,December,Ealing,Criminal damage and arson,Suspect charged
+795,December,Ealing,Criminal damage and arson,Offender given a caution
+796,December,Ealing,Drugs,Offender given penalty notice
+797,December,Ealing,Drugs,Local resolution
+798,December,Ealing,Drugs,Local resolution
+799,December,Ealing,Drugs,Local resolution
+800,December,Ealing,Drugs,Local resolution
+801,December,Ealing,Drugs,Local resolution
+802,December,Ealing,Drugs,Local resolution
+803,December,Ealing,Drugs,Suspect charged
+804,December,Ealing,Drugs,Local resolution
+805,December,Ealing,Drugs,Offender given a drugs possession warning
+806,December,Ealing,Drugs,Offender given penalty notice
+807,December,Ealing,Drugs,Offender given a caution
+808,December,Ealing,Drugs,Offender given a drugs possession warning
+809,December,Ealing,Drugs,Local resolution
+810,December,Ealing,Drugs,Local resolution
+811,December,Ealing,Drugs,Offender given penalty notice
+812,December,Ealing,Drugs,Suspect charged
+813,December,Ealing,Drugs,Local resolution
+814,December,Ealing,Drugs,Local resolution
+815,December,Ealing,Drugs,Local resolution
+816,December,Ealing,Drugs,Offender given penalty notice
+817,December,Ealing,Drugs,Suspect charged
+818,December,Ealing,Drugs,Local resolution
+819,December,Ealing,Drugs,Local resolution
+820,December,Ealing,Drugs,Local resolution
+821,December,Ealing,Drugs,Suspect charged
+822,December,Ealing,Drugs,Suspect charged
+823,December,Ealing,Drugs,Local resolution
+824,December,Ealing,Drugs,Local resolution
+825,December,Ealing,Drugs,Offender given penalty notice
+826,December,Ealing,Drugs,Suspect charged
+827,December,Ealing,Drugs,Offender given a caution
+828,December,Ealing,Drugs,Local resolution
+829,December,Ealing,Drugs,Offender given penalty notice
+830,December,Ealing,Drugs,Local resolution
+831,December,Ealing,Drugs,Offender given penalty notice
+832,December,Ealing,Drugs,Local resolution
+833,December,Ealing,Drugs,Local resolution
+834,December,Ealing,Drugs,Offender given penalty notice
+835,December,Ealing,Drugs,Suspect charged
+836,December,Ealing,Drugs,Local resolution
+837,December,Ealing,Drugs,Offender given penalty notice
+838,December,Ealing,Drugs,Local resolution
+839,December,Ealing,Drugs,Offender given a caution
+840,December,Ealing,Drugs,Suspect charged
+841,December,Ealing,Drugs,Suspect charged
+842,December,Ealing,Drugs,Local resolution
+843,December,Ealing,Drugs,Local resolution
+844,December,Ealing,Drugs,Offender given penalty notice
+845,December,Ealing,Drugs,Suspect charged
+846,December,Ealing,Drugs,Local resolution
+847,December,Ealing,Drugs,Offender given penalty notice
+848,December,Ealing,Drugs,Local resolution
+849,December,Ealing,Drugs,Local resolution
+850,December,Ealing,Drugs,Local resolution
+851,December,Ealing,Drugs,Offender given penalty notice
+852,December,Ealing,Drugs,Offender given penalty notice
+853,December,Ealing,Drugs,Suspect charged
+854,December,Ealing,Drugs,Suspect charged
+855,December,Ealing,Drugs,Local resolution
+856,December,Ealing,Drugs,Local resolution
+857,December,Ealing,Drugs,Local resolution
+858,December,Ealing,Drugs,Suspect charged
+859,December,Ealing,Drugs,Offender given penalty notice
+860,December,Ealing,Drugs,Offender given penalty notice
+861,December,Ealing,Drugs,Local resolution
+862,December,Ealing,Drugs,Local resolution
+863,December,Ealing,Other crime,Suspect charged
+864,December,Ealing,Other crime,Suspect charged
+865,December,Ealing,Possession of weapons,Suspect charged
+866,December,Ealing,Possession of weapons,Suspect charged
+867,December,Ealing,Public order,Suspect charged
+868,December,Ealing,Public order,Offender given penalty notice
+869,December,Ealing,Public order,Suspect charged
+870,December,Ealing,Public order,Offender given a caution
+871,December,Ealing,Public order,Suspect charged
+872,December,Ealing,Robbery,Investigation complete; no suspect identified
+873,December,Ealing,Robbery,Suspect charged
+874,December,Ealing,Robbery,Suspect charged
+875,December,Ealing,Shoplifting,Offender given penalty notice
+876,December,Ealing,Shoplifting,Offender given a caution
+877,December,Ealing,Shoplifting,Suspect charged
+878,December,Ealing,Shoplifting,Suspect charged
+879,December,Ealing,Shoplifting,Suspect charged
+880,December,Ealing,Shoplifting,Suspect charged
+881,December,Ealing,Shoplifting,Suspect charged
+882,December,Ealing,Theft from the person,Suspect charged
+883,December,Ealing,Violence,Offender given a caution
+884,December,Ealing,Violence,Offender given a caution
+885,December,Ealing,Violence,Suspect charged
+886,December,Ealing,Violence,Suspect charged
+887,December,Ealing,Violence,Offender given a caution
+888,December,Ealing,Violence,Suspect charged
+889,December,Ealing,Violence,Suspect charged
+890,December,Ealing,Violence,Suspect charged
+891,December,Ealing,Violence,Suspect charged
+892,December,Ealing,Violence,Suspect charged
+893,December,Ealing,Violence,Offender given a caution
+894,December,Ealing,Violence,Suspect charged
+895,December,Ealing,Violence,Suspect charged
+896,December,Ealing,Violence,Suspect charged
+897,December,Ealing,Violence,Offender given a caution
+898,December,Ealing,Violence,Suspect charged
+899,December,Ealing,Violence,Suspect charged
+900,December,Ealing,Violence,Offender given a caution
+901,December,Ealing,Violence,Suspect charged
+902,December,Ealing,Violence,Suspect charged
+903,December,Ealing,Violence,Suspect charged
+904,December,Enfield,Criminal damage and arson,Suspect charged
+905,December,Enfield,Criminal damage and arson,Suspect charged
+906,December,Enfield,Criminal damage and arson,Suspect charged
+907,December,Enfield,Criminal damage and arson,Local resolution
+908,December,Enfield,Drugs,Local resolution
+909,December,Enfield,Drugs,Suspect charged
+910,December,Enfield,Drugs,Suspect charged
+911,December,Enfield,Drugs,Suspect charged
+912,December,Enfield,Drugs,Offender given a caution
+913,December,Enfield,Drugs,Suspect charged
+914,December,Enfield,Drugs,Suspect charged
+915,December,Enfield,Drugs,Offender given penalty notice
+916,December,Enfield,Drugs,Local resolution
+917,December,Enfield,Drugs,Local resolution
+918,December,Enfield,Drugs,Offender given penalty notice
+919,December,Enfield,Drugs,Offender given penalty notice
+920,December,Enfield,Drugs,Offender given penalty notice
+921,December,Enfield,Drugs,Local resolution
+922,December,Enfield,Drugs,Offender given penalty notice
+923,December,Enfield,Drugs,Offender given penalty notice
+924,December,Enfield,Drugs,Local resolution
+925,December,Enfield,Drugs,Local resolution
+926,December,Enfield,Drugs,Local resolution
+927,December,Enfield,Drugs,Suspect charged
+928,December,Enfield,Drugs,Local resolution
+929,December,Enfield,Drugs,Local resolution
+930,December,Enfield,Drugs,Local resolution
+931,December,Enfield,Drugs,Local resolution
+932,December,Enfield,Drugs,Suspect charged
+933,December,Enfield,Drugs,Suspect charged
+934,December,Enfield,Drugs,Local resolution
+935,December,Enfield,Drugs,Suspect charged
+936,December,Enfield,Drugs,Local resolution
+937,December,Enfield,Drugs,Suspect charged
+938,December,Enfield,Drugs,Local resolution
+939,December,Enfield,Drugs,Local resolution
+940,December,Enfield,Drugs,Local resolution
+941,December,Enfield,Drugs,Suspect charged
+942,December,Enfield,Drugs,Suspect charged
+943,December,Enfield,Drugs,Suspect charged
+944,December,Enfield,Drugs,Local resolution
+945,December,Enfield,Drugs,Suspect charged
+946,December,Enfield,Other theft,Suspect charged
+947,December,Enfield,Possession of weapons,Suspect charged
+948,December,Enfield,Possession of weapons,Suspect charged
+949,December,Enfield,Possession of weapons,Suspect charged
+950,December,Enfield,Possession of weapons,Offender given a caution
+951,December,Enfield,Possession of weapons,Suspect charged
+952,December,Enfield,Public order,Suspect charged
+953,December,Enfield,Public order,Offender given a caution
+954,December,Enfield,Public order,Suspect charged
+955,December,Enfield,Public order,Local resolution
+956,December,Enfield,Robbery,Suspect charged
+957,December,Enfield,Robbery,Suspect charged
+958,December,Enfield,Shoplifting,Suspect charged
+959,December,Enfield,Shoplifting,Suspect charged
+960,December,Enfield,Vehicle crime,Suspect charged
+961,December,Enfield,Vehicle crime,Suspect charged
+962,December,Enfield,Vehicle crime,Suspect charged
+963,December,Enfield,Violence,Suspect charged
+964,December,Enfield,Violence,Suspect charged
+965,December,Enfield,Violence,Suspect charged
+966,December,Enfield,Violence,Suspect charged
+967,December,Enfield,Violence,Suspect charged
+968,December,Enfield,Violence,Suspect charged
+969,December,Enfield,Violence,Suspect charged
+970,December,Enfield,Violence,Suspect charged
+971,December,Enfield,Violence,Suspect charged
+972,December,Enfield,Violence,Suspect charged
+973,December,Enfield,Violence,Suspect charged
+974,December,Enfield,Violence,Offender given a caution
+975,December,Epping Forest,Drugs,Investigation complete; no suspect identified
+976,December,Epping Forest,Drugs,Local resolution
+977,December,Greenwich,Burglary,Suspect charged
+978,December,Greenwich,Burglary,Suspect charged
+979,December,Greenwich,Burglary,Suspect charged
+980,December,Greenwich,Criminal damage and arson,Suspect charged
+981,December,Greenwich,Criminal damage and arson,Suspect charged
+982,December,Greenwich,Criminal damage and arson,Suspect charged
+983,December,Greenwich,Drugs,Suspect charged
+984,December,Greenwich,Drugs,Local resolution
+985,December,Greenwich,Drugs,Local resolution
+986,December,Greenwich,Drugs,Local resolution
+987,December,Greenwich,Drugs,Suspect charged
+988,December,Greenwich,Drugs,Offender given a caution
+989,December,Greenwich,Drugs,Suspect charged
+990,December,Greenwich,Drugs,Local resolution
+991,December,Greenwich,Drugs,Local resolution
+992,December,Greenwich,Drugs,Local resolution
+993,December,Greenwich,Drugs,Local resolution
+994,December,Greenwich,Drugs,Local resolution
+995,December,Greenwich,Drugs,Local resolution
+996,December,Greenwich,Drugs,Local resolution
+997,December,Greenwich,Drugs,Suspect charged
+998,December,Greenwich,Drugs,Local resolution
+999,December,Greenwich,Drugs,Local resolution
+1000,December,Greenwich,Drugs,Local resolution
+1001,December,Greenwich,Drugs,Local resolution
+1002,December,Greenwich,Drugs,Offender given penalty notice
+1003,December,Greenwich,Drugs,Local resolution
+1004,December,Greenwich,Drugs,Offender given a drugs possession warning
+1005,December,Greenwich,Drugs,Suspect charged
+1006,December,Greenwich,Drugs,Offender given a caution
+1007,December,Greenwich,Drugs,Suspect charged
+1008,December,Greenwich,Drugs,Offender given a drugs possession warning
+1009,December,Greenwich,Drugs,Offender given a caution
+1010,December,Greenwich,Drugs,Offender given a caution
+1011,December,Greenwich,Drugs,Local resolution
+1012,December,Greenwich,Drugs,Suspect charged
+1013,December,Greenwich,Drugs,Local resolution
+1014,December,Greenwich,Drugs,Offender given a drugs possession warning
+1015,December,Greenwich,Drugs,Suspect charged
+1016,December,Greenwich,Drugs,Local resolution
+1017,December,Greenwich,Drugs,Suspect charged
+1018,December,Greenwich,Drugs,Suspect charged
+1019,December,Greenwich,Drugs,Local resolution
+1020,December,Greenwich,Drugs,Offender given a caution
+1021,December,Greenwich,Drugs,Suspect charged
+1022,December,Greenwich,Drugs,Local resolution
+1023,December,Greenwich,Drugs,Local resolution
+1024,December,Greenwich,Drugs,Suspect charged
+1025,December,Greenwich,Drugs,Local resolution
+1026,December,Greenwich,Drugs,Local resolution
+1027,December,Greenwich,Drugs,Suspect charged
+1028,December,Greenwich,Drugs,Suspect charged
+1029,December,Greenwich,Drugs,Local resolution
+1030,December,Greenwich,Drugs,Suspect charged
+1031,December,Greenwich,Drugs,Local resolution
+1032,December,Greenwich,Drugs,Offender given a drugs possession warning
+1033,December,Greenwich,Other crime,Suspect charged
+1034,December,Greenwich,Other crime,Suspect charged
+1035,December,Greenwich,Other theft,Suspect charged
+1036,December,Greenwich,Other theft,Suspect charged
+1037,December,Greenwich,Possession of weapons,Offender given a caution
+1038,December,Greenwich,Possession of weapons,Suspect charged
+1039,December,Greenwich,Possession of weapons,Suspect charged
+1040,December,Greenwich,Public order,Offender given penalty notice
+1041,December,Greenwich,Public order,Suspect charged
+1042,December,Greenwich,Public order,Offender given penalty notice
+1043,December,Greenwich,Public order,Suspect charged
+1044,December,Greenwich,Robbery,Suspect charged
+1045,December,Greenwich,Shoplifting,Suspect charged
+1046,December,Greenwich,Shoplifting,Suspect charged
+1047,December,Greenwich,Shoplifting,Suspect charged
+1048,December,Greenwich,Shoplifting,Suspect charged
+1049,December,Greenwich,Shoplifting,Local resolution
+1050,December,Greenwich,Shoplifting,Suspect charged
+1051,December,Greenwich,Vehicle crime,Suspect charged
+1052,December,Greenwich,Violence,Offender given a caution
+1053,December,Greenwich,Violence,Suspect charged
+1054,December,Greenwich,Violence,Suspect charged
+1055,December,Greenwich,Violence,Suspect charged
+1056,December,Greenwich,Violence,Suspect charged
+1057,December,Greenwich,Violence,Suspect charged
+1058,December,Greenwich,Violence,Suspect charged
+1059,December,Greenwich,Violence,Suspect charged
+1060,December,Greenwich,Violence,Suspect charged
+1061,December,Greenwich,Violence,Suspect charged
+1062,December,Greenwich,Violence,Suspect charged
+1063,December,Greenwich,Violence,Offender given a caution
+1064,December,Hackney,Burglary,Suspect charged
+1065,December,Hackney,Burglary,Suspect charged
+1066,December,Hackney,Criminal damage and arson,Offender given penalty notice
+1067,December,Hackney,Criminal damage and arson,Offender given a caution
+1068,December,Hackney,Criminal damage and arson,Suspect charged
+1069,December,Hackney,Criminal damage and arson,Local resolution
+1070,December,Hackney,Criminal damage and arson,Suspect charged
+1071,December,Hackney,Drugs,Local resolution
+1072,December,Hackney,Drugs,Suspect charged
+1073,December,Hackney,Drugs,Local resolution
+1074,December,Hackney,Drugs,Offender given a caution
+1075,December,Hackney,Drugs,Suspect charged
+1076,December,Hackney,Drugs,Offender given penalty notice
+1077,December,Hackney,Drugs,Local resolution
+1078,December,Hackney,Drugs,Local resolution
+1079,December,Hackney,Drugs,Local resolution
+1080,December,Hackney,Drugs,Suspect charged
+1081,December,Hackney,Drugs,Local resolution
+1082,December,Hackney,Drugs,Offender given a drugs possession warning
+1083,December,Hackney,Drugs,Offender given penalty notice
+1084,December,Hackney,Drugs,Local resolution
+1085,December,Hackney,Drugs,Suspect charged
+1086,December,Hackney,Drugs,Suspect charged
+1087,December,Hackney,Drugs,Local resolution
+1088,December,Hackney,Drugs,Suspect charged
+1089,December,Hackney,Drugs,Suspect charged
+1090,December,Hackney,Drugs,Suspect charged
+1091,December,Hackney,Drugs,Suspect charged
+1092,December,Hackney,Drugs,Local resolution
+1093,December,Hackney,Drugs,Local resolution
+1094,December,Hackney,Drugs,Local resolution
+1095,December,Hackney,Drugs,Offender given a drugs possession warning
+1096,December,Hackney,Drugs,Suspect charged
+1097,December,Hackney,Drugs,Investigation complete; no suspect identified
+1098,December,Hackney,Drugs,Local resolution
+1099,December,Hackney,Drugs,Offender given penalty notice
+1100,December,Hackney,Drugs,Suspect charged
+1101,December,Hackney,Drugs,Local resolution
+1102,December,Hackney,Drugs,Local resolution
+1103,December,Hackney,Drugs,Offender given penalty notice
+1104,December,Hackney,Drugs,Offender given penalty notice
+1105,December,Hackney,Drugs,Local resolution
+1106,December,Hackney,Drugs,Local resolution
+1107,December,Hackney,Drugs,Offender given penalty notice
+1108,December,Hackney,Drugs,Local resolution
+1109,December,Hackney,Drugs,Offender given penalty notice
+1110,December,Hackney,Drugs,Offender given penalty notice
+1111,December,Hackney,Drugs,Offender given a caution
+1112,December,Hackney,Drugs,Offender given penalty notice
+1113,December,Hackney,Drugs,Local resolution
+1114,December,Hackney,Drugs,Offender given penalty notice
+1115,December,Hackney,Drugs,Offender given penalty notice
+1116,December,Hackney,Drugs,Local resolution
+1117,December,Hackney,Drugs,Offender given penalty notice
+1118,December,Hackney,Drugs,Offender given penalty notice
+1119,December,Hackney,Drugs,Suspect charged
+1120,December,Hackney,Drugs,Local resolution
+1121,December,Hackney,Drugs,Local resolution
+1122,December,Hackney,Drugs,Local resolution
+1123,December,Hackney,Drugs,Local resolution
+1124,December,Hackney,Drugs,Local resolution
+1125,December,Hackney,Drugs,Offender given penalty notice
+1126,December,Hackney,Drugs,Suspect charged
+1127,December,Hackney,Drugs,Local resolution
+1128,December,Hackney,Drugs,Local resolution
+1129,December,Hackney,Drugs,Suspect charged
+1130,December,Hackney,Drugs,Suspect charged
+1131,December,Hackney,Drugs,Suspect charged
+1132,December,Hackney,Drugs,Local resolution
+1133,December,Hackney,Drugs,Local resolution
+1134,December,Hackney,Drugs,Local resolution
+1135,December,Hackney,Drugs,Offender given a caution
+1136,December,Hackney,Drugs,Offender given a caution
+1137,December,Hackney,Drugs,Offender given a caution
+1138,December,Hackney,Drugs,Offender given a caution
+1139,December,Hackney,Drugs,Offender given a caution
+1140,December,Hackney,Drugs,Offender given a drugs possession warning
+1141,December,Hackney,Drugs,Offender given penalty notice
+1142,December,Hackney,Drugs,Offender given penalty notice
+1143,December,Hackney,Drugs,Suspect charged
+1144,December,Hackney,Drugs,Suspect charged
+1145,December,Hackney,Drugs,Suspect charged
+1146,December,Hackney,Drugs,Local resolution
+1147,December,Hackney,Drugs,Local resolution
+1148,December,Hackney,Drugs,Local resolution
+1149,December,Hackney,Drugs,Local resolution
+1150,December,Hackney,Drugs,Local resolution
+1151,December,Hackney,Drugs,Local resolution
+1152,December,Hackney,Drugs,Offender given a caution
+1153,December,Hackney,Drugs,Offender given a caution
+1154,December,Hackney,Drugs,Offender given a caution
+1155,December,Hackney,Drugs,Offender given penalty notice
+1156,December,Hackney,Drugs,Offender given penalty notice
+1157,December,Hackney,Drugs,Offender given penalty notice
+1158,December,Hackney,Drugs,Offender given penalty notice
+1159,December,Hackney,Drugs,Suspect charged
+1160,December,Hackney,Drugs,Suspect charged
+1161,December,Hackney,Drugs,Local resolution
+1162,December,Hackney,Drugs,Local resolution
+1163,December,Hackney,Drugs,Offender given penalty notice
+1164,December,Hackney,Drugs,Offender given penalty notice
+1165,December,Hackney,Other crime,Suspect charged
+1166,December,Hackney,Other crime,Suspect charged
+1167,December,Hackney,Other crime,Suspect charged
+1168,December,Hackney,Possession of weapons,Suspect charged
+1169,December,Hackney,Possession of weapons,Suspect charged
+1170,December,Hackney,Possession of weapons,Investigation complete; no suspect identified
+1171,December,Hackney,Possession of weapons,Suspect charged
+1172,December,Hackney,Possession of weapons,Suspect charged
+1173,December,Hackney,Possession of weapons,Suspect charged
+1174,December,Hackney,Possession of weapons,Suspect charged
+1175,December,Hackney,Public order,Suspect charged
+1176,December,Hackney,Public order,Offender given penalty notice
+1177,December,Hackney,Public order,Suspect charged
+1178,December,Hackney,Public order,Offender given penalty notice
+1179,December,Hackney,Robbery,Suspect charged
+1180,December,Hackney,Robbery,Suspect charged
+1181,December,Hackney,Robbery,Suspect charged
+1182,December,Hackney,Robbery,Suspect charged
+1183,December,Hackney,Robbery,Suspect charged
+1184,December,Hackney,Robbery,Suspect charged
+1185,December,Hackney,Robbery,Suspect charged
+1186,December,Hackney,Robbery,Suspect charged
+1187,December,Hackney,Shoplifting,Offender given penalty notice
+1188,December,Hackney,Shoplifting,Suspect charged
+1189,December,Hackney,Shoplifting,Suspect charged
+1190,December,Hackney,Shoplifting,Local resolution
+1191,December,Hackney,Shoplifting,Suspect charged
+1192,December,Hackney,Shoplifting,Local resolution
+1193,December,Hackney,Theft from the person,Offender given a caution
+1194,December,Hackney,Theft from the person,Offender given a caution
+1195,December,Hackney,Violence,Offender given a caution
+1196,December,Hackney,Violence,Offender given penalty notice
+1197,December,Hackney,Violence,Suspect charged
+1198,December,Hackney,Violence,Suspect charged
+1199,December,Hackney,Violence,Suspect charged
+1200,December,Hackney,Violence,Local resolution
+1201,December,Hackney,Violence,Suspect charged
+1202,December,Hackney,Violence,Suspect charged
+1203,December,Hackney,Violence,Suspect charged
+1204,December,Hackney,Violence,Suspect charged
+1205,December,Hackney,Violence,Suspect charged
+1206,December,Hackney,Violence,Suspect charged
+1207,December,Hackney,Violence,Offender given a caution
+1208,December,Hackney,Violence,Suspect charged
+1209,December,Hackney,Violence,Suspect charged
+1210,December,Hackney,Violence,Suspect charged
+1211,December,Hackney,Violence,Suspect charged
+1212,December,Hackney,Violence,Local resolution
+1213,December,Hackney,Violence,Local resolution
+1214,December,Hackney,Violence,Local resolution
+1215,December,Hackney,Violence,Offender given a caution
+1216,December,Hackney,Violence,Suspect charged
+1217,December,Hackney,Violence,Suspect charged
+1218,December,Hammersmith and Fulham,Burglary,Offender given a caution
+1219,December,Hammersmith and Fulham,Burglary,Suspect charged
+1220,December,Hammersmith and Fulham,Criminal damage and arson,Suspect charged
+1221,December,Hammersmith and Fulham,Criminal damage and arson,Offender given a caution
+1222,December,Hammersmith and Fulham,Criminal damage and arson,Local resolution
+1223,December,Hammersmith and Fulham,Criminal damage and arson,Local resolution
+1224,December,Hammersmith and Fulham,Criminal damage and arson,Offender given a caution
+1225,December,Hammersmith and Fulham,Criminal damage and arson,Offender given a caution
+1226,December,Hammersmith and Fulham,Drugs,Local resolution
+1227,December,Hammersmith and Fulham,Drugs,Offender given penalty notice
+1228,December,Hammersmith and Fulham,Drugs,Local resolution
+1229,December,Hammersmith and Fulham,Drugs,Local resolution
+1230,December,Hammersmith and Fulham,Drugs,Local resolution
+1231,December,Hammersmith and Fulham,Drugs,Local resolution
+1232,December,Hammersmith and Fulham,Drugs,Offender given penalty notice
+1233,December,Hammersmith and Fulham,Drugs,Local resolution
+1234,December,Hammersmith and Fulham,Drugs,Local resolution
+1235,December,Hammersmith and Fulham,Drugs,Offender given a drugs possession warning
+1236,December,Hammersmith and Fulham,Drugs,Suspect charged
+1237,December,Hammersmith and Fulham,Drugs,Suspect charged
+1238,December,Hammersmith and Fulham,Drugs,Local resolution
+1239,December,Hammersmith and Fulham,Drugs,Local resolution
+1240,December,Hammersmith and Fulham,Drugs,Local resolution
+1241,December,Hammersmith and Fulham,Drugs,Local resolution
+1242,December,Hammersmith and Fulham,Drugs,Local resolution
+1243,December,Hammersmith and Fulham,Drugs,Offender given a drugs possession warning
+1244,December,Hammersmith and Fulham,Drugs,Local resolution
+1245,December,Hammersmith and Fulham,Drugs,Suspect charged
+1246,December,Hammersmith and Fulham,Drugs,Local resolution
+1247,December,Hammersmith and Fulham,Drugs,Local resolution
+1248,December,Hammersmith and Fulham,Drugs,Local resolution
+1249,December,Hammersmith and Fulham,Other crime,Suspect charged
+1250,December,Hammersmith and Fulham,Other crime,Suspect charged
+1251,December,Hammersmith and Fulham,Other crime,Suspect charged
+1252,December,Hammersmith and Fulham,Other theft,Suspect charged
+1253,December,Hammersmith and Fulham,Other theft,Suspect charged
+1254,December,Hammersmith and Fulham,Possession of weapons,Suspect charged
+1255,December,Hammersmith and Fulham,Possession of weapons,Suspect charged
+1256,December,Hammersmith and Fulham,Possession of weapons,Suspect charged
+1257,December,Hammersmith and Fulham,Possession of weapons,Suspect charged
+1258,December,Hammersmith and Fulham,Possession of weapons,Suspect charged
+1259,December,Hammersmith and Fulham,Possession of weapons,Suspect charged
+1260,December,Hammersmith and Fulham,Public order,Offender given penalty notice
+1261,December,Hammersmith and Fulham,Public order,Suspect charged
+1262,December,Hammersmith and Fulham,Public order,Suspect charged
+1263,December,Hammersmith and Fulham,Public order,Offender given penalty notice
+1264,December,Hammersmith and Fulham,Robbery,Suspect charged
+1265,December,Hammersmith and Fulham,Shoplifting,Local resolution
+1266,December,Hammersmith and Fulham,Shoplifting,Local resolution
+1267,December,Hammersmith and Fulham,Shoplifting,Local resolution
+1268,December,Hammersmith and Fulham,Shoplifting,Local resolution
+1269,December,Hammersmith and Fulham,Shoplifting,Suspect charged
+1270,December,Hammersmith and Fulham,Shoplifting,Local resolution
+1271,December,Hammersmith and Fulham,Shoplifting,Local resolution
+1272,December,Hammersmith and Fulham,Shoplifting,Local resolution
+1273,December,Hammersmith and Fulham,Shoplifting,Local resolution
+1274,December,Hammersmith and Fulham,Shoplifting,Local resolution
+1275,December,Hammersmith and Fulham,Shoplifting,Suspect charged
+1276,December,Hammersmith and Fulham,Vehicle crime,Suspect charged
+1277,December,Hammersmith and Fulham,Vehicle crime,Suspect charged
+1278,December,Hammersmith and Fulham,Vehicle crime,Suspect charged
+1279,December,Hammersmith and Fulham,Violence,Suspect charged
+1280,December,Hammersmith and Fulham,Violence,Offender given a caution
+1281,December,Hammersmith and Fulham,Violence,Suspect charged
+1282,December,Hammersmith and Fulham,Violence,Suspect charged
+1283,December,Hammersmith and Fulham,Violence,Suspect charged
+1284,December,Hammersmith and Fulham,Violence,Suspect charged
+1285,December,Hammersmith and Fulham,Violence,Suspect charged
+1286,December,Hammersmith and Fulham,Violence,Suspect charged
+1287,December,Hammersmith and Fulham,Violence,Suspect charged
+1288,December,Hammersmith and Fulham,Violence,Suspect charged
+1289,December,Hammersmith and Fulham,Violence,Suspect charged
+1290,December,Hammersmith and Fulham,Violence,Suspect charged
+1291,December,Hammersmith and Fulham,Violence,Offender given a caution
+1292,December,Haringey,Bicycle theft,Suspect charged
+1293,December,Haringey,Burglary,Suspect charged
+1294,December,Haringey,Criminal damage and arson,Offender given a caution
+1295,December,Haringey,Criminal damage and arson,Suspect charged
+1296,December,Haringey,Criminal damage and arson,Suspect charged
+1297,December,Haringey,Criminal damage and arson,Suspect charged
+1298,December,Haringey,Criminal damage and arson,Offender given a caution
+1299,December,Haringey,Criminal damage and arson,Offender given a caution
+1300,December,Haringey,Criminal damage and arson,Suspect charged
+1301,December,Haringey,Criminal damage and arson,Local resolution
+1302,December,Haringey,Criminal damage and arson,Offender given a caution
+1303,December,Haringey,Drugs,Suspect charged
+1304,December,Haringey,Drugs,Offender given a drugs possession warning
+1305,December,Haringey,Drugs,Local resolution
+1306,December,Haringey,Drugs,Suspect charged
+1307,December,Haringey,Drugs,Local resolution
+1308,December,Haringey,Drugs,Suspect charged
+1309,December,Haringey,Drugs,Local resolution
+1310,December,Haringey,Drugs,Local resolution
+1311,December,Haringey,Drugs,Suspect charged
+1312,December,Haringey,Drugs,Suspect charged
+1313,December,Haringey,Drugs,Suspect charged
+1314,December,Haringey,Drugs,Local resolution
+1315,December,Haringey,Drugs,Offender given a drugs possession warning
+1316,December,Haringey,Drugs,Offender given penalty notice
+1317,December,Haringey,Drugs,Local resolution
+1318,December,Haringey,Drugs,Local resolution
+1319,December,Haringey,Drugs,Offender given a caution
+1320,December,Haringey,Drugs,Offender given penalty notice
+1321,December,Haringey,Drugs,Suspect charged
+1322,December,Haringey,Drugs,Local resolution
+1323,December,Haringey,Drugs,Local resolution
+1324,December,Haringey,Drugs,Offender given penalty notice
+1325,December,Haringey,Drugs,Local resolution
+1326,December,Haringey,Drugs,Local resolution
+1327,December,Haringey,Drugs,Suspect charged
+1328,December,Haringey,Drugs,Local resolution
+1329,December,Haringey,Drugs,Local resolution
+1330,December,Haringey,Drugs,Local resolution
+1331,December,Haringey,Drugs,Offender given a caution
+1332,December,Haringey,Drugs,Local resolution
+1333,December,Haringey,Drugs,Offender given penalty notice
+1334,December,Haringey,Drugs,Suspect charged
+1335,December,Haringey,Drugs,Local resolution
+1336,December,Haringey,Drugs,Local resolution
+1337,December,Haringey,Drugs,Offender given penalty notice
+1338,December,Haringey,Drugs,Offender given penalty notice
+1339,December,Haringey,Drugs,Local resolution
+1340,December,Haringey,Drugs,Offender given penalty notice
+1341,December,Haringey,Drugs,Local resolution
+1342,December,Haringey,Drugs,Local resolution
+1343,December,Haringey,Drugs,Local resolution
+1344,December,Haringey,Drugs,Local resolution
+1345,December,Haringey,Drugs,Local resolution
+1346,December,Haringey,Drugs,Local resolution
+1347,December,Haringey,Drugs,Offender given penalty notice
+1348,December,Haringey,Drugs,Local resolution
+1349,December,Haringey,Drugs,Local resolution
+1350,December,Haringey,Drugs,Local resolution
+1351,December,Haringey,Drugs,Local resolution
+1352,December,Haringey,Drugs,Local resolution
+1353,December,Haringey,Drugs,Local resolution
+1354,December,Haringey,Drugs,Offender given a drugs possession warning
+1355,December,Haringey,Drugs,Offender given a drugs possession warning
+1356,December,Haringey,Drugs,Suspect charged
+1357,December,Haringey,Drugs,Suspect charged
+1358,December,Haringey,Drugs,Local resolution
+1359,December,Haringey,Drugs,Suspect charged
+1360,December,Haringey,Drugs,Suspect charged
+1361,December,Haringey,Drugs,Suspect charged
+1362,December,Haringey,Drugs,Local resolution
+1363,December,Haringey,Drugs,Local resolution
+1364,December,Haringey,Drugs,Local resolution
+1365,December,Haringey,Drugs,Local resolution
+1366,December,Haringey,Drugs,Local resolution
+1367,December,Haringey,Drugs,Local resolution
+1368,December,Haringey,Drugs,Local resolution
+1369,December,Haringey,Drugs,Local resolution
+1370,December,Haringey,Drugs,Local resolution
+1371,December,Haringey,Drugs,Local resolution
+1372,December,Haringey,Drugs,Local resolution
+1373,December,Haringey,Drugs,Local resolution
+1374,December,Haringey,Drugs,Offender given penalty notice
+1375,December,Haringey,Drugs,Offender given penalty notice
+1376,December,Haringey,Drugs,Local resolution
+1377,December,Haringey,Drugs,Suspect charged
+1378,December,Haringey,Drugs,Suspect charged
+1379,December,Haringey,Drugs,Local resolution
+1380,December,Haringey,Drugs,Local resolution
+1381,December,Haringey,Other crime,Suspect charged
+1382,December,Haringey,Other theft,Suspect charged
+1383,December,Haringey,Possession of weapons,Suspect charged
+1384,December,Haringey,Possession of weapons,Suspect charged
+1385,December,Haringey,Possession of weapons,Suspect charged
+1386,December,Haringey,Possession of weapons,Suspect charged
+1387,December,Haringey,Public order,Suspect charged
+1388,December,Haringey,Public order,Suspect charged
+1389,December,Haringey,Public order,Suspect charged
+1390,December,Haringey,Robbery,Suspect charged
+1391,December,Haringey,Robbery,Suspect charged
+1392,December,Haringey,Shoplifting,Offender given a caution
+1393,December,Haringey,Shoplifting,Suspect charged
+1394,December,Haringey,Vehicle crime,Suspect charged
+1395,December,Haringey,Vehicle crime,Suspect charged
+1396,December,Haringey,Violence,Suspect charged
+1397,December,Haringey,Violence,Suspect charged
+1398,December,Haringey,Violence,Suspect charged
+1399,December,Haringey,Violence,Suspect charged
+1400,December,Haringey,Violence,Suspect charged
+1401,December,Haringey,Violence,Suspect charged
+1402,December,Haringey,Violence,Suspect charged
+1403,December,Haringey,Violence,Suspect charged
+1404,December,Haringey,Violence,Suspect charged
+1405,December,Haringey,Violence,Offender given a caution
+1406,December,Haringey,Violence,Offender given a caution
+1407,December,Haringey,Violence,Suspect charged
+1408,December,Harrow,Burglary,Suspect charged
+1409,December,Harrow,Criminal damage and arson,Suspect charged
+1410,December,Harrow,Criminal damage and arson,Suspect charged
+1411,December,Harrow,Drugs,Local resolution
+1412,December,Harrow,Drugs,Offender given penalty notice
+1413,December,Harrow,Drugs,Suspect charged
+1414,December,Harrow,Drugs,Offender given penalty notice
+1415,December,Harrow,Drugs,Offender given penalty notice
+1416,December,Harrow,Drugs,Suspect charged
+1417,December,Harrow,Drugs,Suspect charged
+1418,December,Harrow,Drugs,Offender given penalty notice
+1419,December,Harrow,Drugs,Local resolution
+1420,December,Harrow,Drugs,Offender given penalty notice
+1421,December,Harrow,Drugs,Local resolution
+1422,December,Harrow,Drugs,Local resolution
+1423,December,Harrow,Drugs,Offender given a drugs possession warning
+1424,December,Harrow,Drugs,Local resolution
+1425,December,Harrow,Drugs,Offender given penalty notice
+1426,December,Harrow,Drugs,Local resolution
+1427,December,Harrow,Drugs,Offender given penalty notice
+1428,December,Harrow,Drugs,Suspect charged
+1429,December,Harrow,Drugs,Local resolution
+1430,December,Harrow,Drugs,Offender given a caution
+1431,December,Harrow,Drugs,Suspect charged
+1432,December,Harrow,Drugs,Local resolution
+1433,December,Harrow,Drugs,Offender given penalty notice
+1434,December,Harrow,Other crime,Suspect charged
+1435,December,Harrow,Other theft,Offender given a caution
+1436,December,Harrow,Possession of weapons,Suspect charged
+1437,December,Harrow,Public order,Suspect charged
+1438,December,Harrow,Public order,Suspect charged
+1439,December,Harrow,Shoplifting,Local resolution
+1440,December,Harrow,Shoplifting,Offender given a caution
+1441,December,Harrow,Shoplifting,Offender given a caution
+1442,December,Harrow,Shoplifting,Offender given penalty notice
+1443,December,Harrow,Shoplifting,Suspect charged
+1444,December,Harrow,Shoplifting,Suspect charged
+1445,December,Harrow,Vehicle crime,Suspect charged
+1446,December,Harrow,Violence,Suspect charged
+1447,December,Harrow,Violence,Offender given a caution
+1448,December,Harrow,Violence,Suspect charged
+1449,December,Harrow,Violence,Offender given a caution
+1450,December,Harrow,Violence,Suspect charged
+1451,December,Harrow,Violence,Suspect charged
+1452,December,Harrow,Violence,Suspect charged
+1453,December,Harrow,Violence,Suspect charged
+1454,December,Havering,Criminal damage and arson,Suspect charged
+1455,December,Havering,Criminal damage and arson,Offender given a caution
+1456,December,Havering,Drugs,Suspect charged
+1457,December,Havering,Drugs,Suspect charged
+1458,December,Havering,Drugs,Offender given penalty notice
+1459,December,Havering,Drugs,Local resolution
+1460,December,Havering,Drugs,Suspect charged
+1461,December,Havering,Drugs,Local resolution
+1462,December,Havering,Drugs,Local resolution
+1463,December,Havering,Drugs,Local resolution
+1464,December,Havering,Drugs,Local resolution
+1465,December,Havering,Drugs,Local resolution
+1466,December,Havering,Drugs,Local resolution
+1467,December,Havering,Drugs,Local resolution
+1468,December,Havering,Drugs,Local resolution
+1469,December,Havering,Drugs,Local resolution
+1470,December,Havering,Drugs,Offender given penalty notice
+1471,December,Havering,Drugs,Offender given penalty notice
+1472,December,Havering,Drugs,Suspect charged
+1473,December,Havering,Drugs,Suspect charged
+1474,December,Havering,Drugs,Suspect charged
+1475,December,Havering,Drugs,Local resolution
+1476,December,Havering,Drugs,Local resolution
+1477,December,Havering,Drugs,Local resolution
+1478,December,Havering,Drugs,Local resolution
+1479,December,Havering,Drugs,Local resolution
+1480,December,Havering,Drugs,Local resolution
+1481,December,Havering,Drugs,Suspect charged
+1482,December,Havering,Drugs,Local resolution
+1483,December,Havering,Other crime,Suspect charged
+1484,December,Havering,Other crime,Suspect charged
+1485,December,Havering,Other crime,Suspect charged
+1486,December,Havering,Possession of weapons,Suspect charged
+1487,December,Havering,Public order,Offender given penalty notice
+1488,December,Havering,Public order,Suspect charged
+1489,December,Havering,Public order,Suspect charged
+1490,December,Havering,Shoplifting,Suspect charged
+1491,December,Havering,Shoplifting,Suspect charged
+1492,December,Havering,Vehicle crime,Suspect charged
+1493,December,Havering,Violence,Suspect charged
+1494,December,Havering,Violence,Suspect charged
+1495,December,Havering,Violence,Suspect charged
+1496,December,Havering,Violence,Suspect charged
+1497,December,Havering,Violence,Suspect charged
+1498,December,Havering,Violence,Suspect charged
+1499,December,Havering,Violence,Suspect charged
+1500,December,Havering,Violence,Suspect charged
+1501,December,Havering,Violence,Suspect charged
+1502,December,Havering,Violence,Suspect charged
+1503,December,Havering,Violence,Suspect charged
+1504,December,Hillingdon ,Burglary,Suspect charged
+1505,December,Hillingdon ,Burglary,Suspect charged
+1506,December,Hillingdon ,Burglary,Suspect charged
+1507,December,Hillingdon ,Burglary,Suspect charged
+1508,December,Hillingdon ,Burglary,Suspect charged
+1509,December,Hillingdon ,Burglary,Suspect charged
+1510,December,Hillingdon ,Criminal damage and arson,Suspect charged
+1511,December,Hillingdon ,Criminal damage and arson,Suspect charged
+1512,December,Hillingdon ,Criminal damage and arson,Suspect charged
+1513,December,Hillingdon ,Criminal damage and arson,Suspect charged
+1514,December,Hillingdon ,Criminal damage and arson,Offender given a caution
+1515,December,Hillingdon ,Criminal damage and arson,Offender given a caution
+1516,December,Hillingdon ,Criminal damage and arson,Offender given a caution
+1517,December,Hillingdon ,Criminal damage and arson,Suspect charged
+1518,December,Hillingdon ,Criminal damage and arson,Suspect charged
+1519,December,Hillingdon ,Drugs,Local resolution
+1520,December,Hillingdon ,Drugs,Local resolution
+1521,December,Hillingdon ,Drugs,Local resolution
+1522,December,Hillingdon ,Drugs,Local resolution
+1523,December,Hillingdon ,Drugs,Local resolution
+1524,December,Hillingdon ,Drugs,Local resolution
+1525,December,Hillingdon ,Drugs,Local resolution
+1526,December,Hillingdon ,Drugs,Local resolution
+1527,December,Hillingdon ,Drugs,Offender given penalty notice
+1528,December,Hillingdon ,Drugs,Offender given penalty notice
+1529,December,Hillingdon ,Drugs,Local resolution
+1530,December,Hillingdon ,Drugs,Offender given a caution
+1531,December,Hillingdon ,Drugs,Local resolution
+1532,December,Hillingdon ,Drugs,Offender given a drugs possession warning
+1533,December,Hillingdon ,Drugs,Suspect charged
+1534,December,Hillingdon ,Drugs,Offender given penalty notice
+1535,December,Hillingdon ,Drugs,Local resolution
+1536,December,Hillingdon ,Drugs,Local resolution
+1537,December,Hillingdon ,Drugs,Local resolution
+1538,December,Hillingdon ,Drugs,Local resolution
+1539,December,Hillingdon ,Drugs,Local resolution
+1540,December,Hillingdon ,Drugs,Local resolution
+1541,December,Hillingdon ,Drugs,Local resolution
+1542,December,Hillingdon ,Drugs,Local resolution
+1543,December,Hillingdon ,Drugs,Local resolution
+1544,December,Hillingdon ,Drugs,Suspect charged
+1545,December,Hillingdon ,Drugs,Offender given a drugs possession warning
+1546,December,Hillingdon ,Drugs,Suspect charged
+1547,December,Hillingdon ,Drugs,Local resolution
+1548,December,Hillingdon ,Drugs,Offender given a caution
+1549,December,Hillingdon ,Drugs,Suspect charged
+1550,December,Hillingdon ,Drugs,Offender given a caution
+1551,December,Hillingdon ,Drugs,Offender given a caution
+1552,December,Hillingdon ,Drugs,Local resolution
+1553,December,Hillingdon ,Drugs,Suspect charged
+1554,December,Hillingdon ,Drugs,Local resolution
+1555,December,Hillingdon ,Drugs,Local resolution
+1556,December,Hillingdon ,Drugs,Investigation complete; no suspect identified
+1557,December,Hillingdon ,Drugs,Suspect charged
+1558,December,Hillingdon ,Drugs,Suspect charged
+1559,December,Hillingdon ,Drugs,Local resolution
+1560,December,Hillingdon ,Drugs,Offender given a drugs possession warning
+1561,December,Hillingdon ,Drugs,Local resolution
+1562,December,Hillingdon ,Other crime,Offender given a caution
+1563,December,Hillingdon ,Other crime,Local resolution
+1564,December,Hillingdon ,Other crime,Local resolution
+1565,December,Hillingdon ,Other crime,Local resolution
+1566,December,Hillingdon ,Other crime,Local resolution
+1567,December,Hillingdon ,Other crime,Local resolution
+1568,December,Hillingdon ,Other crime,Local resolution
+1569,December,Hillingdon ,Other crime,Local resolution
+1570,December,Hillingdon ,Other crime,Local resolution
+1571,December,Hillingdon ,Other crime,Local resolution
+1572,December,Hillingdon ,Other crime,Local resolution
+1573,December,Hillingdon ,Other crime,Local resolution
+1574,December,Hillingdon ,Other crime,Local resolution
+1575,December,Hillingdon ,Other crime,Local resolution
+1576,December,Hillingdon ,Other crime,Local resolution
+1577,December,Hillingdon ,Other crime,Local resolution
+1578,December,Hillingdon ,Other crime,Local resolution
+1579,December,Hillingdon ,Other crime,Local resolution
+1580,December,Hillingdon ,Other crime,Local resolution
+1581,December,Hillingdon ,Other crime,Local resolution
+1582,December,Hillingdon ,Other crime,Local resolution
+1583,December,Hillingdon ,Other crime,Local resolution
+1584,December,Hillingdon ,Other crime,Local resolution
+1585,December,Hillingdon ,Other crime,Local resolution
+1586,December,Hillingdon ,Other crime,Local resolution
+1587,December,Hillingdon ,Other crime,Local resolution
+1588,December,Hillingdon ,Other crime,Local resolution
+1589,December,Hillingdon ,Other crime,Local resolution
+1590,December,Hillingdon ,Other crime,Local resolution
+1591,December,Hillingdon ,Other crime,Local resolution
+1592,December,Hillingdon ,Other crime,Local resolution
+1593,December,Hillingdon ,Other crime,Local resolution
+1594,December,Hillingdon ,Other crime,Local resolution
+1595,December,Hillingdon ,Other crime,Local resolution
+1596,December,Hillingdon ,Other crime,Local resolution
+1597,December,Hillingdon ,Other crime,Local resolution
+1598,December,Hillingdon ,Other crime,Local resolution
+1599,December,Hillingdon ,Other crime,Local resolution
+1600,December,Hillingdon ,Other crime,Local resolution
+1601,December,Hillingdon ,Other crime,Local resolution
+1602,December,Hillingdon ,Other crime,Local resolution
+1603,December,Hillingdon ,Other crime,Local resolution
+1604,December,Hillingdon ,Other crime,Local resolution
+1605,December,Hillingdon ,Other crime,Local resolution
+1606,December,Hillingdon ,Other crime,Local resolution
+1607,December,Hillingdon ,Other crime,Local resolution
+1608,December,Hillingdon ,Other crime,Local resolution
+1609,December,Hillingdon ,Other crime,Local resolution
+1610,December,Hillingdon ,Other crime,Local resolution
+1611,December,Hillingdon ,Other crime,Local resolution
+1612,December,Hillingdon ,Other crime,Local resolution
+1613,December,Hillingdon ,Other crime,Local resolution
+1614,December,Hillingdon ,Other crime,Local resolution
+1615,December,Hillingdon ,Other crime,Local resolution
+1616,December,Hillingdon ,Other crime,Local resolution
+1617,December,Hillingdon ,Other crime,Offender given a caution
+1618,December,Hillingdon ,Other crime,Offender given a caution
+1619,December,Hillingdon ,Other crime,Suspect charged
+1620,December,Hillingdon ,Other crime,Suspect charged
+1621,December,Hillingdon ,Other theft,Offender given a caution
+1622,December,Hillingdon ,Other theft,Offender given a caution
+1623,December,Hillingdon ,Other theft,Offender given a caution
+1624,December,Hillingdon ,Other theft,Suspect charged
+1625,December,Hillingdon ,Other theft,Suspect charged
+1626,December,Hillingdon ,Other theft,Suspect charged
+1627,December,Hillingdon ,Possession of weapons,Suspect charged
+1628,December,Hillingdon ,Possession of weapons,Suspect charged
+1629,December,Hillingdon ,Possession of weapons,Suspect charged
+1630,December,Hillingdon ,Possession of weapons,Suspect charged
+1631,December,Hillingdon ,Possession of weapons,Offender given a caution
+1632,December,Hillingdon ,Possession of weapons,Offender given a caution
+1633,December,Hillingdon ,Public order,Suspect charged
+1634,December,Hillingdon ,Public order,Suspect charged
+1635,December,Hillingdon ,Public order,Offender given a caution
+1636,December,Hillingdon ,Public order,Suspect charged
+1637,December,Hillingdon ,Robbery,Suspect charged
+1638,December,Hillingdon ,Shoplifting,Suspect charged
+1639,December,Hillingdon ,Shoplifting,Offender given penalty notice
+1640,December,Hillingdon ,Shoplifting,Suspect charged
+1641,December,Hillingdon ,Shoplifting,Suspect charged
+1642,December,Hillingdon ,Shoplifting,Suspect charged
+1643,December,Hillingdon ,Shoplifting,Suspect charged
+1644,December,Hillingdon ,Shoplifting,Local resolution
+1645,December,Hillingdon ,Vehicle crime,Suspect charged
+1646,December,Hillingdon ,Vehicle crime,Suspect charged
+1647,December,Hillingdon ,Violence,Suspect charged
+1648,December,Hillingdon ,Violence,Suspect charged
+1649,December,Hillingdon ,Violence,Suspect charged
+1650,December,Hillingdon ,Violence,Suspect charged
+1651,December,Hillingdon ,Violence,Suspect charged
+1652,December,Hillingdon ,Violence,Suspect charged
+1653,December,Hillingdon ,Violence,Suspect charged
+1654,December,Hillingdon ,Violence,Suspect charged
+1655,December,Hillingdon ,Violence,Suspect charged
+1656,December,Hillingdon ,Violence,Local resolution
+1657,December,Hillingdon ,Violence,Investigation complete; no suspect identified
+1658,December,Hillingdon ,Violence,Suspect charged
+1659,December,Hillingdon ,Violence,Offender given a caution
+1660,December,Hillingdon ,Violence,Offender given a caution
+1661,December,Hillingdon ,Violence,Suspect charged
+1662,December,Hillingdon ,Violence,Suspect charged
+1663,December,Hillingdon ,Violence,Local resolution
+1664,December,Hillingdon ,Violence,Offender given a caution
+1665,December,Hillingdon ,Violence,Offender given a caution
+1666,December,Hillingdon ,Violence,Suspect charged
+1667,December,Hillingdon ,Violence,Suspect charged
+1668,December,Hillingdon ,Violence,Offender given a caution
+1669,December,Hillingdon ,Violence,Suspect charged
+1670,December,Hillingdon ,Violence,Suspect charged
+1671,December,Hillingdon ,Violence,Suspect charged
+1672,December,Hillingdon ,Violence,Offender given a caution
+1673,December,Hillingdon ,Violence,Offender given a caution
+1674,December,Hillingdon ,Violence,Suspect charged
+1675,December,Hounslow ,Criminal damage and arson,Suspect charged
+1676,December,Hounslow ,Drugs,Suspect charged
+1677,December,Hounslow ,Drugs,Local resolution
+1678,December,Hounslow ,Drugs,Offender given penalty notice
+1679,December,Hounslow ,Drugs,Suspect charged
+1680,December,Hounslow ,Drugs,Local resolution
+1681,December,Hounslow ,Drugs,Local resolution
+1682,December,Hounslow ,Drugs,Local resolution
+1683,December,Hounslow ,Drugs,Local resolution
+1684,December,Hounslow ,Drugs,Offender given penalty notice
+1685,December,Hounslow ,Drugs,Local resolution
+1686,December,Hounslow ,Drugs,Local resolution
+1687,December,Hounslow ,Drugs,Suspect charged
+1688,December,Hounslow ,Drugs,Local resolution
+1689,December,Hounslow ,Drugs,Suspect charged
+1690,December,Hounslow ,Drugs,Suspect charged
+1691,December,Hounslow ,Drugs,Local resolution
+1692,December,Hounslow ,Drugs,Local resolution
+1693,December,Hounslow ,Drugs,Local resolution
+1694,December,Hounslow ,Drugs,Suspect charged
+1695,December,Hounslow ,Drugs,Local resolution
+1696,December,Hounslow ,Drugs,Local resolution
+1697,December,Hounslow ,Drugs,Local resolution
+1698,December,Hounslow ,Drugs,Local resolution
+1699,December,Hounslow ,Drugs,Offender given penalty notice
+1700,December,Hounslow ,Drugs,Offender given penalty notice
+1701,December,Hounslow ,Drugs,Suspect charged
+1702,December,Hounslow ,Drugs,Offender given a drugs possession warning
+1703,December,Hounslow ,Drugs,Local resolution
+1704,December,Hounslow ,Drugs,Local resolution
+1705,December,Hounslow ,Drugs,Suspect charged
+1706,December,Hounslow ,Drugs,Offender given a caution
+1707,December,Hounslow ,Drugs,Local resolution
+1708,December,Hounslow ,Drugs,Suspect charged
+1709,December,Hounslow ,Drugs,Local resolution
+1710,December,Hounslow ,Drugs,Local resolution
+1711,December,Hounslow ,Drugs,Suspect charged
+1712,December,Hounslow ,Drugs,Local resolution
+1713,December,Hounslow ,Drugs,Local resolution
+1714,December,Hounslow ,Drugs,Local resolution
+1715,December,Hounslow ,Drugs,Local resolution
+1716,December,Hounslow ,Drugs,Local resolution
+1717,December,Hounslow ,Drugs,Offender given penalty notice
+1718,December,Hounslow ,Drugs,Suspect charged
+1719,December,Hounslow ,Drugs,Suspect charged
+1720,December,Hounslow ,Drugs,Suspect charged
+1721,December,Hounslow ,Drugs,Local resolution
+1722,December,Hounslow ,Drugs,Local resolution
+1723,December,Hounslow ,Drugs,Local resolution
+1724,December,Hounslow ,Drugs,Offender given penalty notice
+1725,December,Hounslow ,Drugs,Local resolution
+1726,December,Hounslow ,Drugs,Offender given a caution
+1727,December,Hounslow ,Drugs,Offender given penalty notice
+1728,December,Hounslow ,Other crime,Local resolution
+1729,December,Hounslow ,Possession of weapons,Suspect charged
+1730,December,Hounslow ,Possession of weapons,Suspect charged
+1731,December,Hounslow ,Possession of weapons,Suspect charged
+1732,December,Hounslow ,Public order,Offender given penalty notice
+1733,December,Hounslow ,Public order,Investigation complete; no suspect identified
+1734,December,Hounslow ,Public order,Offender given a caution
+1735,December,Hounslow ,Public order,Offender given a caution
+1736,December,Hounslow ,Public order,Suspect charged
+1737,December,Hounslow ,Robbery,Suspect charged
+1738,December,Hounslow ,Shoplifting,Local resolution
+1739,December,Hounslow ,Shoplifting,Suspect charged
+1740,December,Hounslow ,Shoplifting,Suspect charged
+1741,December,Hounslow ,Shoplifting,Suspect charged
+1742,December,Hounslow ,Shoplifting,Offender given a caution
+1743,December,Hounslow ,Vehicle crime,Investigation complete; no suspect identified
+1744,December,Hounslow ,Vehicle crime,Suspect charged
+1745,December,Hounslow ,Vehicle crime,Suspect charged
+1746,December,Hounslow ,Vehicle crime,Suspect charged
+1747,December,Hounslow ,Violence,Suspect charged
+1748,December,Hounslow ,Violence,Suspect charged
+1749,December,Hounslow ,Violence,Suspect charged
+1750,December,Hounslow ,Violence,Suspect charged
+1751,December,Hounslow ,Violence,Suspect charged
+1752,December,Hounslow ,Violence,Suspect charged
+1753,December,Hounslow ,Violence,Suspect charged
+1754,December,Hounslow ,Violence,Offender given a caution
+1755,December,Hounslow ,Violence,Suspect charged
+1756,December,Hounslow ,Violence,Local resolution
+1757,December,Hounslow ,Violence,Suspect charged
+1758,December,Hounslow ,Violence,Local resolution
+1759,December,Hounslow ,Violence,Suspect charged
+1760,December,Hounslow ,Violence,Suspect charged
+1761,December,Hounslow ,Violence,Suspect charged
+1762,December,Hounslow ,Violence,Suspect charged
+1763,December,Hounslow ,Violence,Suspect charged
+1764,December,Hounslow ,Violence,Suspect charged
+1765,December,Hounslow ,Violence,Suspect charged
+1766,December,Hounslow ,Violence,Suspect charged
+1767,December,Hounslow ,Violence,Suspect charged
+1768,December,Hounslow ,Violence,Local resolution
+1769,December,Hounslow ,Violence,Suspect charged
+1770,December,Hounslow ,Violence,Suspect charged
+1771,December,Hounslow ,Violence,Suspect charged
+1772,December,Hounslow ,Violence,Suspect charged
+1773,December,Hounslow ,Violence,Suspect charged
+1774,December,Hounslow ,Violence,Suspect charged
+1775,December,Hounslow ,Violence,Suspect charged
+1776,December,Hounslow ,Violence,Suspect charged
+1777,December,Hounslow ,Violence,Suspect charged
+1778,December,Hounslow ,Violence,Suspect charged
+1779,December,Hounslow ,Violence,Suspect charged
+1780,December,Hounslow ,Violence,Suspect charged
+1781,December,Hounslow ,Violence,Offender given a caution
+1782,December,Isle of Wight ,Violence,Suspect charged
+1783,December,Islington ,Burglary,Suspect charged
+1784,December,Islington ,Criminal damage and arson,Suspect charged
+1785,December,Islington ,Criminal damage and arson,Local resolution
+1786,December,Islington ,Criminal damage and arson,Offender given a caution
+1787,December,Islington ,Criminal damage and arson,Suspect charged
+1788,December,Islington ,Drugs,Suspect charged
+1789,December,Islington ,Drugs,Local resolution
+1790,December,Islington ,Drugs,Local resolution
+1791,December,Islington ,Drugs,Local resolution
+1792,December,Islington ,Drugs,Local resolution
+1793,December,Islington ,Drugs,Offender given penalty notice
+1794,December,Islington ,Drugs,Suspect charged
+1795,December,Islington ,Drugs,Local resolution
+1796,December,Islington ,Drugs,Local resolution
+1797,December,Islington ,Drugs,Offender given penalty notice
+1798,December,Islington ,Drugs,Offender given penalty notice
+1799,December,Islington ,Drugs,Offender given penalty notice
+1800,December,Islington ,Drugs,Local resolution
+1801,December,Islington ,Drugs,Local resolution
+1802,December,Islington ,Drugs,Local resolution
+1803,December,Islington ,Drugs,Local resolution
+1804,December,Islington ,Drugs,Local resolution
+1805,December,Islington ,Drugs,Suspect charged
+1806,December,Islington ,Drugs,Local resolution
+1807,December,Islington ,Drugs,Offender given a caution
+1808,December,Islington ,Drugs,Local resolution
+1809,December,Islington ,Drugs,Suspect charged
+1810,December,Islington ,Drugs,Local resolution
+1811,December,Islington ,Drugs,Local resolution
+1812,December,Islington ,Drugs,Local resolution
+1813,December,Islington ,Drugs,Local resolution
+1814,December,Islington ,Drugs,Local resolution
+1815,December,Islington ,Drugs,Local resolution
+1816,December,Islington ,Drugs,Offender given a caution
+1817,December,Islington ,Drugs,Offender given penalty notice
+1818,December,Islington ,Drugs,Local resolution
+1819,December,Islington ,Drugs,Local resolution
+1820,December,Islington ,Drugs,Offender given penalty notice
+1821,December,Islington ,Drugs,Suspect charged
+1822,December,Islington ,Drugs,Local resolution
+1823,December,Islington ,Drugs,Local resolution
+1824,December,Islington ,Drugs,Local resolution
+1825,December,Islington ,Drugs,Offender given penalty notice
+1826,December,Islington ,Drugs,Local resolution
+1827,December,Islington ,Drugs,Local resolution
+1828,December,Islington ,Drugs,Local resolution
+1829,December,Islington ,Drugs,Offender given penalty notice
+1830,December,Islington ,Drugs,Suspect charged
+1831,December,Islington ,Drugs,Local resolution
+1832,December,Islington ,Drugs,Local resolution
+1833,December,Islington ,Drugs,Local resolution
+1834,December,Islington ,Drugs,Offender given penalty notice
+1835,December,Islington ,Drugs,Local resolution
+1836,December,Islington ,Drugs,Local resolution
+1837,December,Islington ,Drugs,Local resolution
+1838,December,Islington ,Drugs,Local resolution
+1839,December,Islington ,Drugs,Local resolution
+1840,December,Islington ,Drugs,Local resolution
+1841,December,Islington ,Drugs,Local resolution
+1842,December,Islington ,Drugs,Local resolution
+1843,December,Islington ,Drugs,Local resolution
+1844,December,Islington ,Drugs,Suspect charged
+1845,December,Islington ,Drugs,Local resolution
+1846,December,Islington ,Drugs,Local resolution
+1847,December,Islington ,Drugs,Offender given penalty notice
+1848,December,Islington ,Drugs,Suspect charged
+1849,December,Islington ,Drugs,Suspect charged
+1850,December,Islington ,Drugs,Local resolution
+1851,December,Islington ,Drugs,Local resolution
+1852,December,Islington ,Drugs,Suspect charged
+1853,December,Islington ,Drugs,Local resolution
+1854,December,Islington ,Drugs,Local resolution
+1855,December,Islington ,Drugs,Local resolution
+1856,December,Islington ,Drugs,Local resolution
+1857,December,Islington ,Drugs,Local resolution
+1858,December,Islington ,Drugs,Offender given penalty notice
+1859,December,Islington ,Drugs,Local resolution
+1860,December,Islington ,Drugs,Local resolution
+1861,December,Islington ,Other crime,Offender given a caution
+1862,December,Islington ,Other crime,Suspect charged
+1863,December,Islington ,Other theft,Local resolution
+1864,December,Islington ,Possession of weapons,Suspect charged
+1865,December,Islington ,Possession of weapons,Offender given a caution
+1866,December,Islington ,Possession of weapons,Suspect charged
+1867,December,Islington ,Public order,Suspect charged
+1868,December,Islington ,Public order,Offender given a caution
+1869,December,Islington ,Public order,Local resolution
+1870,December,Islington ,Public order,Suspect charged
+1871,December,Islington ,Public order,Suspect charged
+1872,December,Islington ,Public order,Suspect charged
+1873,December,Islington ,Public order,Suspect charged
+1874,December,Islington ,Public order,Local resolution
+1875,December,Islington ,Public order,Suspect charged
+1876,December,Islington ,Public order,Suspect charged
+1877,December,Islington ,Public order,Suspect charged
+1878,December,Islington ,Robbery,Suspect charged
+1879,December,Islington ,Shoplifting,Local resolution
+1880,December,Islington ,Shoplifting,Offender given penalty notice
+1881,December,Islington ,Shoplifting,Local resolution
+1882,December,Islington ,Shoplifting,Suspect charged
+1883,December,Islington ,Shoplifting,Suspect charged
+1884,December,Islington ,Shoplifting,Local resolution
+1885,December,Islington ,Shoplifting,Offender given a caution
+1886,December,Islington ,Shoplifting,Local resolution
+1887,December,Islington ,Shoplifting,Local resolution
+1888,December,Islington ,Shoplifting,Local resolution
+1889,December,Islington ,Shoplifting,Local resolution
+1890,December,Islington ,Shoplifting,Local resolution
+1891,December,Islington ,Shoplifting,Suspect charged
+1892,December,Islington ,Shoplifting,Local resolution
+1893,December,Islington ,Shoplifting,Local resolution
+1894,December,Islington ,Shoplifting,Local resolution
+1895,December,Islington ,Shoplifting,Local resolution
+1896,December,Islington ,Shoplifting,Local resolution
+1897,December,Islington ,Theft from the person,Offender given a caution
+1898,December,Islington ,Theft from the person,Suspect charged
+1899,December,Islington ,Vehicle crime,Suspect charged
+1900,December,Islington ,Violence,Local resolution
+1901,December,Islington ,Violence,Offender given a caution
+1902,December,Islington ,Violence,Suspect charged
+1903,December,Islington ,Violence,Offender given a caution
+1904,December,Islington ,Violence,Suspect charged
+1905,December,Islington ,Violence,Suspect charged
+1906,December,Islington ,Violence,Suspect charged
+1907,December,Islington ,Violence,Suspect charged
+1908,December,Islington ,Violence,Local resolution
+1909,December,Islington ,Violence,Suspect charged
+1910,December,Islington ,Violence,Suspect charged
+1911,December,Islington ,Violence,Suspect charged
+1912,December,Islington ,Violence,Offender given a caution
+1913,December,Islington ,Violence,Suspect charged
+1914,December,Islington ,Violence,Suspect charged
+1915,December,Islington ,Violence,Suspect charged
+1916,December,Islington ,Violence,Suspect charged
+1917,December,Islington ,Violence,Local resolution
+1918,December,Islington ,Violence,Offender given a caution
+1919,December,Islington ,Violence,Suspect charged
+1920,December,Kensington and Chelsea ,Burglary,Suspect charged
+1921,December,Kensington and Chelsea ,Burglary,Suspect charged
+1922,December,Kensington and Chelsea ,Burglary,Local resolution
+1923,December,Kensington and Chelsea ,Criminal damage and arson,Suspect charged
+1924,December,Kensington and Chelsea ,Criminal damage and arson,Offender given a caution
+1925,December,Kensington and Chelsea ,Criminal damage and arson,Local resolution
+1926,December,Kensington and Chelsea ,Criminal damage and arson,Suspect charged
+1927,December,Kensington and Chelsea ,Drugs,Local resolution
+1928,December,Kensington and Chelsea ,Drugs,Local resolution
+1929,December,Kensington and Chelsea ,Drugs,Suspect charged
+1930,December,Kensington and Chelsea ,Drugs,Offender given penalty notice
+1931,December,Kensington and Chelsea ,Drugs,Suspect charged
+1932,December,Kensington and Chelsea ,Drugs,Local resolution
+1933,December,Kensington and Chelsea ,Drugs,Local resolution
+1934,December,Kensington and Chelsea ,Drugs,Local resolution
+1935,December,Kensington and Chelsea ,Drugs,Local resolution
+1936,December,Kensington and Chelsea ,Drugs,Suspect charged
+1937,December,Kensington and Chelsea ,Drugs,Local resolution
+1938,December,Kensington and Chelsea ,Drugs,Local resolution
+1939,December,Kensington and Chelsea ,Drugs,Local resolution
+1940,December,Kensington and Chelsea ,Drugs,Local resolution
+1941,December,Kensington and Chelsea ,Drugs,Local resolution
+1942,December,Kensington and Chelsea ,Drugs,Suspect charged
+1943,December,Kensington and Chelsea ,Drugs,Local resolution
+1944,December,Kensington and Chelsea ,Drugs,Local resolution
+1945,December,Kensington and Chelsea ,Drugs,Local resolution
+1946,December,Kensington and Chelsea ,Drugs,Offender given a caution
+1947,December,Kensington and Chelsea ,Drugs,Local resolution
+1948,December,Kensington and Chelsea ,Drugs,Local resolution
+1949,December,Kensington and Chelsea ,Drugs,Local resolution
+1950,December,Kensington and Chelsea ,Drugs,Local resolution
+1951,December,Kensington and Chelsea ,Drugs,Local resolution
+1952,December,Kensington and Chelsea ,Drugs,Local resolution
+1953,December,Kensington and Chelsea ,Drugs,Local resolution
+1954,December,Kensington and Chelsea ,Drugs,Local resolution
+1955,December,Kensington and Chelsea ,Drugs,Offender given a caution
+1956,December,Kensington and Chelsea ,Drugs,Local resolution
+1957,December,Kensington and Chelsea ,Drugs,Local resolution
+1958,December,Kensington and Chelsea ,Other crime,Suspect charged
+1959,December,Kensington and Chelsea ,Other crime,Suspect charged
+1960,December,Kensington and Chelsea ,Other crime,Suspect charged
+1961,December,Kensington and Chelsea ,Other theft,Local resolution
+1962,December,Kensington and Chelsea ,Other theft,Suspect charged
+1963,December,Kensington and Chelsea ,Other theft,Local resolution
+1964,December,Kensington and Chelsea ,Other theft,Suspect charged
+1965,December,Kensington and Chelsea ,Possession of weapons,Suspect charged
+1966,December,Kensington and Chelsea ,Possession of weapons,Offender given a caution
+1967,December,Kensington and Chelsea ,Possession of weapons,Suspect charged
+1968,December,Kensington and Chelsea ,Public order,Suspect charged
+1969,December,Kensington and Chelsea ,Public order,Local resolution
+1970,December,Kensington and Chelsea ,Public order,Suspect charged
+1971,December,Kensington and Chelsea ,Public order,Suspect charged
+1972,December,Kensington and Chelsea ,Public order,Offender given a caution
+1973,December,Kensington and Chelsea ,Public order,Offender given a caution
+1974,December,Kensington and Chelsea ,Robbery,Suspect charged
+1975,December,Kensington and Chelsea ,Shoplifting,Suspect charged
+1976,December,Kensington and Chelsea ,Shoplifting,Local resolution
+1977,December,Kensington and Chelsea ,Shoplifting,Local resolution
+1978,December,Kensington and Chelsea ,Shoplifting,Local resolution
+1979,December,Kensington and Chelsea ,Shoplifting,Suspect charged
+1980,December,Kensington and Chelsea ,Shoplifting,Suspect charged
+1981,December,Kensington and Chelsea ,Shoplifting,Suspect charged
+1982,December,Kensington and Chelsea ,Shoplifting,Suspect charged
+1983,December,Kensington and Chelsea ,Shoplifting,Suspect charged
+1984,December,Kensington and Chelsea ,Shoplifting,Suspect charged
+1985,December,Kensington and Chelsea ,Shoplifting,Local resolution
+1986,December,Kensington and Chelsea ,Violence,Suspect charged
+1987,December,Kensington and Chelsea ,Violence,Suspect charged
+1988,December,Kensington and Chelsea ,Violence,Local resolution
+1989,December,Kensington and Chelsea ,Violence,Local resolution
+1990,December,Kensington and Chelsea ,Violence,Suspect charged
+1991,December,Kensington and Chelsea ,Violence,Suspect charged
+1992,December,Kensington and Chelsea ,Violence,Offender given a caution
+1993,December,Kensington and Chelsea ,Violence,Suspect charged
+1994,December,Kensington and Chelsea ,Violence,Suspect charged
+1995,December,Kensington and Chelsea ,Violence,Suspect charged
+1996,December,Kensington and Chelsea ,Violence,Local resolution
+1997,December,Kensington and Chelsea ,Violence,Suspect charged
+1998,December,Kingston upon Thames ,Burglary,Suspect charged
+1999,December,Kingston upon Thames ,Burglary,Suspect charged
+2000,December,Kingston upon Thames ,Criminal damage and arson,Suspect charged
+2001,December,Kingston upon Thames ,Criminal damage and arson,Suspect charged
+2002,December,Kingston upon Thames ,Drugs,Local resolution
+2003,December,Kingston upon Thames ,Drugs,Local resolution
+2004,December,Kingston upon Thames ,Drugs,Offender given penalty notice
+2005,December,Kingston upon Thames ,Drugs,Offender given a caution
+2006,December,Kingston upon Thames ,Drugs,Suspect charged
+2007,December,Kingston upon Thames ,Drugs,Suspect charged
+2008,December,Kingston upon Thames ,Drugs,Local resolution
+2009,December,Kingston upon Thames ,Drugs,Suspect charged
+2010,December,Kingston upon Thames ,Drugs,Local resolution
+2011,December,Kingston upon Thames ,Drugs,Offender given a caution
+2012,December,Kingston upon Thames ,Drugs,Suspect charged
+2013,December,Kingston upon Thames ,Drugs,Suspect charged
+2014,December,Kingston upon Thames ,Drugs,Local resolution
+2015,December,Kingston upon Thames ,Drugs,Offender given a drugs possession warning
+2016,December,Kingston upon Thames ,Drugs,Offender given penalty notice
+2017,December,Kingston upon Thames ,Drugs,Local resolution
+2018,December,Kingston upon Thames ,Drugs,Local resolution
+2019,December,Kingston upon Thames ,Drugs,Local resolution
+2020,December,Kingston upon Thames ,Drugs,Local resolution
+2021,December,Kingston upon Thames ,Drugs,Offender given a drugs possession warning
+2022,December,Kingston upon Thames ,Drugs,Suspect charged
+2023,December,Kingston upon Thames ,Drugs,Suspect charged
+2024,December,Kingston upon Thames ,Drugs,Local resolution
+2025,December,Kingston upon Thames ,Drugs,Offender given penalty notice
+2026,December,Kingston upon Thames ,Drugs,Local resolution
+2027,December,Kingston upon Thames ,Drugs,Suspect charged
+2028,December,Kingston upon Thames ,Drugs,Local resolution
+2029,December,Kingston upon Thames ,Drugs,Suspect charged
+2030,December,Kingston upon Thames ,Drugs,Local resolution
+2031,December,Kingston upon Thames ,Other crime,Suspect charged
+2032,December,Kingston upon Thames ,Other crime,Suspect charged
+2033,December,Kingston upon Thames ,Possession of weapons,Suspect charged
+2034,December,Kingston upon Thames ,Possession of weapons,Suspect charged
+2035,December,Kingston upon Thames ,Possession of weapons,Suspect charged
+2036,December,Kingston upon Thames ,Public order,Suspect charged
+2037,December,Kingston upon Thames ,Public order,Local resolution
+2038,December,Kingston upon Thames ,Shoplifting,Suspect charged
+2039,December,Kingston upon Thames ,Shoplifting,Local resolution
+2040,December,Kingston upon Thames ,Shoplifting,Suspect charged
+2041,December,Kingston upon Thames ,Shoplifting,Suspect charged
+2042,December,Kingston upon Thames ,Shoplifting,Suspect charged
+2043,December,Kingston upon Thames ,Shoplifting,Suspect charged
+2044,December,Kingston upon Thames ,Shoplifting,Suspect charged
+2045,December,Kingston upon Thames ,Shoplifting,Suspect charged
+2046,December,Kingston upon Thames ,Shoplifting,Suspect charged
+2047,December,Kingston upon Thames ,Shoplifting,Suspect charged
+2048,December,Kingston upon Thames ,Shoplifting,Suspect charged
+2049,December,Kingston upon Thames ,Violence,Offender given a caution
+2050,December,Kingston upon Thames ,Violence,Suspect charged
+2051,December,Kingston upon Thames ,Violence,Local resolution
+2052,December,Kingston upon Thames ,Violence,Offender given a caution
+2053,December,Kingston upon Thames ,Violence,Suspect charged
+2054,December,Kingston upon Thames ,Violence,Local resolution
+2055,December,Lambeth ,Bicycle theft,Offender given a caution
+2056,December,Lambeth ,Burglary,Suspect charged
+2057,December,Lambeth ,Burglary,Suspect charged
+2058,December,Lambeth ,Criminal damage and arson,Offender given a caution
+2059,December,Lambeth ,Criminal damage and arson,Suspect charged
+2060,December,Lambeth ,Criminal damage and arson,Local resolution
+2061,December,Lambeth ,Criminal damage and arson,Suspect charged
+2062,December,Lambeth ,Criminal damage and arson,Suspect charged
+2063,December,Lambeth ,Criminal damage and arson,Offender given a caution
+2064,December,Lambeth ,Criminal damage and arson,Offender given a caution
+2065,December,Lambeth ,Criminal damage and arson,Suspect charged
+2066,December,Lambeth ,Criminal damage and arson,Local resolution
+2067,December,Lambeth ,Criminal damage and arson,Suspect charged
+2068,December,Lambeth ,Drugs,Offender given a caution
+2069,December,Lambeth ,Drugs,Local resolution
+2070,December,Lambeth ,Drugs,Offender given penalty notice
+2071,December,Lambeth ,Drugs,Offender given penalty notice
+2072,December,Lambeth ,Drugs,Suspect charged
+2073,December,Lambeth ,Drugs,Local resolution
+2074,December,Lambeth ,Drugs,Local resolution
+2075,December,Lambeth ,Drugs,Local resolution
+2076,December,Lambeth ,Drugs,Local resolution
+2077,December,Lambeth ,Drugs,Local resolution
+2078,December,Lambeth ,Drugs,Local resolution
+2079,December,Lambeth ,Drugs,Local resolution
+2080,December,Lambeth ,Drugs,Local resolution
+2081,December,Lambeth ,Drugs,Local resolution
+2082,December,Lambeth ,Drugs,Offender given penalty notice
+2083,December,Lambeth ,Drugs,Suspect charged
+2084,December,Lambeth ,Drugs,Offender given penalty notice
+2085,December,Lambeth ,Drugs,Local resolution
+2086,December,Lambeth ,Drugs,Local resolution
+2087,December,Lambeth ,Drugs,Suspect charged
+2088,December,Lambeth ,Drugs,Local resolution
+2089,December,Lambeth ,Drugs,Local resolution
+2090,December,Lambeth ,Drugs,Local resolution
+2091,December,Lambeth ,Drugs,Local resolution
+2092,December,Lambeth ,Drugs,Local resolution
+2093,December,Lambeth ,Drugs,Suspect charged
+2094,December,Lambeth ,Drugs,Suspect charged
+2095,December,Lambeth ,Drugs,Local resolution
+2096,December,Lambeth ,Drugs,Offender given penalty notice
+2097,December,Lambeth ,Drugs,Local resolution
+2098,December,Lambeth ,Drugs,Local resolution
+2099,December,Lambeth ,Drugs,Local resolution
+2100,December,Lambeth ,Drugs,Local resolution
+2101,December,Lambeth ,Drugs,Offender given a drugs possession warning
+2102,December,Lambeth ,Drugs,Local resolution
+2103,December,Lambeth ,Drugs,Suspect charged
+2104,December,Lambeth ,Drugs,Local resolution
+2105,December,Lambeth ,Drugs,Offender given penalty notice
+2106,December,Lambeth ,Drugs,Local resolution
+2107,December,Lambeth ,Drugs,Offender given penalty notice
+2108,December,Lambeth ,Drugs,Offender given penalty notice
+2109,December,Lambeth ,Drugs,Suspect charged
+2110,December,Lambeth ,Drugs,Local resolution
+2111,December,Lambeth ,Drugs,Offender given penalty notice
+2112,December,Lambeth ,Drugs,Local resolution
+2113,December,Lambeth ,Drugs,Suspect charged
+2114,December,Lambeth ,Drugs,Local resolution
+2115,December,Lambeth ,Drugs,Local resolution
+2116,December,Lambeth ,Drugs,Offender given penalty notice
+2117,December,Lambeth ,Drugs,Suspect charged
+2118,December,Lambeth ,Drugs,Local resolution
+2119,December,Lambeth ,Drugs,Local resolution
+2120,December,Lambeth ,Drugs,Local resolution
+2121,December,Lambeth ,Drugs,Local resolution
+2122,December,Lambeth ,Drugs,Local resolution
+2123,December,Lambeth ,Drugs,Local resolution
+2124,December,Lambeth ,Drugs,Offender given a drugs possession warning
+2125,December,Lambeth ,Drugs,Suspect charged
+2126,December,Lambeth ,Drugs,Offender given a caution
+2127,December,Lambeth ,Drugs,Suspect charged
+2128,December,Lambeth ,Drugs,Local resolution
+2129,December,Lambeth ,Drugs,Offender given a drugs possession warning
+2130,December,Lambeth ,Drugs,Local resolution
+2131,December,Lambeth ,Drugs,Suspect charged
+2132,December,Lambeth ,Drugs,Suspect charged
+2133,December,Lambeth ,Drugs,Suspect charged
+2134,December,Lambeth ,Drugs,Local resolution
+2135,December,Lambeth ,Drugs,Suspect charged
+2136,December,Lambeth ,Drugs,Local resolution
+2137,December,Lambeth ,Drugs,Suspect charged
+2138,December,Lambeth ,Drugs,Suspect charged
+2139,December,Lambeth ,Drugs,Local resolution
+2140,December,Lambeth ,Drugs,Local resolution
+2141,December,Lambeth ,Drugs,Suspect charged
+2142,December,Lambeth ,Drugs,Local resolution
+2143,December,Lambeth ,Drugs,Local resolution
+2144,December,Lambeth ,Drugs,Suspect charged
+2145,December,Lambeth ,Drugs,Local resolution
+2146,December,Lambeth ,Drugs,Local resolution
+2147,December,Lambeth ,Drugs,Suspect charged
+2148,December,Lambeth ,Drugs,Local resolution
+2149,December,Lambeth ,Drugs,Suspect charged
+2150,December,Lambeth ,Drugs,Local resolution
+2151,December,Lambeth ,Drugs,Suspect charged
+2152,December,Lambeth ,Drugs,Offender given a drugs possession warning
+2153,December,Lambeth ,Drugs,Offender given penalty notice
+2154,December,Lambeth ,Drugs,Offender given penalty notice
+2155,December,Lambeth ,Other crime,Suspect charged
+2156,December,Lambeth ,Other crime,Suspect charged
+2157,December,Lambeth ,Other theft,Suspect charged
+2158,December,Lambeth ,Possession of weapons,Suspect charged
+2159,December,Lambeth ,Possession of weapons,Suspect charged
+2160,December,Lambeth ,Possession of weapons,Suspect charged
+2161,December,Lambeth ,Possession of weapons,Suspect charged
+2162,December,Lambeth ,Possession of weapons,Suspect charged
+2163,December,Lambeth ,Possession of weapons,Suspect charged
+2164,December,Lambeth ,Possession of weapons,Suspect charged
+2165,December,Lambeth ,Possession of weapons,Suspect charged
+2166,December,Lambeth ,Possession of weapons,Suspect charged
+2167,December,Lambeth ,Public order,Suspect charged
+2168,December,Lambeth ,Public order,Suspect charged
+2169,December,Lambeth ,Public order,Suspect charged
+2170,December,Lambeth ,Public order,Suspect charged
+2171,December,Lambeth ,Public order,Suspect charged
+2172,December,Lambeth ,Public order,Suspect charged
+2173,December,Lambeth ,Shoplifting,Suspect charged
+2174,December,Lambeth ,Shoplifting,Offender given penalty notice
+2175,December,Lambeth ,Shoplifting,Suspect charged
+2176,December,Lambeth ,Theft from the person,Suspect charged
+2177,December,Lambeth ,Vehicle crime,Suspect charged
+2178,December,Lambeth ,Violence,Suspect charged
+2179,December,Lambeth ,Violence,Suspect charged
+2180,December,Lambeth ,Violence,Suspect charged
+2181,December,Lambeth ,Violence,Suspect charged
+2182,December,Lambeth ,Violence,Suspect charged
+2183,December,Lambeth ,Violence,Offender given a caution
+2184,December,Lambeth ,Violence,Suspect charged
+2185,December,Lambeth ,Violence,Suspect charged
+2186,December,Lambeth ,Violence,Suspect charged
+2187,December,Lambeth ,Violence,Suspect charged
+2188,December,Lambeth ,Violence,Suspect charged
+2189,December,Lambeth ,Violence,Suspect charged
+2190,December,Lambeth ,Violence,Suspect charged
+2191,December,Lambeth ,Violence,Suspect charged
+2192,December,Lambeth ,Violence,Local resolution
+2193,December,Lambeth ,Violence,Suspect charged
+2194,December,Lambeth ,Violence,Offender given a caution
+2195,December,Lambeth ,Violence,Local resolution
+2196,December,Lambeth ,Violence,Suspect charged
+2197,December,Lambeth ,Violence,Suspect charged
+2198,December,Lambeth ,Violence,Suspect charged
+2199,December,Lewisham ,Burglary,Suspect charged
+2200,December,Lewisham ,Burglary,Suspect charged
+2201,December,Lewisham ,Burglary,Suspect charged
+2202,December,Lewisham ,Burglary,Suspect charged
+2203,December,Lewisham ,Criminal damage and arson,Suspect charged
+2204,December,Lewisham ,Criminal damage and arson,Offender given a caution
+2205,December,Lewisham ,Criminal damage and arson,Suspect charged
+2206,December,Lewisham ,Criminal damage and arson,Suspect charged
+2207,December,Lewisham ,Criminal damage and arson,Suspect charged
+2208,December,Lewisham ,Criminal damage and arson,Local resolution
+2209,December,Lewisham ,Criminal damage and arson,Suspect charged
+2210,December,Lewisham ,Criminal damage and arson,Suspect charged
+2211,December,Lewisham ,Criminal damage and arson,Suspect charged
+2212,December,Lewisham ,Drugs,Suspect charged
+2213,December,Lewisham ,Drugs,Local resolution
+2214,December,Lewisham ,Drugs,Local resolution
+2215,December,Lewisham ,Drugs,Suspect charged
+2216,December,Lewisham ,Drugs,Local resolution
+2217,December,Lewisham ,Drugs,Suspect charged
+2218,December,Lewisham ,Drugs,Offender given penalty notice
+2219,December,Lewisham ,Drugs,Local resolution
+2220,December,Lewisham ,Drugs,Offender given penalty notice
+2221,December,Lewisham ,Drugs,Local resolution
+2222,December,Lewisham ,Drugs,Suspect charged
+2223,December,Lewisham ,Drugs,Suspect charged
+2224,December,Lewisham ,Drugs,Local resolution
+2225,December,Lewisham ,Drugs,Local resolution
+2226,December,Lewisham ,Drugs,Offender given penalty notice
+2227,December,Lewisham ,Drugs,Suspect charged
+2228,December,Lewisham ,Drugs,Suspect charged
+2229,December,Lewisham ,Drugs,Offender given penalty notice
+2230,December,Lewisham ,Drugs,Local resolution
+2231,December,Lewisham ,Drugs,Offender given penalty notice
+2232,December,Lewisham ,Drugs,Offender given a caution
+2233,December,Lewisham ,Drugs,Investigation complete; no suspect identified
+2234,December,Lewisham ,Drugs,Local resolution
+2235,December,Lewisham ,Drugs,Suspect charged
+2236,December,Lewisham ,Drugs,Suspect charged
+2237,December,Lewisham ,Drugs,Suspect charged
+2238,December,Lewisham ,Drugs,Suspect charged
+2239,December,Lewisham ,Drugs,Local resolution
+2240,December,Lewisham ,Drugs,Offender given a drugs possession warning
+2241,December,Lewisham ,Drugs,Offender given a drugs possession warning
+2242,December,Lewisham ,Drugs,Suspect charged
+2243,December,Lewisham ,Drugs,Suspect charged
+2244,December,Lewisham ,Drugs,Local resolution
+2245,December,Lewisham ,Drugs,Local resolution
+2246,December,Lewisham ,Drugs,Suspect charged
+2247,December,Lewisham ,Other crime,Suspect charged
+2248,December,Lewisham ,Other crime,Suspect charged
+2249,December,Lewisham ,Possession of weapons,Suspect charged
+2250,December,Lewisham ,Possession of weapons,Suspect charged
+2251,December,Lewisham ,Possession of weapons,Suspect charged
+2252,December,Lewisham ,Possession of weapons,Offender given a caution
+2253,December,Lewisham ,Possession of weapons,Suspect charged
+2254,December,Lewisham ,Public order,Suspect charged
+2255,December,Lewisham ,Public order,Suspect charged
+2256,December,Lewisham ,Shoplifting,Suspect charged
+2257,December,Lewisham ,Shoplifting,Suspect charged
+2258,December,Lewisham ,Shoplifting,Suspect charged
+2259,December,Lewisham ,Shoplifting,Suspect charged
+2260,December,Lewisham ,Shoplifting,Local resolution
+2261,December,Lewisham ,Vehicle crime,Suspect charged
+2262,December,Lewisham ,Vehicle crime,Suspect charged
+2263,December,Lewisham ,Violence,Suspect charged
+2264,December,Lewisham ,Violence,Offender given a caution
+2265,December,Lewisham ,Violence,Offender given a caution
+2266,December,Lewisham ,Violence,Offender given a caution
+2267,December,Lewisham ,Violence,Offender given a caution
+2268,December,Lewisham ,Violence,Suspect charged
+2269,December,Lewisham ,Violence,Suspect charged
+2270,December,Lewisham ,Violence,Suspect charged
+2271,December,Lewisham ,Violence,Suspect charged
+2272,December,Lewisham ,Violence,Offender given a caution
+2273,December,Lewisham ,Violence,Suspect charged
+2274,December,Lewisham ,Violence,Suspect charged
+2275,December,Lewisham ,Violence,Suspect charged
+2276,December,Lewisham ,Violence,Suspect charged
+2277,December,Lewisham ,Violence,Suspect charged
+2278,December,Lewisham ,Violence,Offender given a caution
+2279,December,Lewisham ,Violence,Suspect charged
+2280,December,Lewisham ,Violence,Suspect charged
+2281,December,Merton ,Criminal damage and arson,Suspect charged
+2282,December,Merton ,Criminal damage and arson,Suspect charged
+2283,December,Merton ,Drugs,Local resolution
+2284,December,Merton ,Drugs,Local resolution
+2285,December,Merton ,Drugs,Offender given penalty notice
+2286,December,Merton ,Drugs,Local resolution
+2287,December,Merton ,Drugs,Suspect charged
+2288,December,Merton ,Drugs,Local resolution
+2289,December,Merton ,Drugs,Local resolution
+2290,December,Merton ,Drugs,Suspect charged
+2291,December,Merton ,Drugs,Suspect charged
+2292,December,Merton ,Drugs,Local resolution
+2293,December,Merton ,Drugs,Local resolution
+2294,December,Merton ,Drugs,Offender given penalty notice
+2295,December,Merton ,Drugs,Local resolution
+2296,December,Merton ,Drugs,Local resolution
+2297,December,Merton ,Drugs,Local resolution
+2298,December,Merton ,Drugs,Suspect charged
+2299,December,Merton ,Drugs,Suspect charged
+2300,December,Merton ,Drugs,Local resolution
+2301,December,Merton ,Drugs,Local resolution
+2302,December,Merton ,Drugs,Local resolution
+2303,December,Merton ,Drugs,Offender given a caution
+2304,December,Merton ,Drugs,Local resolution
+2305,December,Merton ,Drugs,Local resolution
+2306,December,Merton ,Drugs,Suspect charged
+2307,December,Merton ,Drugs,Local resolution
+2308,December,Merton ,Drugs,Local resolution
+2309,December,Merton ,Drugs,Local resolution
+2310,December,Merton ,Drugs,Offender given a drugs possession warning
+2311,December,Merton ,Other crime,Suspect charged
+2312,December,Merton ,Other crime,Suspect charged
+2313,December,Merton ,Possession of weapons,Offender given a caution
+2314,December,Merton ,Public order,Suspect charged
+2315,December,Merton ,Public order,Suspect charged
+2316,December,Merton ,Shoplifting,Suspect charged
+2317,December,Merton ,Shoplifting,Local resolution
+2318,December,Merton ,Shoplifting,Offender given a caution
+2319,December,Merton ,Shoplifting,Suspect charged
+2320,December,Merton ,Shoplifting,Suspect charged
+2321,December,Merton ,Shoplifting,Local resolution
+2322,December,Merton ,Shoplifting,Local resolution
+2323,December,Merton ,Shoplifting,Suspect charged
+2324,December,Merton ,Shoplifting,Suspect charged
+2325,December,Merton ,Shoplifting,Suspect charged
+2326,December,Merton ,Violence,Suspect charged
+2327,December,Merton ,Violence,Suspect charged
+2328,December,Merton ,Violence,Offender given a caution
+2329,December,Merton ,Violence,Local resolution
+2330,December,Merton ,Violence,Offender given a caution
+2331,December,Merton ,Violence,Offender given a caution
+2332,December,Merton ,Violence,Local resolution
+2333,December,Merton ,Violence,Suspect charged
+2334,December,Merton ,Violence,Suspect charged
+2335,December,Merton ,Violence,Offender given a caution
+2336,December,Merton ,Violence,Suspect charged
+2337,December,Merton ,Violence,Suspect charged
+2338,December,Merton ,Violence,Local resolution
+2339,December,Merton ,Violence,Suspect charged
+2340,December,Merton ,Violence,Offender given a caution
+2341,December,Newham ,Burglary,Suspect charged
+2342,December,Newham ,Burglary,Suspect charged
+2343,December,Newham ,Burglary,Suspect charged
+2344,December,Newham ,Burglary,Suspect charged
+2345,December,Newham ,Burglary,Suspect charged
+2346,December,Newham ,Burglary,Suspect charged
+2347,December,Newham ,Burglary,Suspect charged
+2348,December,Newham ,Burglary,Suspect charged
+2349,December,Newham ,Burglary,Suspect charged
+2350,December,Newham ,Burglary,Suspect charged
+2351,December,Newham ,Criminal damage and arson,Suspect charged
+2352,December,Newham ,Criminal damage and arson,Offender given a caution
+2353,December,Newham ,Criminal damage and arson,Offender given a caution
+2354,December,Newham ,Criminal damage and arson,Suspect charged
+2355,December,Newham ,Criminal damage and arson,Suspect charged
+2356,December,Newham ,Criminal damage and arson,Local resolution
+2357,December,Newham ,Criminal damage and arson,Suspect charged
+2358,December,Newham ,Criminal damage and arson,Suspect charged
+2359,December,Newham ,Criminal damage and arson,Local resolution
+2360,December,Newham ,Criminal damage and arson,Offender given a caution
+2361,December,Newham ,Drugs,Local resolution
+2362,December,Newham ,Drugs,Local resolution
+2363,December,Newham ,Drugs,Offender given a caution
+2364,December,Newham ,Drugs,Suspect charged
+2365,December,Newham ,Drugs,Local resolution
+2366,December,Newham ,Drugs,Suspect charged
+2367,December,Newham ,Drugs,Offender given penalty notice
+2368,December,Newham ,Drugs,Offender given penalty notice
+2369,December,Newham ,Drugs,Offender given penalty notice
+2370,December,Newham ,Drugs,Suspect charged
+2371,December,Newham ,Drugs,Suspect charged
+2372,December,Newham ,Drugs,Offender given penalty notice
+2373,December,Newham ,Drugs,Local resolution
+2374,December,Newham ,Drugs,Local resolution
+2375,December,Newham ,Drugs,Offender given a drugs possession warning
+2376,December,Newham ,Drugs,Offender given penalty notice
+2377,December,Newham ,Drugs,Offender given penalty notice
+2378,December,Newham ,Drugs,Local resolution
+2379,December,Newham ,Drugs,Offender given penalty notice
+2380,December,Newham ,Drugs,Suspect charged
+2381,December,Newham ,Drugs,Offender given penalty notice
+2382,December,Newham ,Drugs,Offender given penalty notice
+2383,December,Newham ,Drugs,Local resolution
+2384,December,Newham ,Drugs,Offender given penalty notice
+2385,December,Newham ,Drugs,Local resolution
+2386,December,Newham ,Drugs,Local resolution
+2387,December,Newham ,Drugs,Offender given a caution
+2388,December,Newham ,Drugs,Suspect charged
+2389,December,Newham ,Drugs,Suspect charged
+2390,December,Newham ,Drugs,Local resolution
+2391,December,Newham ,Drugs,Local resolution
+2392,December,Newham ,Drugs,Local resolution
+2393,December,Newham ,Drugs,Offender given penalty notice
+2394,December,Newham ,Drugs,Suspect charged
+2395,December,Newham ,Drugs,Suspect charged
+2396,December,Newham ,Drugs,Suspect charged
+2397,December,Newham ,Drugs,Suspect charged
+2398,December,Newham ,Drugs,Suspect charged
+2399,December,Newham ,Drugs,Suspect charged
+2400,December,Newham ,Drugs,Local resolution
+2401,December,Newham ,Drugs,Local resolution
+2402,December,Newham ,Drugs,Local resolution
+2403,December,Newham ,Drugs,Local resolution
+2404,December,Newham ,Drugs,Investigation complete; no suspect identified
+2405,December,Newham ,Drugs,Local resolution
+2406,December,Newham ,Drugs,Local resolution
+2407,December,Newham ,Drugs,Local resolution
+2408,December,Newham ,Drugs,Local resolution
+2409,December,Newham ,Drugs,Local resolution
+2410,December,Newham ,Drugs,Offender given a caution
+2411,December,Newham ,Drugs,Offender given penalty notice
+2412,December,Newham ,Drugs,Offender given penalty notice
+2413,December,Newham ,Drugs,Offender given penalty notice
+2414,December,Newham ,Drugs,Offender given penalty notice
+2415,December,Newham ,Drugs,Offender given penalty notice
+2416,December,Newham ,Drugs,Offender given penalty notice
+2417,December,Newham ,Drugs,Offender given penalty notice
+2418,December,Newham ,Drugs,Suspect charged
+2419,December,Newham ,Drugs,Suspect charged
+2420,December,Newham ,Drugs,Suspect charged
+2421,December,Newham ,Drugs,Suspect charged
+2422,December,Newham ,Drugs,Offender given penalty notice
+2423,December,Newham ,Drugs,Local resolution
+2424,December,Newham ,Drugs,Offender given penalty notice
+2425,December,Newham ,Drugs,Suspect charged
+2426,December,Newham ,Drugs,Local resolution
+2427,December,Newham ,Drugs,Offender given a drugs possession warning
+2428,December,Newham ,Drugs,Local resolution
+2429,December,Newham ,Drugs,Local resolution
+2430,December,Newham ,Drugs,Local resolution
+2431,December,Newham ,Drugs,Offender given penalty notice
+2432,December,Newham ,Drugs,Suspect charged
+2433,December,Newham ,Drugs,Suspect charged
+2434,December,Newham ,Drugs,Suspect charged
+2435,December,Newham ,Drugs,Local resolution
+2436,December,Newham ,Drugs,Local resolution
+2437,December,Newham ,Drugs,Local resolution
+2438,December,Newham ,Drugs,Offender given penalty notice
+2439,December,Newham ,Drugs,Offender given penalty notice
+2440,December,Newham ,Drugs,Local resolution
+2441,December,Newham ,Drugs,Offender given penalty notice
+2442,December,Newham ,Drugs,Local resolution
+2443,December,Newham ,Drugs,Local resolution
+2444,December,Newham ,Drugs,Local resolution
+2445,December,Newham ,Drugs,Offender given penalty notice
+2446,December,Newham ,Drugs,Offender given penalty notice
+2447,December,Newham ,Drugs,Local resolution
+2448,December,Newham ,Drugs,Local resolution
+2449,December,Newham ,Drugs,Local resolution
+2450,December,Newham ,Drugs,Local resolution
+2451,December,Newham ,Drugs,Suspect charged
+2452,December,Newham ,Drugs,Suspect charged
+2453,December,Newham ,Drugs,Offender given penalty notice
+2454,December,Newham ,Drugs,Offender given penalty notice
+2455,December,Newham ,Drugs,Offender given penalty notice
+2456,December,Newham ,Drugs,Offender given penalty notice
+2457,December,Newham ,Drugs,Offender given penalty notice
+2458,December,Newham ,Drugs,Offender given penalty notice
+2459,December,Newham ,Drugs,Offender given penalty notice
+2460,December,Newham ,Drugs,Offender given penalty notice
+2461,December,Newham ,Drugs,Offender given penalty notice
+2462,December,Newham ,Drugs,Offender given penalty notice
+2463,December,Newham ,Drugs,Local resolution
+2464,December,Newham ,Drugs,Local resolution
+2465,December,Newham ,Drugs,Offender given penalty notice
+2466,December,Newham ,Drugs,Offender given penalty notice
+2467,December,Newham ,Drugs,Local resolution
+2468,December,Newham ,Drugs,Suspect charged
+2469,December,Newham ,Drugs,Local resolution
+2470,December,Newham ,Drugs,Suspect charged
+2471,December,Newham ,Drugs,Offender given penalty notice
+2472,December,Newham ,Drugs,Offender given penalty notice
+2473,December,Newham ,Drugs,Suspect charged
+2474,December,Newham ,Drugs,Local resolution
+2475,December,Newham ,Drugs,Local resolution
+2476,December,Newham ,Drugs,Local resolution
+2477,December,Newham ,Drugs,Local resolution
+2478,December,Newham ,Drugs,Offender given a caution
+2479,December,Newham ,Drugs,Local resolution
+2480,December,Newham ,Drugs,Offender given penalty notice
+2481,December,Newham ,Drugs,Offender given penalty notice
+2482,December,Newham ,Drugs,Offender given penalty notice
+2483,December,Newham ,Drugs,Local resolution
+2484,December,Newham ,Drugs,Offender given penalty notice
+2485,December,Newham ,Drugs,Local resolution
+2486,December,Newham ,Drugs,Local resolution
+2487,December,Newham ,Drugs,Offender given penalty notice
+2488,December,Newham ,Drugs,Suspect charged
+2489,December,Newham ,Drugs,Local resolution
+2490,December,Newham ,Drugs,Local resolution
+2491,December,Newham ,Drugs,Local resolution
+2492,December,Newham ,Drugs,Offender given penalty notice
+2493,December,Newham ,Drugs,Local resolution
+2494,December,Newham ,Drugs,Local resolution
+2495,December,Newham ,Drugs,Offender given penalty notice
+2496,December,Newham ,Other crime,Suspect charged
+2497,December,Newham ,Other crime,Suspect charged
+2498,December,Newham ,Other crime,Local resolution
+2499,December,Newham ,Other crime,Suspect charged
+2500,December,Newham ,Other crime,Suspect charged
+2501,December,Newham ,Other crime,Suspect charged
+2502,December,Newham ,Other crime,Suspect charged
+2503,December,Newham ,Other crime,Local resolution
+2504,December,Newham ,Other crime,Local resolution
+2505,December,Newham ,Other crime,Local resolution
+2506,December,Newham ,Other crime,Local resolution
+2507,December,Newham ,Other crime,Local resolution
+2508,December,Newham ,Other crime,Local resolution
+2509,December,Newham ,Other crime,Local resolution
+2510,December,Newham ,Other crime,Local resolution
+2511,December,Newham ,Other crime,Local resolution
+2512,December,Newham ,Other crime,Local resolution
+2513,December,Newham ,Other crime,Local resolution
+2514,December,Newham ,Other crime,Local resolution
+2515,December,Newham ,Other crime,Local resolution
+2516,December,Newham ,Other crime,Local resolution
+2517,December,Newham ,Other theft,Investigation complete; no suspect identified
+2518,December,Newham ,Other theft,Offender given a caution
+2519,December,Newham ,Other theft,Offender given a caution
+2520,December,Newham ,Possession of weapons,Suspect charged
+2521,December,Newham ,Possession of weapons,Suspect charged
+2522,December,Newham ,Possession of weapons,Suspect charged
+2523,December,Newham ,Possession of weapons,Suspect charged
+2524,December,Newham ,Possession of weapons,Suspect charged
+2525,December,Newham ,Possession of weapons,Suspect charged
+2526,December,Newham ,Public order,Offender given a caution
+2527,December,Newham ,Public order,Offender given a caution
+2528,December,Newham ,Public order,Offender given penalty notice
+2529,December,Newham ,Public order,Suspect charged
+2530,December,Newham ,Public order,Offender given penalty notice
+2531,December,Newham ,Public order,Suspect charged
+2532,December,Newham ,Public order,Suspect charged
+2533,December,Newham ,Public order,Suspect charged
+2534,December,Newham ,Public order,Suspect charged
+2535,December,Newham ,Public order,Offender given penalty notice
+2536,December,Newham ,Robbery,Suspect charged
+2537,December,Newham ,Robbery,Suspect charged
+2538,December,Newham ,Shoplifting,Local resolution
+2539,December,Newham ,Shoplifting,Local resolution
+2540,December,Newham ,Shoplifting,Local resolution
+2541,December,Newham ,Shoplifting,Suspect charged
+2542,December,Newham ,Shoplifting,Suspect charged
+2543,December,Newham ,Shoplifting,Suspect charged
+2544,December,Newham ,Shoplifting,Suspect charged
+2545,December,Newham ,Shoplifting,Suspect charged
+2546,December,Newham ,Shoplifting,Local resolution
+2547,December,Newham ,Shoplifting,Suspect charged
+2548,December,Newham ,Shoplifting,Local resolution
+2549,December,Newham ,Shoplifting,Local resolution
+2550,December,Newham ,Shoplifting,Offender given a caution
+2551,December,Newham ,Shoplifting,Suspect charged
+2552,December,Newham ,Shoplifting,Suspect charged
+2553,December,Newham ,Shoplifting,Suspect charged
+2554,December,Newham ,Shoplifting,Suspect charged
+2555,December,Newham ,Shoplifting,Suspect charged
+2556,December,Newham ,Shoplifting,Suspect charged
+2557,December,Newham ,Shoplifting,Suspect charged
+2558,December,Newham ,Shoplifting,Suspect charged
+2559,December,Newham ,Shoplifting,Suspect charged
+2560,December,Newham ,Shoplifting,Suspect charged
+2561,December,Newham ,Shoplifting,Suspect charged
+2562,December,Newham ,Shoplifting,Suspect charged
+2563,December,Newham ,Shoplifting,Suspect charged
+2564,December,Newham ,Shoplifting,Suspect charged
+2565,December,Newham ,Shoplifting,Suspect charged
+2566,December,Newham ,Theft from the person,Suspect charged
+2567,December,Newham ,Violence,Suspect charged
+2568,December,Newham ,Violence,Suspect charged
+2569,December,Newham ,Violence,Suspect charged
+2570,December,Newham ,Violence,Suspect charged
+2571,December,Newham ,Violence,Suspect charged
+2572,December,Newham ,Violence,Suspect charged
+2573,December,Newham ,Violence,Suspect charged
+2574,December,Newham ,Violence,Suspect charged
+2575,December,Newham ,Violence,Suspect charged
+2576,December,Newham ,Violence,Suspect charged
+2577,December,Newham ,Violence,Suspect charged
+2578,December,Newham ,Violence,Suspect charged
+2579,December,Newham ,Violence,Suspect charged
+2580,December,Newham ,Violence,Suspect charged
+2581,December,Newham ,Violence,Local resolution
+2582,December,Newham ,Violence,Suspect charged
+2583,December,Newham ,Violence,Suspect charged
+2584,December,Newham ,Violence,Suspect charged
+2585,December,Newham ,Violence,Suspect charged
+2586,December,Redbridge ,Burglary,Suspect charged
+2587,December,Redbridge ,Burglary,Suspect charged
+2588,December,Redbridge ,Criminal damage and arson,Local resolution
+2589,December,Redbridge ,Criminal damage and arson,Suspect charged
+2590,December,Redbridge ,Drugs,Suspect charged
+2591,December,Redbridge ,Drugs,Offender given a caution
+2592,December,Redbridge ,Drugs,Suspect charged
+2593,December,Redbridge ,Drugs,Suspect charged
+2594,December,Redbridge ,Drugs,Local resolution
+2595,December,Redbridge ,Drugs,Local resolution
+2596,December,Redbridge ,Drugs,Local resolution
+2597,December,Redbridge ,Drugs,Suspect charged
+2598,December,Redbridge ,Drugs,Local resolution
+2599,December,Redbridge ,Drugs,Local resolution
+2600,December,Redbridge ,Drugs,Local resolution
+2601,December,Redbridge ,Drugs,Suspect charged
+2602,December,Redbridge ,Drugs,Suspect charged
+2603,December,Redbridge ,Drugs,Offender given a drugs possession warning
+2604,December,Redbridge ,Drugs,Local resolution
+2605,December,Redbridge ,Drugs,Offender given penalty notice
+2606,December,Redbridge ,Drugs,Local resolution
+2607,December,Redbridge ,Drugs,Local resolution
+2608,December,Redbridge ,Drugs,Local resolution
+2609,December,Redbridge ,Drugs,Local resolution
+2610,December,Redbridge ,Drugs,Offender given penalty notice
+2611,December,Redbridge ,Drugs,Offender given penalty notice
+2612,December,Redbridge ,Drugs,Local resolution
+2613,December,Redbridge ,Drugs,Local resolution
+2614,December,Redbridge ,Drugs,Offender given a caution
+2615,December,Redbridge ,Drugs,Suspect charged
+2616,December,Redbridge ,Drugs,Local resolution
+2617,December,Redbridge ,Drugs,Local resolution
+2618,December,Redbridge ,Drugs,Local resolution
+2619,December,Redbridge ,Drugs,Local resolution
+2620,December,Redbridge ,Drugs,Local resolution
+2621,December,Redbridge ,Drugs,Local resolution
+2622,December,Redbridge ,Drugs,Offender given a drugs possession warning
+2623,December,Redbridge ,Drugs,Offender given penalty notice
+2624,December,Redbridge ,Drugs,Suspect charged
+2625,December,Redbridge ,Drugs,Suspect charged
+2626,December,Redbridge ,Drugs,Local resolution
+2627,December,Redbridge ,Drugs,Local resolution
+2628,December,Redbridge ,Drugs,Local resolution
+2629,December,Redbridge ,Drugs,Local resolution
+2630,December,Redbridge ,Drugs,Offender given a drugs possession warning
+2631,December,Redbridge ,Drugs,Local resolution
+2632,December,Redbridge ,Drugs,Local resolution
+2633,December,Redbridge ,Drugs,Local resolution
+2634,December,Redbridge ,Drugs,Offender given a caution
+2635,December,Redbridge ,Drugs,Offender given penalty notice
+2636,December,Redbridge ,Drugs,Suspect charged
+2637,December,Redbridge ,Drugs,Local resolution
+2638,December,Redbridge ,Drugs,Local resolution
+2639,December,Redbridge ,Drugs,Offender given penalty notice
+2640,December,Redbridge ,Drugs,Offender given penalty notice
+2641,December,Redbridge ,Drugs,Local resolution
+2642,December,Redbridge ,Drugs,Offender given a drugs possession warning
+2643,December,Redbridge ,Drugs,Local resolution
+2644,December,Redbridge ,Drugs,Local resolution
+2645,December,Redbridge ,Drugs,Local resolution
+2646,December,Redbridge ,Drugs,Offender given penalty notice
+2647,December,Redbridge ,Drugs,Offender given penalty notice
+2648,December,Redbridge ,Drugs,Local resolution
+2649,December,Redbridge ,Drugs,Local resolution
+2650,December,Redbridge ,Drugs,Local resolution
+2651,December,Redbridge ,Drugs,Offender given a drugs possession warning
+2652,December,Redbridge ,Drugs,Local resolution
+2653,December,Redbridge ,Other theft,Suspect charged
+2654,December,Redbridge ,Possession of weapons,Suspect charged
+2655,December,Redbridge ,Public order,Suspect charged
+2656,December,Redbridge ,Public order,Suspect charged
+2657,December,Redbridge ,Shoplifting,Suspect charged
+2658,December,Redbridge ,Shoplifting,Suspect charged
+2659,December,Redbridge ,Shoplifting,Suspect charged
+2660,December,Redbridge ,Shoplifting,Suspect charged
+2661,December,Redbridge ,Shoplifting,Suspect charged
+2662,December,Redbridge ,Vehicle crime,Suspect charged
+2663,December,Redbridge ,Vehicle crime,Suspect charged
+2664,December,Redbridge ,Vehicle crime,Suspect charged
+2665,December,Redbridge ,Violence,Local resolution
+2666,December,Redbridge ,Violence,Suspect charged
+2667,December,Redbridge ,Violence,Suspect charged
+2668,December,Redbridge ,Violence,Suspect charged
+2669,December,Redbridge ,Violence,Suspect charged
+2670,December,Redbridge ,Violence,Suspect charged
+2671,December,Redbridge ,Violence,Suspect charged
+2672,December,Redbridge ,Violence,Suspect charged
+2673,December,Redbridge ,Violence,Suspect charged
+2674,December,Redbridge ,Violence,Suspect charged
+2675,December,Redbridge ,Violence,Suspect charged
+2676,December,Redbridge ,Violence,Suspect charged
+2677,December,Redbridge ,Violence,Offender given a caution
+2678,December,Richmond upon Thames ,Criminal damage and arson,Offender given a caution
+2679,December,Richmond upon Thames ,Criminal damage and arson,Offender given a caution
+2680,December,Richmond upon Thames ,Drugs,Local resolution
+2681,December,Richmond upon Thames ,Drugs,Local resolution
+2682,December,Richmond upon Thames ,Drugs,Local resolution
+2683,December,Richmond upon Thames ,Drugs,Suspect charged
+2684,December,Richmond upon Thames ,Drugs,Local resolution
+2685,December,Richmond upon Thames ,Drugs,Local resolution
+2686,December,Richmond upon Thames ,Drugs,Suspect charged
+2687,December,Richmond upon Thames ,Drugs,Local resolution
+2688,December,Richmond upon Thames ,Drugs,Local resolution
+2689,December,Richmond upon Thames ,Drugs,Local resolution
+2690,December,Richmond upon Thames ,Drugs,Local resolution
+2691,December,Richmond upon Thames ,Drugs,Offender given a caution
+2692,December,Richmond upon Thames ,Drugs,Local resolution
+2693,December,Richmond upon Thames ,Other theft,Local resolution
+2694,December,Richmond upon Thames ,Possession of weapons,Suspect charged
+2695,December,Richmond upon Thames ,Public order,Offender given a caution
+2696,December,Richmond upon Thames ,Public order,Suspect charged
+2697,December,Richmond upon Thames ,Public order,Offender given penalty notice
+2698,December,Richmond upon Thames ,Public order,Suspect charged
+2699,December,Richmond upon Thames ,Robbery,Suspect charged
+2700,December,Richmond upon Thames ,Shoplifting,Offender given penalty notice
+2701,December,Richmond upon Thames ,Shoplifting,Suspect charged
+2702,December,Richmond upon Thames ,Shoplifting,Suspect charged
+2703,December,Richmond upon Thames ,Shoplifting,Suspect charged
+2704,December,Richmond upon Thames ,Shoplifting,Suspect charged
+2705,December,Richmond upon Thames ,Vehicle crime,Suspect charged
+2706,December,Richmond upon Thames ,Violence,Offender given a caution
+2707,December,Richmond upon Thames ,Violence,Suspect charged
+2708,December,Richmond upon Thames ,Violence,Offender given a caution
+2709,December,Richmond upon Thames ,Violence,Suspect charged
+2710,December,Richmond upon Thames ,Violence,Suspect charged
+2711,December,Richmond upon Thames ,Violence,Suspect charged
+2712,December,Richmond upon Thames ,Violence,Offender given a caution
+2713,December,Richmond upon Thames ,Violence,Suspect charged
+2714,December,Richmond upon Thames ,Violence,Suspect charged
+2715,December,Richmond upon Thames ,Violence,Offender given a caution
+2716,December,Richmond upon Thames ,Violence,Offender given a caution
+2717,December,Richmond upon Thames ,Violence,Suspect charged
+2718,December,South Bucks ,Drugs,Suspect charged
+2719,December,Southwark ,Bicycle theft,Suspect charged
+2720,December,Southwark ,Burglary,Offender given a caution
+2721,December,Southwark ,Criminal damage and arson,Suspect charged
+2722,December,Southwark ,Criminal damage and arson,Local resolution
+2723,December,Southwark ,Criminal damage and arson,Suspect charged
+2724,December,Southwark ,Criminal damage and arson,Offender given a caution
+2725,December,Southwark ,Criminal damage and arson,Suspect charged
+2726,December,Southwark ,Criminal damage and arson,Suspect charged
+2727,December,Southwark ,Drugs,Local resolution
+2728,December,Southwark ,Drugs,Local resolution
+2729,December,Southwark ,Drugs,Investigation complete; no suspect identified
+2730,December,Southwark ,Drugs,Local resolution
+2731,December,Southwark ,Drugs,Local resolution
+2732,December,Southwark ,Drugs,Local resolution
+2733,December,Southwark ,Drugs,Local resolution
+2734,December,Southwark ,Drugs,Local resolution
+2735,December,Southwark ,Drugs,Offender given penalty notice
+2736,December,Southwark ,Drugs,Suspect charged
+2737,December,Southwark ,Drugs,Local resolution
+2738,December,Southwark ,Drugs,Local resolution
+2739,December,Southwark ,Drugs,Local resolution
+2740,December,Southwark ,Drugs,Offender given penalty notice
+2741,December,Southwark ,Drugs,Local resolution
+2742,December,Southwark ,Drugs,Local resolution
+2743,December,Southwark ,Drugs,Local resolution
+2744,December,Southwark ,Drugs,Local resolution
+2745,December,Southwark ,Drugs,Suspect charged
+2746,December,Southwark ,Drugs,Local resolution
+2747,December,Southwark ,Drugs,Local resolution
+2748,December,Southwark ,Drugs,Local resolution
+2749,December,Southwark ,Drugs,Local resolution
+2750,December,Southwark ,Drugs,Local resolution
+2751,December,Southwark ,Drugs,Suspect charged
+2752,December,Southwark ,Drugs,Local resolution
+2753,December,Southwark ,Drugs,Offender given a caution
+2754,December,Southwark ,Drugs,Local resolution
+2755,December,Southwark ,Drugs,Local resolution
+2756,December,Southwark ,Drugs,Suspect charged
+2757,December,Southwark ,Drugs,Local resolution
+2758,December,Southwark ,Drugs,Local resolution
+2759,December,Southwark ,Drugs,Offender given a drugs possession warning
+2760,December,Southwark ,Drugs,Local resolution
+2761,December,Southwark ,Drugs,Offender given penalty notice
+2762,December,Southwark ,Drugs,Local resolution
+2763,December,Southwark ,Drugs,Local resolution
+2764,December,Southwark ,Drugs,Offender given a caution
+2765,December,Southwark ,Drugs,Suspect charged
+2766,December,Southwark ,Drugs,Offender given a drugs possession warning
+2767,December,Southwark ,Drugs,Suspect charged
+2768,December,Southwark ,Drugs,Local resolution
+2769,December,Southwark ,Drugs,Suspect charged
+2770,December,Southwark ,Drugs,Suspect charged
+2771,December,Southwark ,Drugs,Local resolution
+2772,December,Southwark ,Drugs,Offender given penalty notice
+2773,December,Southwark ,Drugs,Offender given penalty notice
+2774,December,Southwark ,Drugs,Offender given penalty notice
+2775,December,Southwark ,Drugs,Offender given penalty notice
+2776,December,Southwark ,Drugs,Suspect charged
+2777,December,Southwark ,Drugs,Local resolution
+2778,December,Southwark ,Drugs,Offender given penalty notice
+2779,December,Southwark ,Drugs,Local resolution
+2780,December,Southwark ,Drugs,Suspect charged
+2781,December,Southwark ,Drugs,Offender given a caution
+2782,December,Southwark ,Drugs,Suspect charged
+2783,December,Southwark ,Drugs,Suspect charged
+2784,December,Southwark ,Drugs,Offender given a caution
+2785,December,Southwark ,Drugs,Local resolution
+2786,December,Southwark ,Drugs,Suspect charged
+2787,December,Southwark ,Drugs,Local resolution
+2788,December,Southwark ,Drugs,Local resolution
+2789,December,Southwark ,Drugs,Local resolution
+2790,December,Southwark ,Drugs,Offender given a drugs possession warning
+2791,December,Southwark ,Drugs,Local resolution
+2792,December,Southwark ,Drugs,Local resolution
+2793,December,Southwark ,Drugs,Local resolution
+2794,December,Southwark ,Drugs,Suspect charged
+2795,December,Southwark ,Drugs,Offender given penalty notice
+2796,December,Southwark ,Drugs,Local resolution
+2797,December,Southwark ,Drugs,Local resolution
+2798,December,Southwark ,Drugs,Local resolution
+2799,December,Southwark ,Drugs,Suspect charged
+2800,December,Southwark ,Drugs,Local resolution
+2801,December,Southwark ,Drugs,Local resolution
+2802,December,Southwark ,Drugs,Suspect charged
+2803,December,Southwark ,Drugs,Suspect charged
+2804,December,Southwark ,Drugs,Investigation complete; no suspect identified
+2805,December,Southwark ,Drugs,Offender given penalty notice
+2806,December,Southwark ,Drugs,Local resolution
+2807,December,Southwark ,Drugs,Local resolution
+2808,December,Southwark ,Drugs,Local resolution
+2809,December,Southwark ,Drugs,Local resolution
+2810,December,Southwark ,Drugs,Local resolution
+2811,December,Southwark ,Drugs,Suspect charged
+2812,December,Southwark ,Drugs,Local resolution
+2813,December,Southwark ,Drugs,Suspect charged
+2814,December,Southwark ,Drugs,Suspect charged
+2815,December,Southwark ,Drugs,Offender given a drugs possession warning
+2816,December,Southwark ,Drugs,Suspect charged
+2817,December,Southwark ,Drugs,Offender given penalty notice
+2818,December,Southwark ,Drugs,Local resolution
+2819,December,Southwark ,Drugs,Suspect charged
+2820,December,Southwark ,Drugs,Local resolution
+2821,December,Southwark ,Drugs,Local resolution
+2822,December,Southwark ,Drugs,Suspect charged
+2823,December,Southwark ,Drugs,Local resolution
+2824,December,Southwark ,Drugs,Local resolution
+2825,December,Southwark ,Drugs,Local resolution
+2826,December,Southwark ,Drugs,Local resolution
+2827,December,Southwark ,Drugs,Local resolution
+2828,December,Southwark ,Drugs,Local resolution
+2829,December,Southwark ,Drugs,Local resolution
+2830,December,Southwark ,Drugs,Local resolution
+2831,December,Southwark ,Drugs,Offender given a drugs possession warning
+2832,December,Southwark ,Other crime,Suspect charged
+2833,December,Southwark ,Other crime,Suspect charged
+2834,December,Southwark ,Other theft,Suspect charged
+2835,December,Southwark ,Possession of weapons,Suspect charged
+2836,December,Southwark ,Possession of weapons,Suspect charged
+2837,December,Southwark ,Possession of weapons,Suspect charged
+2838,December,Southwark ,Possession of weapons,Suspect charged
+2839,December,Southwark ,Possession of weapons,Suspect charged
+2840,December,Southwark ,Possession of weapons,Suspect charged
+2841,December,Southwark ,Possession of weapons,Suspect charged
+2842,December,Southwark ,Possession of weapons,Suspect charged
+2843,December,Southwark ,Public order,Suspect charged
+2844,December,Southwark ,Public order,Suspect charged
+2845,December,Southwark ,Robbery,Suspect charged
+2846,December,Southwark ,Robbery,Suspect charged
+2847,December,Southwark ,Robbery,Suspect charged
+2848,December,Southwark ,Shoplifting,Local resolution
+2849,December,Southwark ,Shoplifting,Suspect charged
+2850,December,Southwark ,Shoplifting,Suspect charged
+2851,December,Southwark ,Shoplifting,Suspect charged
+2852,December,Southwark ,Shoplifting,Local resolution
+2853,December,Southwark ,Shoplifting,Suspect charged
+2854,December,Southwark ,Theft from the person,Suspect charged
+2855,December,Southwark ,Vehicle crime,Suspect charged
+2856,December,Southwark ,Vehicle crime,Suspect charged
+2857,December,Southwark ,Violence,Local resolution
+2858,December,Southwark ,Violence,Local resolution
+2859,December,Southwark ,Violence,Offender given a caution
+2860,December,Southwark ,Violence,Suspect charged
+2861,December,Southwark ,Violence,Investigation complete; no suspect identified
+2862,December,Southwark ,Violence,Offender given a caution
+2863,December,Southwark ,Violence,Local resolution
+2864,December,Southwark ,Violence,Offender given a caution
+2865,December,Southwark ,Violence,Suspect charged
+2866,December,Southwark ,Violence,Offender given a caution
+2867,December,Southwark ,Violence,Local resolution
+2868,December,Southwark ,Violence,Suspect charged
+2869,December,Southwark ,Violence,Suspect charged
+2870,December,Southwark ,Violence,Suspect charged
+2871,December,Southwark ,Violence,Offender given a caution
+2872,December,Southwark ,Violence,Suspect charged
+2873,December,Southwark ,Violence,Local resolution
+2874,December,Southwark ,Violence,Offender given a caution
+2875,December,Southwark ,Violence,Local resolution
+2876,December,Southwark ,Violence,Suspect charged
+2877,December,Sutton,Criminal damage and arson,Offender given a caution
+2878,December,Sutton ,Criminal damage and arson,Local resolution
+2879,December,Sutton ,Drugs,Local resolution
+2880,December,Sutton ,Drugs,Offender given a caution
+2881,December,Sutton ,Drugs,Local resolution
+2882,December,Sutton ,Drugs,Local resolution
+2883,December,Sutton ,Drugs,Offender given penalty notice
+2884,December,Sutton ,Drugs,Local resolution
+2885,December,Sutton ,Drugs,Offender given penalty notice
+2886,December,Sutton ,Drugs,Offender given penalty notice
+2887,December,Sutton ,Drugs,Local resolution
+2888,December,Sutton ,Drugs,Local resolution
+2889,December,Sutton ,Drugs,Local resolution
+2890,December,Sutton ,Drugs,Offender given a caution
+2891,December,Sutton ,Drugs,Local resolution
+2892,December,Sutton ,Drugs,Local resolution
+2893,December,Sutton ,Drugs,Local resolution
+2894,December,Sutton ,Drugs,Offender given penalty notice
+2895,December,Sutton ,Drugs,Suspect charged
+2896,December,Sutton ,Possession of weapons,Suspect charged
+2897,December,Sutton ,Public order,Suspect charged
+2898,December,Sutton ,Shoplifting,Local resolution
+2899,December,Sutton ,Shoplifting,Suspect charged
+2900,December,Sutton ,Shoplifting,Suspect charged
+2901,December,Sutton ,Shoplifting,Suspect charged
+2902,December,Sutton ,Shoplifting,Suspect charged
+2903,December,Sutton ,Shoplifting,Suspect charged
+2904,December,Sutton ,Shoplifting,Suspect charged
+2905,December,Sutton ,Shoplifting,Suspect charged
+2906,December,Sutton ,Shoplifting,Suspect charged
+2907,December,Sutton ,Shoplifting,Local resolution
+2908,December,Sutton ,Vehicle crime,Suspect charged
+2909,December,Sutton ,Violence,Offender given a caution
+2910,December,Tower Hamlets,Burglary,Suspect charged
+2911,December,Tower Hamlets,Burglary,Suspect charged
+2912,December,Tower Hamlets,Burglary,Suspect charged
+2913,December,Tower Hamlets,Burglary,Suspect charged
+2914,December,Tower Hamlets,Burglary,Suspect charged
+2915,December,Tower Hamlets,Burglary,Suspect charged
+2916,December,Tower Hamlets,Burglary,Suspect charged
+2917,December,Tower Hamlets,Burglary,Suspect charged
+2918,December,Tower Hamlets,Criminal damage and arson,Suspect charged
+2919,December,Tower Hamlets,Criminal damage and arson,Suspect charged
+2920,December,Tower Hamlets,Criminal damage and arson,Suspect charged
+2921,December,Tower Hamlets,Criminal damage and arson,Suspect charged
+2922,December,Tower Hamlets,Criminal damage and arson,Suspect charged
+2923,December,Tower Hamlets,Drugs,Local resolution
+2924,December,Tower Hamlets,Drugs,Offender given a caution
+2925,December,Tower Hamlets,Drugs,Suspect charged
+2926,December,Tower Hamlets,Drugs,Suspect charged
+2927,December,Tower Hamlets,Drugs,Offender given penalty notice
+2928,December,Tower Hamlets,Drugs,Offender given a caution
+2929,December,Tower Hamlets,Drugs,Suspect charged
+2930,December,Tower Hamlets,Drugs,Local resolution
+2931,December,Tower Hamlets,Drugs,Local resolution
+2932,December,Tower Hamlets,Drugs,Local resolution
+2933,December,Tower Hamlets,Drugs,Local resolution
+2934,December,Tower Hamlets,Drugs,Suspect charged
+2935,December,Tower Hamlets,Drugs,Offender given penalty notice
+2936,December,Tower Hamlets,Drugs,Offender given penalty notice
+2937,December,Tower Hamlets,Drugs,Offender given penalty notice
+2938,December,Tower Hamlets,Drugs,Local resolution
+2939,December,Tower Hamlets,Drugs,Local resolution
+2940,December,Tower Hamlets,Drugs,Local resolution
+2941,December,Tower Hamlets,Drugs,Local resolution
+2942,December,Tower Hamlets,Drugs,Local resolution
+2943,December,Tower Hamlets,Drugs,Local resolution
+2944,December,Tower Hamlets,Drugs,Offender given a drugs possession warning
+2945,December,Tower Hamlets,Drugs,Offender given penalty notice
+2946,December,Tower Hamlets,Drugs,Offender given penalty notice
+2947,December,Tower Hamlets,Drugs,Local resolution
+2948,December,Tower Hamlets,Drugs,Local resolution
+2949,December,Tower Hamlets,Drugs,Offender given a caution
+2950,December,Tower Hamlets,Drugs,Local resolution
+2951,December,Tower Hamlets,Drugs,Local resolution
+2952,December,Tower Hamlets,Drugs,Local resolution
+2953,December,Tower Hamlets,Drugs,Offender given a caution
+2954,December,Tower Hamlets,Drugs,Suspect charged
+2955,December,Tower Hamlets,Drugs,Suspect charged
+2956,December,Tower Hamlets,Drugs,Offender given penalty notice
+2957,December,Tower Hamlets,Drugs,Local resolution
+2958,December,Tower Hamlets,Drugs,Local resolution
+2959,December,Tower Hamlets,Drugs,Local resolution
+2960,December,Tower Hamlets,Drugs,Offender given penalty notice
+2961,December,Tower Hamlets,Drugs,Suspect charged
+2962,December,Tower Hamlets,Drugs,Offender given penalty notice
+2963,December,Tower Hamlets,Drugs,Local resolution
+2964,December,Tower Hamlets,Drugs,Local resolution
+2965,December,Tower Hamlets,Drugs,Offender given penalty notice
+2966,December,Tower Hamlets,Drugs,Local resolution
+2967,December,Tower Hamlets,Drugs,Offender given penalty notice
+2968,December,Tower Hamlets,Drugs,Offender given penalty notice
+2969,December,Tower Hamlets,Drugs,Local resolution
+2970,December,Tower Hamlets,Drugs,Offender given penalty notice
+2971,December,Tower Hamlets,Drugs,Suspect charged
+2972,December,Tower Hamlets,Drugs,Local resolution
+2973,December,Tower Hamlets,Drugs,Offender given penalty notice
+2974,December,Tower Hamlets,Drugs,Suspect charged
+2975,December,Tower Hamlets,Drugs,Suspect charged
+2976,December,Tower Hamlets,Drugs,Local resolution
+2977,December,Tower Hamlets,Drugs,Offender given penalty notice
+2978,December,Tower Hamlets,Drugs,Offender given penalty notice
+2979,December,Tower Hamlets,Drugs,Suspect charged
+2980,December,Tower Hamlets,Drugs,Local resolution
+2981,December,Tower Hamlets,Drugs,Local resolution
+2982,December,Tower Hamlets,Drugs,Suspect charged
+2983,December,Tower Hamlets,Drugs,Local resolution
+2984,December,Tower Hamlets,Drugs,Offender given penalty notice
+2985,December,Tower Hamlets,Drugs,Local resolution
+2986,December,Tower Hamlets,Drugs,Local resolution
+2987,December,Tower Hamlets,Drugs,Offender given penalty notice
+2988,December,Tower Hamlets,Drugs,Local resolution
+2989,December,Tower Hamlets,Drugs,Offender given penalty notice
+2990,December,Tower Hamlets,Drugs,Offender given penalty notice
+2991,December,Tower Hamlets,Drugs,Suspect charged
+2992,December,Tower Hamlets,Drugs,Local resolution
+2993,December,Tower Hamlets,Drugs,Local resolution
+2994,December,Tower Hamlets,Drugs,Suspect charged
+2995,December,Tower Hamlets,Drugs,Local resolution
+2996,December,Tower Hamlets,Drugs,Local resolution
+2997,December,Tower Hamlets,Drugs,Local resolution
+2998,December,Tower Hamlets,Drugs,Offender given penalty notice
+2999,December,Tower Hamlets,Drugs,Local resolution
+3000,December,Tower Hamlets,Drugs,Local resolution
+3001,December,Tower Hamlets,Drugs,Suspect charged
+3002,December,Tower Hamlets,Drugs,Offender given a caution
+3003,December,Tower Hamlets,Drugs,Local resolution
+3004,December,Tower Hamlets,Drugs,Offender given a caution
+3005,December,Tower Hamlets,Drugs,Local resolution
+3006,December,Tower Hamlets,Drugs,Offender given penalty notice
+3007,December,Tower Hamlets,Drugs,Suspect charged
+3008,December,Tower Hamlets,Drugs,Local resolution
+3009,December,Tower Hamlets,Drugs,Suspect charged
+3010,December,Tower Hamlets,Drugs,Local resolution
+3011,December,Tower Hamlets,Drugs,Local resolution
+3012,December,Tower Hamlets,Drugs,Local resolution
+3013,December,Tower Hamlets,Drugs,Offender given penalty notice
+3014,December,Tower Hamlets,Drugs,Local resolution
+3015,December,Tower Hamlets,Drugs,Offender given penalty notice
+3016,December,Tower Hamlets,Drugs,Suspect charged
+3017,December,Tower Hamlets,Other theft,Suspect charged
+3018,December,Tower Hamlets,Other theft,Local resolution
+3019,December,Tower Hamlets,Possession of weapons,Suspect charged
+3020,December,Tower Hamlets,Possession of weapons,Suspect charged
+3021,December,Tower Hamlets,Possession of weapons,Suspect charged
+3022,December,Tower Hamlets,Possession of weapons,Suspect charged
+3023,December,Tower Hamlets,Public order,Suspect charged
+3024,December,Tower Hamlets,Public order,Suspect charged
+3025,December,Tower Hamlets,Public order,Suspect charged
+3026,December,Tower Hamlets,Public order,Local resolution
+3027,December,Tower Hamlets,Public order,Offender given penalty notice
+3028,December,Tower Hamlets,Public order,Suspect charged
+3029,December,Tower Hamlets,Public order,Offender given penalty notice
+3030,December,Tower Hamlets,Public order,Suspect charged
+3031,December,Tower Hamlets,Public order,Offender given penalty notice
+3032,December,Tower Hamlets,Public order,Suspect charged
+3033,December,Tower Hamlets,Public order,Offender given a caution
+3034,December,Tower Hamlets,Public order,Offender given penalty notice
+3035,December,Tower Hamlets,Robbery,Suspect charged
+3036,December,Tower Hamlets,Robbery,Suspect charged
+3037,December,Tower Hamlets,Robbery,Suspect charged
+3038,December,Tower Hamlets,Robbery,Suspect charged
+3039,December,Tower Hamlets,Robbery,Suspect charged
+3040,December,Tower Hamlets,Shoplifting,Local resolution
+3041,December,Tower Hamlets,Shoplifting,Local resolution
+3042,December,Tower Hamlets,Shoplifting,Suspect charged
+3043,December,Tower Hamlets,Shoplifting,Suspect charged
+3044,December,Tower Hamlets,Shoplifting,Suspect charged
+3045,December,Tower Hamlets,Shoplifting,Suspect charged
+3046,December,Tower Hamlets,Shoplifting,Local resolution
+3047,December,Tower Hamlets,Shoplifting,Suspect charged
+3048,December,Tower Hamlets,Shoplifting,Local resolution
+3049,December,Tower Hamlets,Shoplifting,Offender given a caution
+3050,December,Tower Hamlets,Shoplifting,Suspect charged
+3051,December,Tower Hamlets,Shoplifting,Suspect charged
+3052,December,Tower Hamlets,Vehicle crime,Suspect charged
+3053,December,Tower Hamlets,Vehicle crime,Suspect charged
+3054,December,Tower Hamlets,Vehicle crime,Suspect charged
+3055,December,Tower Hamlets,Vehicle crime,Offender given a caution
+3056,December,Tower Hamlets,Vehicle crime,Local resolution
+3057,December,Tower Hamlets,Vehicle crime,Suspect charged
+3058,December,Tower Hamlets,Vehicle crime,Suspect charged
+3059,December,Tower Hamlets,Violence,Local resolution
+3060,December,Tower Hamlets,Violence,Offender given a caution
+3061,December,Tower Hamlets,Violence,Suspect charged
+3062,December,Tower Hamlets,Violence,Suspect charged
+3063,December,Tower Hamlets,Violence,Suspect charged
+3064,December,Tower Hamlets,Violence,Suspect charged
+3065,December,Tower Hamlets,Violence,Local resolution
+3066,December,Tower Hamlets,Violence,Suspect charged
+3067,December,Tower Hamlets,Violence,Local resolution
+3068,December,Tower Hamlets,Violence,Offender given a caution
+3069,December,Tower Hamlets,Violence,Suspect charged
+3070,December,Tower Hamlets,Violence,Suspect charged
+3071,December,Tower Hamlets,Violence,Suspect charged
+3072,December,Tower Hamlets,Violence,Suspect charged
+3073,December,Tower Hamlets,Violence,Suspect charged
+3074,December,Tower Hamlets,Violence,Suspect charged
+3075,December,Tower Hamlets,Violence,Suspect charged
+3076,December,Waltham Forest,Burglary,Offender given a caution
+3077,December,Waltham Forest,Burglary,Offender given a caution
+3078,December,Waltham Forest,Burglary,Suspect charged
+3079,December,Waltham Forest,Criminal damage and arson,Suspect charged
+3080,December,Waltham Forest,Criminal damage and arson,Suspect charged
+3081,December,Waltham Forest,Criminal damage and arson,Suspect charged
+3082,December,Waltham Forest,Criminal damage and arson,Offender given a caution
+3083,December,Waltham Forest,Drugs,Local resolution
+3084,December,Waltham Forest,Drugs,Local resolution
+3085,December,Waltham Forest,Drugs,Local resolution
+3086,December,Waltham Forest,Drugs,Local resolution
+3087,December,Waltham Forest,Drugs,Offender given penalty notice
+3088,December,Waltham Forest,Drugs,Suspect charged
+3089,December,Waltham Forest,Drugs,Local resolution
+3090,December,Waltham Forest,Drugs,Suspect charged
+3091,December,Waltham Forest,Drugs,Suspect charged
+3092,December,Waltham Forest,Drugs,Suspect charged
+3093,December,Waltham Forest,Drugs,Local resolution
+3094,December,Waltham Forest,Drugs,Local resolution
+3095,December,Waltham Forest,Drugs,Local resolution
+3096,December,Waltham Forest,Drugs,Local resolution
+3097,December,Waltham Forest,Drugs,Local resolution
+3098,December,Waltham Forest,Drugs,Offender given penalty notice
+3099,December,Waltham Forest,Drugs,Local resolution
+3100,December,Waltham Forest,Drugs,Local resolution
+3101,December,Waltham Forest,Drugs,Local resolution
+3102,December,Waltham Forest,Drugs,Local resolution
+3103,December,Waltham Forest,Drugs,Local resolution
+3104,December,Waltham Forest,Drugs,Local resolution
+3105,December,Waltham Forest,Drugs,Suspect charged
+3106,December,Waltham Forest,Drugs,Suspect charged
+3107,December,Waltham Forest,Drugs,Suspect charged
+3108,December,Waltham Forest,Drugs,Local resolution
+3109,December,Waltham Forest,Drugs,Offender given a caution
+3110,December,Waltham Forest,Drugs,Local resolution
+3111,December,Waltham Forest,Drugs,Local resolution
+3112,December,Waltham Forest,Drugs,Local resolution
+3113,December,Waltham Forest,Drugs,Local resolution
+3114,December,Waltham Forest,Drugs,Local resolution
+3115,December,Waltham Forest,Drugs,Local resolution
+3116,December,Waltham Forest,Drugs,Local resolution
+3117,December,Waltham Forest,Drugs,Offender given a caution
+3118,December,Waltham Forest,Drugs,Suspect charged
+3119,December,Waltham Forest,Drugs,Suspect charged
+3120,December,Waltham Forest,Drugs,Local resolution
+3121,December,Waltham Forest,Drugs,Local resolution
+3122,December,Waltham Forest,Drugs,Offender given penalty notice
+3123,December,Waltham Forest,Drugs,Local resolution
+3124,December,Waltham Forest,Drugs,Local resolution
+3125,December,Waltham Forest,Drugs,Local resolution
+3126,December,Waltham Forest,Drugs,Suspect charged
+3127,December,Waltham Forest,Drugs,Local resolution
+3128,December,Waltham Forest,Drugs,Local resolution
+3129,December,Waltham Forest,Drugs,Local resolution
+3130,December,Waltham Forest,Drugs,Suspect charged
+3131,December,Waltham Forest,Drugs,Local resolution
+3132,December,Waltham Forest,Drugs,Offender given penalty notice
+3133,December,Waltham Forest,Drugs,Local resolution
+3134,December,Waltham Forest,Drugs,Offender given penalty notice
+3135,December,Waltham Forest,Drugs,Local resolution
+3136,December,Waltham Forest,Drugs,Offender given a drugs possession warning
+3137,December,Waltham Forest,Drugs,Local resolution
+3138,December,Waltham Forest,Drugs,Offender given penalty notice
+3139,December,Waltham Forest,Drugs,Local resolution
+3140,December,Waltham Forest,Drugs,Local resolution
+3141,December,Waltham Forest,Drugs,Offender given penalty notice
+3142,December,Waltham Forest,Drugs,Offender given penalty notice
+3143,December,Waltham Forest,Drugs,Offender given penalty notice
+3144,December,Waltham Forest,Drugs,Local resolution
+3145,December,Waltham Forest,Drugs,Suspect charged
+3146,December,Waltham Forest,Drugs,Local resolution
+3147,December,Waltham Forest,Drugs,Offender given penalty notice
+3148,December,Waltham Forest,Drugs,Local resolution
+3149,December,Waltham Forest,Drugs,Local resolution
+3150,December,Waltham Forest,Drugs,Local resolution
+3151,December,Waltham Forest,Drugs,Local resolution
+3152,December,Waltham Forest,Drugs,Offender given penalty notice
+3153,December,Waltham Forest,Drugs,Offender given penalty notice
+3154,December,Waltham Forest,Drugs,Local resolution
+3155,December,Waltham Forest,Drugs,Local resolution
+3156,December,Waltham Forest,Drugs,Offender given penalty notice
+3157,December,Waltham Forest,Other theft,Suspect charged
+3158,December,Waltham Forest,Possession of weapons,Suspect charged
+3159,December,Waltham Forest,Possession of weapons,Suspect charged
+3160,December,Waltham Forest,Possession of weapons,Suspect charged
+3161,December,Waltham Forest,Public order,Suspect charged
+3162,December,Waltham Forest,Public order,Suspect charged
+3163,December,Waltham Forest,Public order,Local resolution
+3164,December,Waltham Forest,Robbery,Suspect charged
+3165,December,Waltham Forest,Shoplifting,Suspect charged
+3166,December,Waltham Forest,Shoplifting,Suspect charged
+3167,December,Waltham Forest,Shoplifting,Local resolution
+3168,December,Waltham Forest,Shoplifting,Local resolution
+3169,December,Waltham Forest,Shoplifting,Offender given penalty notice
+3170,December,Waltham Forest,Shoplifting,Local resolution
+3171,December,Waltham Forest,Shoplifting,Local resolution
+3172,December,Waltham Forest,Shoplifting,Local resolution
+3173,December,Waltham Forest,Shoplifting,Local resolution
+3174,December,Waltham Forest,Shoplifting,Local resolution
+3175,December,Waltham Forest,Shoplifting,Local resolution
+3176,December,Waltham Forest,Shoplifting,Local resolution
+3177,December,Waltham Forest,Shoplifting,Local resolution
+3178,December,Waltham Forest,Shoplifting,Local resolution
+3179,December,Waltham Forest,Shoplifting,Local resolution
+3180,December,Waltham Forest,Shoplifting,Local resolution
+3181,December,Waltham Forest,Shoplifting,Local resolution
+3182,December,Waltham Forest,Shoplifting,Local resolution
+3183,December,Waltham Forest,Shoplifting,Local resolution
+3184,December,Waltham Forest,Shoplifting,Local resolution
+3185,December,Waltham Forest,Shoplifting,Local resolution
+3186,December,Waltham Forest,Shoplifting,Local resolution
+3187,December,Waltham Forest,Shoplifting,Local resolution
+3188,December,Waltham Forest,Shoplifting,Local resolution
+3189,December,Waltham Forest,Shoplifting,Local resolution
+3190,December,Waltham Forest,Shoplifting,Offender given penalty notice
+3191,December,Waltham Forest,Theft from the person,Suspect charged
+3192,December,Waltham Forest,Vehicle crime,Suspect charged
+3193,December,Waltham Forest,Violence,Suspect charged
+3194,December,Waltham Forest,Violence,Suspect charged
+3195,December,Waltham Forest,Violence,Offender given penalty notice
+3196,December,Waltham Forest,Violence,Local resolution
+3197,December,Waltham Forest,Violence,Local resolution
+3198,December,Waltham Forest,Violence,Suspect charged
+3199,December,Waltham Forest,Violence,Suspect charged
+3200,December,Waltham Forest,Violence,Suspect charged
+3201,December,Waltham Forest,Violence,Local resolution
+3202,December,Waltham Forest,Violence,Suspect charged
+3203,December,Waltham Forest,Violence,Local resolution
+3204,December,Waltham Forest,Violence,Offender given a caution
+3205,December,Waltham Forest,Violence,Local resolution
+3206,December,Waltham Forest,Violence,Suspect charged
+3207,December,Waltham Forest,Violence,Local resolution
+3208,December,Waltham Forest,Violence,Suspect charged
+3209,December,Waltham Forest,Violence,Suspect charged
+3210,December,Waltham Forest,Violence,Local resolution
+3211,December,Waltham Forest,Violence,Suspect charged
+3212,December,Wandsworth,Burglary,Suspect charged
+3213,December,Wandsworth,Criminal damage and arson,Offender given a caution
+3214,December,Wandsworth,Criminal damage and arson,Suspect charged
+3215,December,Wandsworth,Criminal damage and arson,Offender given a caution
+3216,December,Wandsworth,Criminal damage and arson,Offender given a caution
+3217,December,Wandsworth,Criminal damage and arson,Suspect charged
+3218,December,Wandsworth,Criminal damage and arson,Suspect charged
+3219,December,Wandsworth,Drugs,Local resolution
+3220,December,Wandsworth,Drugs,Offender given a caution
+3221,December,Wandsworth,Drugs,Offender given penalty notice
+3222,December,Wandsworth,Drugs,Local resolution
+3223,December,Wandsworth,Drugs,Suspect charged
+3224,December,Wandsworth,Drugs,Offender given penalty notice
+3225,December,Wandsworth,Drugs,Offender given penalty notice
+3226,December,Wandsworth,Drugs,Local resolution
+3227,December,Wandsworth,Drugs,Offender given a drugs possession warning
+3228,December,Wandsworth,Drugs,Suspect charged
+3229,December,Wandsworth,Drugs,Local resolution
+3230,December,Wandsworth,Drugs,Offender given penalty notice
+3231,December,Wandsworth,Drugs,Local resolution
+3232,December,Wandsworth,Drugs,Local resolution
+3233,December,Wandsworth,Drugs,Suspect charged
+3234,December,Wandsworth,Drugs,Local resolution
+3235,December,Wandsworth,Drugs,Local resolution
+3236,December,Wandsworth,Drugs,Local resolution
+3237,December,Wandsworth,Drugs,Local resolution
+3238,December,Wandsworth,Drugs,Local resolution
+3239,December,Wandsworth,Drugs,Suspect charged
+3240,December,Wandsworth,Drugs,Suspect charged
+3241,December,Wandsworth,Drugs,Local resolution
+3242,December,Wandsworth,Drugs,Suspect charged
+3243,December,Wandsworth,Drugs,Local resolution
+3244,December,Wandsworth,Drugs,Suspect charged
+3245,December,Wandsworth,Drugs,Local resolution
+3246,December,Wandsworth,Drugs,Local resolution
+3247,December,Wandsworth,Drugs,Local resolution
+3248,December,Wandsworth,Drugs,Offender given penalty notice
+3249,December,Wandsworth,Possession of weapons,Offender given a caution
+3250,December,Wandsworth,Possession of weapons,Suspect charged
+3251,December,Wandsworth,Possession of weapons,Offender given a caution
+3252,December,Wandsworth,Public order,Offender given a caution
+3253,December,Wandsworth,Public order,Local resolution
+3254,December,Wandsworth,Robbery,Suspect charged
+3255,December,Wandsworth,Shoplifting,Suspect charged
+3256,December,Wandsworth,Vehicle crime,Suspect charged
+3257,December,Wandsworth,Violence,Suspect charged
+3258,December,Wandsworth,Violence,Suspect charged
+3259,December,Wandsworth,Violence,Offender given a caution
+3260,December,Wandsworth,Violence,Suspect charged
+3261,December,Wandsworth,Violence,Suspect charged
+3262,December,Wandsworth,Violence,Suspect charged
+3263,December,Wandsworth,Violence,Suspect charged
+3264,December,Wandsworth,Violence,Suspect charged
+3265,December,Wandsworth,Violence,Local resolution
+3266,December,Wandsworth,Violence,Suspect charged
+3267,December,Wandsworth,Violence,Local resolution
+3268,December,Westminster,Bicycle theft,Local resolution
+3269,December,Westminster,Burglary,Suspect charged
+3270,December,Westminster,Burglary,Suspect charged
+3271,December,Westminster,Burglary,Suspect charged
+3272,December,Westminster,Criminal damage and arson,Local resolution
+3273,December,Westminster,Drugs,Local resolution
+3274,December,Westminster,Drugs,Local resolution
+3275,December,Westminster,Drugs,Local resolution
+3276,December,Westminster,Drugs,Offender given a drugs possession warning
+3277,December,Westminster,Drugs,Suspect charged
+3278,December,Westminster,Drugs,Offender given penalty notice
+3279,December,Westminster,Drugs,Offender given penalty notice
+3280,December,Westminster,Drugs,Local resolution
+3281,December,Westminster,Drugs,Suspect charged
+3282,December,Westminster,Drugs,Local resolution
+3283,December,Westminster,Drugs,Offender given penalty notice
+3284,December,Westminster,Drugs,Offender given penalty notice
+3285,December,Westminster,Drugs,Local resolution
+3286,December,Westminster,Drugs,Offender given a drugs possession warning
+3287,December,Westminster,Drugs,Local resolution
+3288,December,Westminster,Drugs,Local resolution
+3289,December,Westminster,Drugs,Local resolution
+3290,December,Westminster,Drugs,Local resolution
+3291,December,Westminster,Drugs,Offender given penalty notice
+3292,December,Westminster,Drugs,Offender given penalty notice
+3293,December,Westminster,Drugs,Suspect charged
+3294,December,Westminster,Drugs,Offender given penalty notice
+3295,December,Westminster,Drugs,Offender given penalty notice
+3296,December,Westminster,Drugs,Suspect charged
+3297,December,Westminster,Drugs,Local resolution
+3298,December,Westminster,Drugs,Local resolution
+3299,December,Westminster,Drugs,Local resolution
+3300,December,Westminster,Drugs,Local resolution
+3301,December,Westminster,Drugs,Local resolution
+3302,December,Westminster,Drugs,Local resolution
+3303,December,Westminster,Drugs,Local resolution
+3304,December,Westminster,Drugs,Local resolution
+3305,December,Westminster,Drugs,Local resolution
+3306,December,Westminster,Drugs,Local resolution
+3307,December,Westminster,Drugs,Local resolution
+3308,December,Westminster,Drugs,Suspect charged
+3309,December,Westminster,Drugs,Suspect charged
+3310,December,Westminster,Drugs,Suspect charged
+3311,December,Westminster,Drugs,Local resolution
+3312,December,Westminster,Drugs,Local resolution
+3313,December,Westminster,Drugs,Local resolution
+3314,December,Westminster,Drugs,Suspect charged
+3315,December,Westminster,Drugs,Investigation complete; no suspect identified
+3316,December,Westminster,Drugs,Local resolution
+3317,December,Westminster,Drugs,Local resolution
+3318,December,Westminster,Drugs,Local resolution
+3319,December,Westminster,Drugs,Local resolution
+3320,December,Westminster,Drugs,Local resolution
+3321,December,Westminster,Drugs,Local resolution
+3322,December,Westminster,Drugs,Local resolution
+3323,December,Westminster,Drugs,Local resolution
+3324,December,Westminster,Drugs,Local resolution
+3325,December,Westminster,Drugs,Local resolution
+3326,December,Westminster,Drugs,Local resolution
+3327,December,Westminster,Drugs,Local resolution
+3328,December,Westminster,Drugs,Local resolution
+3329,December,Westminster,Drugs,Local resolution
+3330,December,Westminster,Drugs,Local resolution
+3331,December,Westminster,Drugs,Local resolution
+3332,December,Westminster,Drugs,Local resolution
+3333,December,Westminster,Drugs,Local resolution
+3334,December,Westminster,Drugs,Local resolution
+3335,December,Westminster,Drugs,Local resolution
+3336,December,Westminster,Drugs,Local resolution
+3337,December,Westminster,Drugs,Local resolution
+3338,December,Westminster,Drugs,Local resolution
+3339,December,Westminster,Drugs,Offender given a caution
+3340,December,Westminster,Drugs,Offender given a caution
+3341,December,Westminster,Drugs,Offender given a caution
+3342,December,Westminster,Drugs,Offender given a caution
+3343,December,Westminster,Drugs,Offender given a drugs possession warning
+3344,December,Westminster,Drugs,Offender given penalty notice
+3345,December,Westminster,Drugs,Suspect charged
+3346,December,Westminster,Drugs,Suspect charged
+3347,December,Westminster,Drugs,Local resolution
+3348,December,Westminster,Drugs,Local resolution
+3349,December,Westminster,Drugs,Local resolution
+3350,December,Westminster,Drugs,Suspect charged
+3351,December,Westminster,Drugs,Local resolution
+3352,December,Westminster,Drugs,Local resolution
+3353,December,Westminster,Drugs,Local resolution
+3354,December,Westminster,Drugs,Local resolution
+3355,December,Westminster,Other crime,Suspect charged
+3356,December,Westminster,Other theft,Local resolution
+3357,December,Westminster,Other theft,Suspect charged
+3358,December,Westminster,Possession of weapons,Offender given a caution
+3359,December,Westminster,Possession of weapons,Suspect charged
+3360,December,Westminster,Possession of weapons,Offender given a caution
+3361,December,Westminster,Possession of weapons,Suspect charged
+3362,December,Westminster,Possession of weapons,Suspect charged
+3363,December,Westminster,Public order,Suspect charged
+3364,December,Westminster,Robbery,Suspect charged
+3365,December,Westminster,Robbery,Suspect charged
+3366,December,Westminster,Robbery,Suspect charged
+3367,December,Westminster,Robbery,Suspect charged
+3368,December,Westminster,Robbery,Suspect charged
+3369,December,Westminster,Shoplifting,Local resolution
+3370,December,Westminster,Shoplifting,Local resolution
+3371,December,Westminster,Shoplifting,Local resolution
+3372,December,Westminster,Shoplifting,Suspect charged
+3373,December,Westminster,Shoplifting,Suspect charged
+3374,December,Westminster,Shoplifting,Suspect charged
+3375,December,Westminster,Shoplifting,Local resolution
+3376,December,Westminster,Shoplifting,Local resolution
+3377,December,Westminster,Shoplifting,Suspect charged
+3378,December,Westminster,Theft from the person,Offender given a caution
+3379,December,Westminster,Theft from the person,Suspect charged
+3380,December,Westminster,Theft from the person,Suspect charged
+3381,December,Westminster,Theft from the person,Suspect charged
+3382,December,Westminster,Theft from the person,Suspect charged
+3383,December,Westminster,Theft from the person,Suspect charged
+3384,December,Westminster,Theft from the person,Suspect charged
+3385,December,Westminster,Theft from the person,Suspect charged
+3386,December,Westminster,Violence,Suspect charged
+3387,December,Westminster,Violence,Investigation complete; no suspect identified
+3388,December,Westminster,Violence,Offender given a caution
+3389,December,Westminster,Violence,Suspect charged
+3390,December,Westminster,Violence,Offender given a caution
+3391,December,Westminster,Violence,Offender given a caution
+3392,December,Westminster,Violence,Suspect charged
