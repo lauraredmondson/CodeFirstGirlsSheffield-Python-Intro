@@ -26,11 +26,8 @@ print(book_data[0])
 # %%[Task 1: Calculating the number of books in each Genre]
 # Create an empty list called book_genres
 
-
 # 1a) Write a for loop and append each Genre to the list
 
 # 1b) Use the counter method to calculate the number of books in each genre
 
 # 1c) Plot the number of books in each genre, remember to add the import statement to the top of your file.
-
-
