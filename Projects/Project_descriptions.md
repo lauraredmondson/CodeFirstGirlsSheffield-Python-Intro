@@ -320,11 +320,15 @@ The .csv data file can be found in the CFG datasets folder on google drive.
 
 #### Analysis ideas:
 
-- Print/ plot the top 10 movies by ranking.
+- Print or plot the top 10 movies by ranking.
 
-- Plot the biggest grossing/ revenue/ budget movies
+- Plot the top 5 biggest grossing movies 
 
-- Plot the revenue data by Domestic/ Foreign/ Worldwide
+- Plot the top 5 biggest revenue movies
+
+- Plot the top 5 biggest budget movies
+
+- Choose 2 movies and make a plots of Domestic/ Foreign/ Worldwide revenue for each
 
 - Plot the top 10 movies for each genre
 
@@ -355,13 +359,13 @@ The .csv data file can be found in the CFG datasets folder on google drive.
 
 #### Analysis ideas:
 
-- What are the most common and uncommon crime types? 
-
-- Plot the number of each crime type.
+- What are the most common crime types? Plot the top 10 crimes.
 
 - What are the top crimes in each region? Plot the number of crimes by region.
 
-- How is each crime type resolved? Plot the resolution from each crime type.
+- Plot the top 5 crimes in each region. Do this for 3 regions of your choice.
+
+- How is each crime type resolved? Plot the resolution from each crime type. 
 
 #### Example code:
 ```python
@@ -392,15 +396,19 @@ The .csv data file can be found in the CFG datasets folder on google drive.
 
 #### Analysis ideas:
 
-- What are the most common and uncommon crime types? Plot the number of each crime type.
+- What are the most common crime types? Plot the number of each crime type.
 
-- What are the top crimes in each District? Plot the number of crimes by region.
+- What are the top crimes in each District? Plot the top 10 crimes by region.
+Choose 3 regions and make one plot for each.
 
 - How is each crime type resolved? Plot the resolution from each crime type.
+Choose 3 crimes and make one plot for each.
 
 - Which days of the week are crimes most and least likely to occur?
+Plot the total number of crimes for each day.
 
 - Which times of the day are crimes most and least likely to occur?
+Plot the total number of crimes for each time of day.
 
 #### Example code:
 ```python
@@ -482,14 +490,14 @@ The .csv data file can be found in the CFG datasets folder on google drive.
 
 #### Analysis ideas:
 
-- Print/ plot the top 10 food producers in the world.
-
-- Plot the top food producers for each food type
-
 - Create a program that allows users to search for a country and food type,
 then return the amount produced by that country
 
-- Plot the top food producers by region (eg. Asia, Europe)
+- Plot the top 10 food producers in the world, showing how much food they produce in total.
+
+- Plot the top food producers for each food type. Choose 3 types and make a plot for each.
+
+- Plot the top food producers by region (eg. Asia, Europe).
 
 #### Example code:
 ```python
@@ -521,6 +529,8 @@ The .csv data file can be found in the CFG datasets folder on google drive.
 
 #### Analysis ideas:
 
+- Create a program that allows users to search for a country and return the happiness score
+
 - Print/ plot the top 10 happy countries for each year
 
 - Print/ plot the bottom 10 happy countries for each year
@@ -528,8 +538,6 @@ The .csv data file can be found in the CFG datasets folder on google drive.
 - Show the differences (increases/ decreases) between happiness scores for each country
 between 2015 and 2016
 
-- Create a program that allows users to search for a country 
-and return the happiness score
 
 #### Example code for 2016 file
 ```python
