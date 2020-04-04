@@ -247,11 +247,34 @@ Here are a few ideas for extending the project beyond the required tasks. These 
 suggestions, feel free to come up with your own ideas and extend the program however you
 want.
 
-- Save the results to a file
-
-- Filter the recipes based on rating
+- Save the search results to a text file (Titles, URLs, Ingredients list)
 
 - Ask the user additional questions to decide which recipe they should choose, for example, dietary requirements
+
+##### How to use additional requirements in the search
+
+###### Dietary
+In the free API, you can use the following diet labels:
+balanced, high-protein, low-carb, low-fat
+
+You can query a dietary requirement using by adding ```&diet={}```
+
+```python
+result = requests.get('https://api.edamam.com/search?q={}&diet={}&
+                        app_id={}&app_key={}'.format(ingredient, diet, api_id, api_key))
+```
+
+###### Health
+In the free API, you can use the following health labels:
+vegan, vegetarian, sugar-conscious, peanut-free, tree-nut-free,  alcohol-free
+
+You can query a dietary requirement using by adding ```&health={}```
+```python
+result = requests.get('https://api.edamam.com/search?q={}&health={}&
+                        app_id={}&app_key={}'.format(ingredient, health, api_id, api_key))
+```
+
+Please note that some filters such as dietType and CuisineType are not available. 
 
 #### Example Code
 In this section you will find some example code to complete the required tasks. You can use
