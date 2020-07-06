@@ -60,3 +60,36 @@ jupyter-notebook |      or http://127.0.0.1:8888/?token=c5abd1bcdfbb9f70d26eed5a
 
 Unlike Method 1 which opens a browser automatically, you need to copy the URL beginning with `http://127.0.0.1:8888` in your browser instead
 to see the same Jupyter user interface.
+
+## Converting documents to PDF (Slides and Homework)
+
+### Convert Slides
+Using nbconvert (from https://rise.readthedocs.io/en/stable/exportpdf.html)
+
+Generate the slides and serve them using nbconvert:
+
+```bash
+jupyter nbconvert --to slides your_talk.ipynb --post serve
+```
+It opens up a webpage in the browser at http://127.0.0.1:8000/your_talk.slides.html#/
+
+Add ?print-pdf to the query string as http://127.0.0.1:8000/your_talk.slides.html?print-pdf
+Note that you need to remove the # at the end. The page will render the slides vertically.
+
+Save to PDF in Chrome using the print option:
+
+Open the in-browser print dialog (Cmd/Ctrl + P).
+Change the Destination setting to Save as PDF.
+Change the Layout to Landscape.
+Change the Margins to None.
+Enable the Background graphics option.
+Click Save.
+
+## Create homework/ solutions document
+Download pandoc & wkhtmltopdf (need to add wkgtmltopdf to path)
+
+navigate to folder where the file is located
+
+``` bash
+pandoc -t html --css stylesheet.css {filename}.md -o {output filename}.pdf -V margin-top=20 -V margin-left=20 -V margin-right=20 -V margin-bottom=20
+```
