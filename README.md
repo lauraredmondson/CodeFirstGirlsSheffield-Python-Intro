@@ -79,10 +79,15 @@ Note that you need to remove the # at the end. The page will render the slides v
 Save to PDF in Chrome using the print option:
 
 Open the in-browser print dialog (Cmd/Ctrl + P).
+
 Change the Destination setting to Save as PDF.
+
 Change the Layout to Landscape.
+
 Change the Margins to None.
+
 Enable the Background graphics option.
+
 Click Save.
 
 ## Create homework/ solutions document
